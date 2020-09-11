@@ -6,7 +6,7 @@ Vicki Langer (@vicki_langer)
 
 # TODO: add more nouns
 
-tweet_nouns = [
+nouns = [
     # animals
     'cat',
     'dog',
@@ -18,6 +18,7 @@ tweet_nouns = [
     'snek',
     'spider',
     'lemur',
+    'kitteh',
     'betta fish',
     'antelope',
 
