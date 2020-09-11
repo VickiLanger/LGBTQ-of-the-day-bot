@@ -1,5 +1,5 @@
 '''
-get_tweets.py: grab a random tweet
+get_tweets.py: mash together a random tweet
 10 September 2020
 Vicki Langer (@vicki_langer)
 '''
