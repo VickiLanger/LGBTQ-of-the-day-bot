@@ -10,7 +10,7 @@ import tweepy
 from os import environ
 
 from get_tweet import get_tweet
-from get_reply import get_reply
+# from get_reply import get_reply
 
 
 consumer_key = environ['consumer_key']
@@ -30,16 +30,16 @@ def authenticate_api():
 
 def main():
     api = authenticate_api()
-    reply_with = get_reply()
+    #reply_with = get_reply()
 
     print("finding a tweet...")
     tweet = get_tweet()
     print("chose tweet: " + tweet)
     tweet = api.update_status(tweet)  # variable used later for reply to this tweet
     print('tweet has been tweeted')
-    api.update_status(status=reply_with, in_reply_to_status_id=tweet.id, auto_populate_reply_metadata=True)
-    print('chose reply:' + reply_with)
-    print('reply has been tweeted')
+    #api.update_status(status=reply_with, in_reply_to_status_id=tweet.id, auto_populate_reply_metadata=True)
+    #print('chose reply:' + reply_with)
+    #print('reply has been tweeted')
 
 
 main()
