@@ -7,7 +7,27 @@ Vicki Langer (@vicki_langer)
 # TODO: add more nouns
 
 tweet_nouns = [
+    # animals
     'cat',
     'dog',
+    'elephant',
+    'emu',
+    'bat',
+    'sloth',
+    'danger noodle',
+    'snek',
+    'spider',
+    'lemur',
+    'betta fish',
+    'antelope',
+
+    # clothing items
     'flannel shirt',
+    'bandana',
+    'boots',
+
+    # foods
+    'pizza',
+    'chicken noodle soup',
+    'protien shake',
 ]
