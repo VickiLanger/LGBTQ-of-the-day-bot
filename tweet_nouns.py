@@ -26,9 +26,11 @@ nouns = [
     'flannel shirt',
     'bandana',
     'boots',
+    'wallet',
 
     # foods
     'pizza',
     'chicken noodle soup',
     'protien shake',
+    'tuna',
 ]
