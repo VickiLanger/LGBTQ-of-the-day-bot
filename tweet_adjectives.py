@@ -11,6 +11,10 @@ tweet_adjectives = [
     'smelly',
     'beautiful',
 
+    # sizes
+    'tiny',
+    'enormous',
+
     # colors
     'red',
     'yellow',
