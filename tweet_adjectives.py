@@ -6,7 +6,7 @@ Vicki Langer (@vicki_langer)
 
 # TODO: add more adjectives
 
-tweet_adjectives = [
+adjectives = [
     'funky',
     'smelly',
     'beautiful',

@@ -6,10 +6,12 @@ Vicki Langer (@vicki_langer)
 
 from random import choice
 
-from tweets import TWEETS
+from tweet_nouns import nouns
+from tweet_adjectives import adjectives
+from tweet_labels import labels
 
 
 def get_tweet():
-    tweet_to_send = choice(TWEETS)
+    tweet_to_send = "today's queerness is a " + choice(labels) + " " + choice(adjectives) + " " + choice(nouns)
 
     return tweet_to_send
