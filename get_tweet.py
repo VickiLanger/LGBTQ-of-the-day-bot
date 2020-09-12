@@ -12,6 +12,6 @@ from tweet_labels import labels
 
 
 def get_tweet():
-    tweet_to_send = "today's queerness is a " + choice(labels) + " " + choice(adjectives) + " " + choice(nouns)
+    tweet_to_send = "today's queerness is a " + choice(adjectives) + " " + choice(labels) + " " + choice(nouns)
 
     return tweet_to_send
