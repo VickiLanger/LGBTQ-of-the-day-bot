@@ -10,8 +10,12 @@ from tweet_nouns import nouns
 from tweet_adjectives import adjectives
 from tweet_labels import labels
 
+adjective = choice(adjectives)
+label = choice(labels)
+noun = choice(nouns)
+
 
 def get_tweet():
-    tweet_to_send = "today's queerness is a " + choice(adjectives) + " " + choice(labels) + " " + choice(nouns)
+    tweet_to_send = "today's queerness is a " + adjective + " " + label + " " + noun
 
     return tweet_to_send
