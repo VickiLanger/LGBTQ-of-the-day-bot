@@ -5,6 +5,7 @@ Vicki Langer (@vicki_langer)
 '''
 
 # TODO: add more nouns
+# NOTE: nouns should be singular (e.g. 'boot' not 'boots')
 
 nouns = [
     # animals
@@ -52,7 +53,7 @@ nouns = [
     'flannel shirt',
     'bandana',
     'kippah',
-    'boots 🥾',
+    'boot 🥾',
     'wallet',
     'earmuffs',
     'hijab',
@@ -60,7 +61,7 @@ nouns = [
     'handbag 👛',
     'head scarf',
     'haltertop',
-    'house shoes',
+    'house shoe',
     'caftan',
     'ascot',
     'crop top',
@@ -119,7 +120,7 @@ nouns = [
     'fax machine',
     'CRT computer monitor',
     'answering machine',
-    'wired landlines',
+    'wired landline',
     'pagers/beeper',
     'rotary telephone',
     'flip phones',
