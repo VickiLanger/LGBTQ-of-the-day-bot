@@ -16,6 +16,6 @@ noun = choice(nouns)
 
 
 def get_tweet():
-    tweet_to_send = "today's queerness is a " + adjective + " " + label + " " + noun
+    tweet_to_send = f"today's queerness is a {adjective} {label} {noun}"
 
     return tweet_to_send
