@@ -23,8 +23,8 @@ events = [
     ("date", "title", "reference"),
 ]
 
-TODO: why did tweet_historicat_event() send a regular get_tweet.py tweet?
-TODO: line 20, TypeError: 'tuple' object is not callable
+# TODO: why did tweet_historicat_event() send a regular get_tweet.py tweet?
+# TODO: line 20, TypeError: 'tuple' object is not callable
 
 def tweet_historicat_event():
     api = authenticate_api()
