@@ -24,7 +24,7 @@ events = [
 ]
 
 
-def main():
+def tweet_historicat_event():
     api = authenticate_api()
     # check events list for date that matches today's date
     count = 0
@@ -40,4 +40,4 @@ def main():
             print('tweet accomplished')
 
 
-main()
+tweet_historicat_event()
