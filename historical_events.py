@@ -6,7 +6,7 @@ Vicki Langer (@vicki_langer)
 
 # TODO: add more events, their dates, and a reference link
 
-import datetime
+from datetime import date
 
 from tweet import authenticate_api
 
@@ -23,18 +23,19 @@ events = [
     ('date', 'title', 'reference'),
 ]
 
+
 # TODO: why did tweet_historicat_event() send a regular get_tweet.py tweet?
-# TODO: line 20, TypeError: 'tuple' object is not callable
+
 
 def tweet_historicat_event():
     api = authenticate_api()
     # check events list for date that matches today's date
     count = 0
     for event in events:
-        date = events[count][0]  # get date from 1st element in tuple from list
-        today = datetime.now()
+        event_date = events[count][0]  # get date from 1st element in tuple from list
+        today = date.today()
         count = count + 1  # save the current iteration in a variable
-        if date == today:  # only tweet if date is today
+        if event_date == today:  # only tweet if date is today
             title = events[count][1]  # get date from 2nd element in tuple from list
             reference_link = events[count][2]  # get date from 3rd element in tuple from list
             history_tweet = f"This day in LGBTQ history: {title}\n\n{reference_link}"
