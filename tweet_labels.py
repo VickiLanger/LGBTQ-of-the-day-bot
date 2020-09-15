@@ -1,5 +1,5 @@
 '''
-tweet_labels.py: list of labels used to build tweet
+tweet_labels.py: list of labels used to build tweet.py
 11 September 2020
 Vicki Langer (@vicki_langer)
 '''
