@@ -37,8 +37,8 @@ def tweet_historicat_event():
         if date == today:  # only tweet if date is today
             title = events[count][1]  # get date from 2nd element in tuple from list
             reference_link = events[count][2]  # get date from 3rd element in tuple from list
-            tweet = f"This day in LGBTQ history: {title}\n\n{reference_link}"
-            tweet = api.update_status(tweet)
+            history_tweet = f"This day in LGBTQ history: {title}\n\n{reference_link}"
+            history_tweet = api.update_status(history_tweet)
             print('tweet accomplished')
 
 
