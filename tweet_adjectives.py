@@ -130,7 +130,7 @@ adjectives = [
     'faint',
     'hoarse',
     'husky',
-    'load',
+    'loud',
     'muffled',
     'mute',
     'noisy',
