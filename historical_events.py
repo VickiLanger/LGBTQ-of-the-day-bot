@@ -18,7 +18,7 @@ events = [
     ('2011-09-20', 'Repeal of DADT', 'https://www.americanprogress.org/issues/lgbtq-rights/reports/2012/09/20/38764/the-repeal-of-dont-ask-dont-tell-1-year-later/'),
     ('1955-12-20', 'Frank Kameny is fired from his job as an astronomer in the United States Army’s Map Service in Washington, D.C. because of his homosexuality. A few days later he is blacklisted from seeking federal employment. ', 'http://www.thelavendereffect.org/2013/12/20/december-20-in-lgbtq-history-2/'),
     # ('1997-12-17', 'In New Jersey, same-sex couples are given the right to jointly adopt children.', 'reference'),
-    ('2019-09-15', 'this is a test of the "this day in queer history" tweets', 'https://twitter.com/vicki_langer/status/1305686553927315459?s=20'),
+    ('2019-09-16', 'this is a test of the "this day in queer history" tweets', 'https://twitter.com/vicki_langer/status/1305686553927315459?s=20'),
     ('date', 'title', 'reference'),
     ('date', 'title', 'reference'),
 ]
@@ -40,7 +40,7 @@ def tweet_historicat_event():
             title = events[count][1]  # get date from 2nd element in tuple from list
             reference_link = events[count][2]  # get date from 3rd element in tuple from list
             history_tweet = f"This day in LGBTQ history: {title}\n\n{reference_link}"
-            history_tweet = api.update_status(history_tweet)
+            api.update_status(history_tweet)
             print('tweet accomplished')
 
 
