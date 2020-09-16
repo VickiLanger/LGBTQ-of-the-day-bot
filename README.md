@@ -8,7 +8,7 @@
 [![closed pull requests](https://img.shields.io/github/issues-pr-closed/VickiLanger/Queer-of-the-day-bot.svg)](https://github.com/VickiLanger/Queer-of-the-day-bot/pulls?q=is%3Apr+is%3Aclosed)
 [![GitHub contributors](https://img.shields.io/github/contributors/VickiLanger/Queer-of-the-day-bot.svg)](https://GitHub.com/VickiLanger/Queer-of-the-day-bot/graphs/contributors/)
 
-[Vicki](https://twitter.com/vicki_langer) wrote this about [Building the Code Question Bot](https://dev.to/vickilanger/Queer-of-the-day-bot-42io)
+
 
 ## Mission
 Share gooofiness in regards to LGBTQ labels, then have a followup tweet to define the label. Also have a "this day in queer history" set of tweets
@@ -17,7 +17,7 @@ Share gooofiness in regards to LGBTQ labels, then have a followup tweet to defin
 
 If you would like to contribute, feel free to make a pull request.
 
-First time? I suggest starting with adding a question to questions.py. Check out [issue #5](https://github.com/VickiLanger/Queer-of-the-day-bot/issues/5) for more details.
+First time? I suggest starting with adding a some nouns to `tweet_nouns.py`. Check out [issue #3 to add nouns](https://github.com/VickiLanger/Queer-of-the-day-bot/issues/3) for more details.
 
 If you need more of a step-by-step, skim through [this article about making your first contribution](https://dev.to/vickilanger/open-up-to-open-source-contributing-5hla).
 
@@ -29,8 +29,8 @@ All contributions are greatly appreciated.
 |Name|Contribution|GitHub|Twitter|
 |--|--|--|--|
 | Vicki Langer | the creator | https://github.com/VickiLanger | https://twitter.com/Vicki_Langer |
-| Your Name | Landing page/typos | GitHub link | twitter link|
-| Your Name | Added Questions | GitHub link | twitter link|
+| Your Name | Fixed typos and added events | GitHub link | twitter link|
+| Your Name | Added nouns and events | GitHub link | twitter link|
 
 If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
 ```markdown
