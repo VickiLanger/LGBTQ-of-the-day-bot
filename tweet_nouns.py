@@ -159,7 +159,7 @@ nouns = [
     'PS Vita',
 
     # goofy things
-    # NOTE: must make sense after "{adjective} {label}" (exmple: tiny queer...)
+    # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
     'handdrawn picture of a family hanging in the The Louvre',
     'child asking "why" for the fiftieth time',
     'mitten still on the ground from last winter',
@@ -172,4 +172,5 @@ nouns = [
     'subscription box of cat toys',
     'outdoor @OnePeloton',
     'treadmill, but only for using outside',
+    'cake that perfectly resembles an intricate knitted blanket'
 ]
