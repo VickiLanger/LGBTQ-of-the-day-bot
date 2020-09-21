@@ -18,6 +18,11 @@ labels = [
     'heterosexual',
     'heteroflexible',
     'queer',
+    'apothisexual',
+    'proculsexual',
+    'fraysexual',
+    'reciprosexual',
+    'autochorisexual',
 
     # gender feels
     'demiboy',
@@ -36,6 +41,10 @@ labels = [
     'polygender',
     'genderfluid',
     'novigender',
+    'andorgynous',
+    'intersex',
+    'netrois',
+    'trigender',
 
     # romantic feels
     'demiromantic',
@@ -43,5 +52,6 @@ labels = [
     'biromantic',
     'panromantic',
     'grayromantic',
+    'lithromantic',
 
     ]

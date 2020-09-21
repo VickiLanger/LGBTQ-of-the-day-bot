@@ -107,7 +107,6 @@ nouns = [
     'mango',
     'macaroni and cheese',
     'gefilte fish',
-    'unopened can of tuna',
 
     # computer things
     'laptop',
@@ -160,7 +159,7 @@ nouns = [
 
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
-    'handdrawn picture of a family hanging in the The Louvre',
+    'handdrawn picture of a stick family hanging in the The Louvre',
     'child asking "why" for the fiftieth time',
     'mitten still on the ground from last winter',
     'pipe made out of an apple',
@@ -173,4 +172,5 @@ nouns = [
     'outdoor @OnePeloton',
     'treadmill, but only for using outside',
     'cake that perfectly resembles an intricate knitted blanket'
+    '3 day old opened can of tuna',
 ]
