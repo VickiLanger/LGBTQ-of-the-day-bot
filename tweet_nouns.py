@@ -171,6 +171,6 @@ nouns = [
     'subscription box of cat toys',
     'outdoor @OnePeloton',
     'treadmill, but only for using outside',
-    'cake that perfectly resembles an intricate knitted blanket'
+    'cake that perfectly resembles an intricate knitted blanket',
     '3 day old opened can of tuna',
 ]
