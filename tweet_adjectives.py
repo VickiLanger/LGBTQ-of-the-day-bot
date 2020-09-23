@@ -94,6 +94,7 @@ adjectives = [
     'murky',
     'cracked',
     'quaint',
+    'gorgeous',
 
     # shapes
     'blobby',
