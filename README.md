@@ -13,6 +13,8 @@
 ## Mission
 Share gooofiness in regards to LGBTQ labels, then have a followup tweet to define the label. Also have a "this day in queer history" set of tweets
 
+![Screeshot of tweets: "today's queerness is a high af genderqueer Sega" "today's queerness is a biromatic flannel shirt" "today's queerness is a blobby demigirl N64"](https://repository-images.githubusercontent.com/294564715/007d7100-f804-11ea-88b4-d5cc00092fcb)
+
 ## Contributing
 
 If you would like to contribute, feel free to make a pull request.
