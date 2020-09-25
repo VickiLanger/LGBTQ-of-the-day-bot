@@ -62,6 +62,7 @@ nouns = [
     'head scarf',
     'haltertop',
     'house shoe',
+    'neon fanny pack',
     'caftan',
     'ascot',
     'crop top',
@@ -109,6 +110,7 @@ nouns = [
     'mango',
     'macaroni and cheese',
     'gefilte fish',
+    'ham sandwich',
 
     # computer things
     'laptop',
@@ -139,6 +141,7 @@ nouns = [
     'walkman',
     'betamax',
     'dot-matrix printer',
+    'clicky mechanical keyboard',
 
     # video game consoles
     'Atari',
@@ -174,11 +177,14 @@ nouns = [
     'treadmill, but only for using outside',
     'cake that perfectly resembles an intricate knitted blanket',
     '3 day old opened can of tuna',
-
-    # things from vibe
     'blurry photo of feet from an @OnlyFans subscription',
-    'null buss',
+    'null bus',
     'null haus',
     'ladle',
     'pink bra strap',
+    'mysterious piñata hanging in a hallway',
+    'automatic kitty litter box',
+    'horribly biased machine learning code out to screw over the most vulnerable',
+    'twitter meme trend',
+    'unintended consequence of a homogenous software engineering team'
 ]
