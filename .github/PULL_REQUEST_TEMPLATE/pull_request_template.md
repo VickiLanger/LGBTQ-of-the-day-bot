@@ -6,3 +6,7 @@ Changes proposed in this pull request (eg more questions, typos, added answers, 
 -
 
 Other details (if needed):
+
+
+---
+Have you followed the bot on [Twitter](www.twitter.com/LGBTQotd)? 
