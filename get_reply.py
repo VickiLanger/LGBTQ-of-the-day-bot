@@ -8,12 +8,17 @@ from random import choice
 
 # TODO: add more replies
 
-REPLIES = (
-    'Here\'s our question! \nStick around, we\'ll have another in 3 hours!',
-)
+REPLIES = { 
+    'gay': 'definition goes here',
+    '': '',
+    '': '',
+    '': '',
+    '': '',
+}
 
 
 def get_reply():
+    #if label == 
     reply_to_tweet = choice(REPLIES)
 
     return reply_to_tweet
