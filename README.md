@@ -30,13 +30,13 @@ All contributions are greatly appreciated.
 
 |Name|Contribution|GitHub|Twitter|
 |--|--|--|--|
-| Vicki Langer | the creator | https://github.com/VickiLanger | https://twitter.com/Vicki_Langer |
-| Your Name | Fixed typos and added events | GitHub link | twitter link|
-| Your Name | Added nouns and events | GitHub link | twitter link|
+| Vicki Langer | the creator/maintainer | https://github.com/VickiLanger | https://twitter.com/Vicki_Langer |
+| Ayush Modi | [A vs An article determiner](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/9)] | https://github.com/hot9cups | https://www.linkedin.com/in/ayush-modi-17012000/ |
+| Your Name | Added nouns and events | GitHub link | link |
 
 If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
 ```markdown
-| Your Name | What you did | GitHub link | social link|
+| Your Name | What you did | GitHub link | social link |
 ```
 
 #### Designers and Front Enders
