@@ -1,6 +1,6 @@
 # Related Issue #
 
-## Changes proposed in this pull request (eg more questions, typos, added answers, etc):
+## Changes proposed in this pull request (eg more nouns/adjectives/labels, typos, add features, etc):
 -
 -
 -
