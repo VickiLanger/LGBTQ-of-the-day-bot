@@ -10,12 +10,15 @@ from tweet_nouns import nouns
 from tweet_adjectives import adjectives
 from tweet_labels import labels
 
+from article_determiner import get_indefinite_article
+
 adjective = choice(adjectives)
 label = choice(labels)
 noun = choice(nouns)
+article = get_indefinite_article(adjective)
 
 
 def get_tweet():
-    tweet_to_send = f"today's queerness is a {adjective} {label} {noun}"
+    tweet_to_send = f"today's queerness is {article} {adjective} {label} {noun}"
 
     return tweet_to_send
