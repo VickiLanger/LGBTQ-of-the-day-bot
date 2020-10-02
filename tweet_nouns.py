@@ -48,6 +48,13 @@ nouns = [
     'California condor',
     'lynx',
     'otter 🦦',
+    'swan 🦢',
+    'cow 🐄',
+    'cat 🐈',
+    'owl 🦉',
+    'flog 🐸',
+    'shark 🦈',
+    'penguin 🐧',
 
     # clothing items
     'flannel shirt',
@@ -72,6 +79,15 @@ nouns = [
     'windbreaker',
     'kimono',
     'helmet',
+    'sock 🧦',
+    'belt',
+    't-shirt 👕',
+    'top hat 🎩',
+    'sneakers',
+    'slipper',
+    'blue jeans 👖',
+    'sunglass 🕶️',
+    'bikini 👙',
 
     # foods
     'pizza',
@@ -111,6 +127,14 @@ nouns = [
     'macaroni and cheese',
     'gefilte fish',
     'ham sandwich',
+    'sushi 🍣',
+    'currywurst',
+    'fish and chips',
+    'waffle',
+    'guacamole 🥑',
+    'apple pie 🥧',
+    'onion soup',
+    'popcorn 🍿',
 
     # computer things
     'laptop',
@@ -121,6 +145,10 @@ nouns = [
     'wireless mouse',
     'wireless touchpad',
     'printer',
+    'external hard disk',
+    'pen drive',
+    'mouse pad',
+    'hub usb',
 
     # old tech
     'iMac G3',

@@ -32,6 +32,7 @@ All contributions are greatly appreciated.
 |--|--|--|--|
 | Vicki Langer | the creator/maintainer | https://github.com/VickiLanger | https://twitter.com/Vicki_Langer |
 | Ayush Modi | [A vs An article determiner](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/9) | https://github.com/hot9cups | https://www.linkedin.com/in/ayush-modi-17012000/ |
+| Franciélly Ferreira | [Add new nouns to tweet](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/10) | https://github.com/franciellyferreira | https://www.linkedin.com/in/franciellyferreira/ |
 | Your Name | Added nouns and events | GitHub link | link |
 
 If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
