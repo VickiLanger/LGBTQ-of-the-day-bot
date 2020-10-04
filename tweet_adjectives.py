@@ -46,6 +46,9 @@ adjectives = [
     'obsolete',
     'honest',
     'puffy',
+    'witty',
+    'lively',
+    'tragic',
 
     # touch feels
     'fuzzy',
@@ -95,6 +98,11 @@ adjectives = [
     'cracked',
     'quaint',
     'gorgeous',
+    'mismatched',
+    'exhausted',
+    'lanky',
+    'spry',
+    'chubby',
 
     # shapes
     'blobby',
@@ -111,6 +119,7 @@ adjectives = [
     'curved',
     'crooked',
     'circular',
+    'thick',
 
     # tastes
     'bitter',
@@ -125,6 +134,7 @@ adjectives = [
     'tangy',
     'minty',
     'lemony',
+    'savory',
 
     # sounds
     'deafening',
@@ -141,6 +151,11 @@ adjectives = [
     'resonant',
     'melodic',
     'moaning',
+    'whistling',
+    'whirling',
+    'tonal',
+    'pitchy',
+    'psychedelic',
 
     # sizes
     'tiny',
@@ -153,6 +168,8 @@ adjectives = [
     'jumbo',
     'huge',
     'ginormous',
+    'vast',
+    'average',
 
     # colors
     'rosy',
@@ -173,5 +190,14 @@ adjectives = [
     'indigo',
     'gray',
     'dull',
-
+    'lavender',
+    'ash',
+    'ivory',
+    'fawn',
+    'mauve',
+    'moss',
+    'olive',
+    'sage',
+    'emerald',
+    'sapphire'
     ]
