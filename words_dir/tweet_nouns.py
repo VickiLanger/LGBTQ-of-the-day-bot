@@ -33,7 +33,7 @@ nouns = [
     'snek 🐍',
     'spider',
     'lemur',
-    'kitteh',
+    'kitten',
     'betta fish',
     'antelope',
     'salamander',
@@ -57,6 +57,8 @@ nouns = [
     'penguin 🐧',
     'lion 🦁',
     'horse 🐎',
+    'elephant',
+    'wolf'
 
     # clothing items
     'flannel shirt',
@@ -139,6 +141,13 @@ nouns = [
     'popcorn 🍿',
     'pho',
     'Khia sangia',
+    'chicken dinner',
+    'butter chicken',
+    'tandoori chicken',
+    'roti',
+    'naan',
+    'biryani'
+
 
     # computer things
     'laptop',
@@ -154,6 +163,7 @@ nouns = [
     'mouse pad',
     'hub usb',
     'microphone',
+    'webcam',
 
     # old tech
     'iMac G3',
@@ -175,6 +185,7 @@ nouns = [
     'betamax',
     'dot-matrix printer',
     'clicky mechanical keyboard',
+
 
     # video game consoles
     'Atari',
@@ -209,6 +220,10 @@ nouns = [
     'swamp',
     'island',
     'archipelago',
+    'breeze',
+    'wind',
+    'mountain',
+    'hill',
 
     # rpg classes\skins
     'rogue',
@@ -230,6 +245,10 @@ nouns = [
     'vampire',
     'werewolf',
     'witch',
+    'fighter',
+    'warlock',
+    'wizard',
+    'sorcerer'
 
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
@@ -262,5 +281,24 @@ nouns = [
     'castle',
     'lighthouse in the darkness',
     'graphic novel memoir',
-    'scream into the void'
+    'scream into the void',
+
+    # movie genre
+    'thriller',
+    'comedy',
+    'romance',
+    'horror',
+
+    # music genre
+    'rock',
+    'pop',
+    'alt',
+    'techno',
+    'postrock',
+    'blues',
+    'grassroots',
+    'swing',
+    'indie',
+    'metal',
+    'punk'
 ]

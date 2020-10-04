@@ -23,6 +23,9 @@ labels = [
     'fraysexual',
     'reciprosexual',
     'autochorisexual',
+    'androsexual',
+    'gynosexual',
+    'homosexual',
 
     # gender feels
     'demiboy',
@@ -39,6 +42,8 @@ labels = [
     'genderqueer',
     'bigender',
     'polygender',
+    'graygender',
+    'pangender',
     'genderfluid',
     'novigender',
     'andorgynous',
