@@ -35,6 +35,10 @@ All contributions are greatly appreciated.
 | Franciélly Ferreira | [Add new nouns to tweet](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/10) | https://github.com/franciellyferreira | https://www.linkedin.com/in/franciellyferreira/ |
 | Your Name | Added nouns and events | GitHub link | link |
 | Ayush Modi | A vs An article determiner | https://github.com/hot9cups | https://www.linkedin.com/in/ayush-modi-17012000 |
+| Stephen | Added nouns and adjectives | GitHub link | social link |
+| Stephen Bowers | Added nouns and adjectives | https://github.com/stephenbowers | thatstephenbowers.com |
+| Tim Peng | Added nouns | https://github.com/typg93 | social link |
+| Your Name | What you did | GitHub link | social link |
 
 If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
 ```markdown
