@@ -135,6 +135,8 @@ nouns = [
     'apple pie 🥧',
     'onion soup',
     'popcorn 🍿',
+    'pho',
+    'Khia sangia',
 
     # computer things
     'laptop',
