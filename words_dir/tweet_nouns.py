@@ -57,6 +57,7 @@ nouns = [
     'penguin 🐧',
     'lion 🦁',
     'horse 🐎',
+    'duck 🦆',
     'rhino',
     'trilobite',
     'velociraptor',
@@ -299,10 +300,10 @@ nouns = [
     'wheelchair-bomb',
     'a mysterious burrito with no owner',
 
-
     # movie genre
     'thriller movie',
     'comedy movie',
     'romance movie',
     'horror movie',
+
 ]
