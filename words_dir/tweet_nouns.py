@@ -57,6 +57,9 @@ nouns = [
     'penguin 🐧',
     'lion 🦁',
     'horse 🐎',
+    'quokka',
+    'capybara',
+    'seal,'
     'hyacinth macaw',
     'parrot' 🦜,
     'hedgehog' 🦔,
@@ -311,5 +314,4 @@ nouns = [
     'comedy movie',
     'romance movie',
     'horror movie',
-
 ]
