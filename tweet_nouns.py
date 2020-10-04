@@ -55,6 +55,8 @@ nouns = [
     'flog 🐸',
     'shark 🦈',
     'penguin 🐧',
+    'lion 🦁',
+    'horse 🐎',
 
     # clothing items
     'flannel shirt',
@@ -151,6 +153,7 @@ nouns = [
     'pen drive',
     'mouse pad',
     'hub usb',
+    'microphone',
 
     # old tech
     'iMac G3',
@@ -191,6 +194,10 @@ nouns = [
     'Nintendo DS',
     'PSP',
     'PS Vita',
+    'PS5',
+    'Xbox X',
+    'Adventure Vision',
+    'Virtual Boy',
 
     # nature
     'bolt of lightning',
