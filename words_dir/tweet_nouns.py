@@ -139,6 +139,9 @@ nouns = [
     'popcorn 🍿',
     'pho',
     'Khia sangia',
+    'banana',
+    'salmon',
+    'noodles',
 
     # computer things
     'laptop',
@@ -154,6 +157,7 @@ nouns = [
     'mouse pad',
     'hub usb',
     'microphone',
+    'desktop',
 
     # old tech
     'iMac G3',
