@@ -1,12 +1,12 @@
 # Twitter Bot [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  & Tweepy
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/VickiLanger/Queer-of-the-day-bot/fork)
-[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![contributions welcome]➡(https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/VickiLanger/Queer-of-the-day-bot/fork)
+[![Open Source Love png3]➡(https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/VickiLanger/Queer-of-the-day-bot/graphs/commit-activity)
-[![open issues](https://img.shields.io/github/issues/VickiLanger/Queer-of-the-day-bot.svg)](https://github.com/VickiLanger/Queer-of-the-day-bot/issues?q=is%3Aopen+is%3Aissue)
-[![closed pull requests](https://img.shields.io/github/issues-pr-closed/VickiLanger/Queer-of-the-day-bot.svg)](https://github.com/VickiLanger/Queer-of-the-day-bot/pulls?q=is%3Apr+is%3Aclosed)
-[![GitHub contributors](https://img.shields.io/github/contributors/VickiLanger/Queer-of-the-day-bot.svg)](https://GitHub.com/VickiLanger/Queer-of-the-day-bot/graphs/contributors/)
+[![Maintenance]➡(https://img.shields.io/badge/Maintained%3F-yes-green.svg)],(https://GitHub.com/VickiLanger/Queer-of-the-day-bot/graphs/commit-activity)
+[![open issues]➡(https://img.shields.io/github/issues/VickiLanger/Queer-of-the-day-bot.svg)],(https://github.com/VickiLanger/Queer-of-the-day-bot/issues?q=is%3Aopen+is%3Aissue)
+[![closed pull requests]➡(https://img.shields.io/github/issues-pr-closed/VickiLanger/Queer-of-the-day-bot.svg)](https://github.com/VickiLanger/Queer-of-the-day-bot/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub contributors]➡(https://img.shields.io/github/contributors/VickiLanger/Queer-of-the-day-bot.svg)](https://GitHub.com/VickiLanger/Queer-of-the-day-bot/graphs/contributors/)
 
 
 
@@ -44,14 +44,14 @@ If you've contributed and would like to add your name to this list, please follo
 ```
 
 #### Designers and Front Enders
-You're welcome to substitute dribbble, behance, instagram, or your portfolio links in the GitHub and Twitter columns. The goal is for people to be able to find you
-
+You're welcome to the substitute dribbble, behance, instagram, or your portfolio links in the GitHub and Twitter columns. The goal is for people that they should able to find youto be able to find you
+ 
 
 Reference Stuff
 ----------
 
-* [Tweepy Docs](http://www.tweepy.org/) - An easy-to-use Python library for accessing the Twitter API.
+* [Tweepy Docs]➡(http://www.tweepy.org/) - An easy-to-use Python library for accessing the Twitter API.
 
-* [Twitter Rules](https://support.twitter.com/articles/76915)
+* [Twitter Rules]➡(https://support.twitter.com/articles/76915)
 
-* [This tutorial was super helpful](https://dev.to/emcain/how-to-set-up-a-twitter-bot-with-python-and-heroku-1n39)
+* [This tutorial was super helpful]➡(https://dev.to/emcain/how-to-set-up-a-twitter-bot-with-python-and-heroku-1n39)
