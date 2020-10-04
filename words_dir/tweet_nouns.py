@@ -33,7 +33,7 @@ nouns = [
     'snek 🐍',
     'spider',
     'lemur',
-    'kitteh',
+    'kitten',
     'betta fish',
     'antelope',
     'salamander',
@@ -57,6 +57,11 @@ nouns = [
     'penguin 🐧',
     'lion 🦁',
     'horse 🐎',
+    'rhino',
+    'trilobite',
+    'velociraptor',
+    'elephant',
+    'wolf'
 
     # clothing items
     'flannel shirt',
@@ -139,6 +144,16 @@ nouns = [
     'popcorn 🍿',
     'pho',
     'Khia sangia',
+    'banana',
+    'salmon',
+    'noodles',
+    'dosa',
+    'chicken dinner',
+    'butter chicken',
+    'tandoori chicken',
+    'roti',
+    'naan',
+    'biryani'
 
     # computer things
     'laptop',
@@ -154,6 +169,10 @@ nouns = [
     'mouse pad',
     'hub usb',
     'microphone',
+    'desktop',
+    'quad-core processor',
+    'carrying bag',
+    'webcam',
 
     # old tech
     'iMac G3',
@@ -209,6 +228,12 @@ nouns = [
     'swamp',
     'island',
     'archipelago',
+    'some moss',
+    'the swamp creature',
+    'breeze',
+    'wind',
+    'mountain',
+    'hill',
 
     # rpg classes\skins
     'rogue',
@@ -230,6 +255,10 @@ nouns = [
     'vampire',
     'werewolf',
     'witch',
+    'fighter',
+    'warlock',
+    'wizard',
+    'sorcerer'
 
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
@@ -262,5 +291,18 @@ nouns = [
     'castle',
     'lighthouse in the darkness',
     'graphic novel memoir',
-    'scream into the void'
+    'scream into the void',
+    'mom in sweatpants',
+    '[Object] Object',
+    'a ray of light in the distance',
+    'the old folk tale that kept you up at night',
+    'wheelchair-bomb',
+    'a mysterious burrito with no owner',
+
+
+    # movie genre
+    'thriller movie',
+    'comedy movie',
+    'romance movie',
+    'horror movie',
 ]
