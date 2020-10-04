@@ -23,6 +23,7 @@ labels = [
     'fraysexual',
     'reciprosexual',
     'autochorisexual',
+    'homosexual',
 
     # gender feels
     'demiboy',
