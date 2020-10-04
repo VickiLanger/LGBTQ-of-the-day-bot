@@ -33,7 +33,7 @@ nouns = [
     'snek 🐍',
     'spider',
     'lemur',
-    'kitteh',
+    'kitten',
     'betta fish',
     'antelope',
     'salamander',
@@ -60,6 +60,8 @@ nouns = [
     'rhino',
     'trilobite',
     'velociraptor',
+    'elephant',
+    'wolf'
 
     # clothing items
     'flannel shirt',
@@ -142,6 +144,14 @@ nouns = [
     'popcorn 🍿',
     'pho',
     'Khia sangia',
+    'dosa',
+    'chicken dinner',
+    'butter chicken',
+    'tandoori chicken',
+    'roti',
+    'naan',
+    'biryani'
+
 
     # computer things
     'laptop',
@@ -159,6 +169,7 @@ nouns = [
     'microphone',
     'quad-core processor',
     'carrying bag',
+    'webcam',
 
     # old tech
     'iMac G3',
@@ -216,6 +227,10 @@ nouns = [
     'archipelago',
     'some moss',
     'the swamp creature',
+    'breeze',
+    'wind',
+    'mountain',
+    'hill',
 
     # rpg classes\skins
     'rogue',
@@ -237,6 +252,10 @@ nouns = [
     'vampire',
     'werewolf',
     'witch',
+    'fighter',
+    'warlock',
+    'wizard',
+    'sorcerer'
 
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
@@ -270,10 +289,17 @@ nouns = [
     'lighthouse in the darkness',
     'graphic novel memoir',
     'scream into the void',
-    'my mom in sweatpants',
+    'mom in sweatpants',
     '[Object] Object',
     'a ray of light in the distance',
     'the old folk tale that kept you up at night',
     'wheelchair-bomb',
     'a mysterious burrito with no owner',
+
+
+    # movie genre
+    'thriller movie',
+    'comedy movie',
+    'romance movie',
+    'horror movie',
 ]
