@@ -103,6 +103,8 @@ adjectives = [
     'lanky',
     'spry',
     'chubby',
+    'gross',
+    'ethereal',
 
     # shapes
     'blobby',
@@ -156,6 +158,9 @@ adjectives = [
     'tonal',
     'pitchy',
     'psychedelic',
+    'cacophonous',
+    'euphonious',
+    'soft',
 
     # sizes
     'tiny',
@@ -199,5 +204,7 @@ adjectives = [
     'olive',
     'sage',
     'emerald',
-    'sapphire'
+    'sapphire',
+    'arsenic',
+    'fallow'
     ]
