@@ -144,6 +144,9 @@ nouns = [
     'popcorn 🍿',
     'pho',
     'Khia sangia',
+    'banana',
+    'salmon',
+    'noodles',
     'dosa',
     'chicken dinner',
     'butter chicken',
@@ -151,7 +154,6 @@ nouns = [
     'roti',
     'naan',
     'biryani'
-
 
     # computer things
     'laptop',
@@ -167,6 +169,7 @@ nouns = [
     'mouse pad',
     'hub usb',
     'microphone',
+    'desktop',
     'quad-core processor',
     'carrying bag',
     'webcam',
