@@ -1,8 +1,4 @@
-'''
-tweet_adjectives.py: list of adjectives used to build tweet.py
-11 September 2020
-Vicki Langer (@vicki_langer)
-'''
+
 
 # TODO: add more adjectives
 
