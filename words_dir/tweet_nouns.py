@@ -57,6 +57,9 @@ nouns = [
     'penguin 🐧',
     'lion 🦁',
     'horse 🐎',
+    'hyacinth macaw',
+    'parrot' 🦜,
+    'Hedgehog' 🦔,
 
     # clothing items
     'flannel shirt',
@@ -143,7 +146,12 @@ nouns = [
     'tandoori chicken',
     'roti',
     'naan',
-    'biryani'
+    'biryani',
+    'taco' 🌮,
+    'croissant' 🥐,
+    'doughnut' 🍩,
+
+
 
     # computer things
     'laptop',
