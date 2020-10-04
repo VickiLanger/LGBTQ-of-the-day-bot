@@ -57,6 +57,9 @@ nouns = [
     'penguin 🐧',
     'lion 🦁',
     'horse 🐎',
+    'rhino',
+    'trilobite',
+    'velociraptor',
     'elephant',
     'wolf'
 
@@ -164,6 +167,8 @@ nouns = [
     'mouse pad',
     'hub usb',
     'microphone',
+    'quad-core processor',
+    'carrying bag',
     'webcam',
 
     # old tech
@@ -186,7 +191,6 @@ nouns = [
     'betamax',
     'dot-matrix printer',
     'clicky mechanical keyboard',
-
 
     # video game consoles
     'Atari',
@@ -221,6 +225,8 @@ nouns = [
     'swamp',
     'island',
     'archipelago',
+    'some moss',
+    'the swamp creature',
     'breeze',
     'wind',
     'mountain',
@@ -283,6 +289,13 @@ nouns = [
     'lighthouse in the darkness',
     'graphic novel memoir',
     'scream into the void',
+    'mom in sweatpants',
+    '[Object] Object',
+    'a ray of light in the distance',
+    'the old folk tale that kept you up at night',
+    'wheelchair-bomb',
+    'a mysterious burrito with no owner',
+
 
     # movie genre
     'thriller movie',
