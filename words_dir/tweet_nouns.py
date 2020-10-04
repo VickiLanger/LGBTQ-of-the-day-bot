@@ -284,21 +284,8 @@ nouns = [
     'scream into the void',
 
     # movie genre
-    'thriller',
-    'comedy',
-    'romance',
-    'horror',
-
-    # music genre
-    'rock',
-    'pop',
-    'alt',
-    'techno',
-    'postrock',
-    'blues',
-    'grassroots',
-    'swing',
-    'indie',
-    'metal',
-    'punk'
+    'thriller movie',
+    'comedy movie',
+    'romance movie',
+    'horror movie',
 ]
