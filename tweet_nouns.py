@@ -190,6 +190,38 @@ nouns = [
     'PSP',
     'PS Vita',
 
+    # nature
+    'bolt of lightning',
+    'campfire',
+    'body of water',
+    'cloud over the sun',
+    'trail in the woods',
+    'oak tree',
+    'swamp',
+    'island',
+    'archipelago',
+
+    # rpg classes\skins
+    'rogue',
+    'mage',
+    'archer',
+    'berserker',
+    'cleric',
+    'necromancer',
+    'summoner',
+    'bard',
+    'shadowknight',
+    'dragoon',
+    'fae',
+    'ghost',
+    'ghoul',
+    'infernal',
+    'mortal',
+    'queen',
+    'vampire',
+    'werewolf',
+    'witch',
+
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
     'handdrawn picture of a stick family hanging in the The Louvre',
@@ -214,5 +246,12 @@ nouns = [
     'automatic kitty litter box',
     'horribly biased machine learning code out to screw over the most vulnerable',
     'twitter meme trend',
-    'unintended consequence of a homogenous software engineering team'
+    'unintended consequence of a homogenous software engineering team',
+    'indie song about friendship',
+    'color',
+    'treekisser',
+    'castle',
+    'lighthouse in the darkness',
+    'graphic novel memoir',
+    'scream into the void'
 ]
