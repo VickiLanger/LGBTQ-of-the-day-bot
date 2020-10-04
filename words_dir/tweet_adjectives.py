@@ -199,5 +199,7 @@ adjectives = [
     'olive',
     'sage',
     'emerald',
-    'sapphire'
+    'sapphire',
+    'arsenic',
+    'fallow'
     ]
