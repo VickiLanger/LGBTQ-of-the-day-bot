@@ -120,9 +120,9 @@ adjectives = [
     'crooked',
     'circular',
     'thick',
-	'spherical',
-	'bulky',
-	'geometric'
+    'spherical',
+    'bulky',
+    'geometric'
 
     # tastes
     'bitter',
@@ -138,9 +138,9 @@ adjectives = [
     'minty',
     'lemony',
     'savory',
-	'peppery',
-	'foul',
-	'pungent'
+    'peppery',
+    'foul',
+    'pungent'
 
     # sounds
     'deafening',
@@ -162,16 +162,16 @@ adjectives = [
     'tonal',
     'pitchy',
     'psychedelic',
-	'piercing',
-	'resounding',
-	'distant',
-	'dull',
-	'harmonious',
-	'musical',
-	'hooting',
-	'nasal',
-	'scratchy',
-	'rhythmic'
+    'piercing',
+    'resounding',
+    'distant',
+    'dull',
+    'harmonious',
+    'musical',
+    'hooting',
+    'nasal',
+    'scratchy',
+    'rhythmic'
 
     # sizes
     'tiny',
