@@ -141,6 +141,7 @@ nouns = [
     'popcorn 🍿',
     'pho',
     'Khia sangia',
+    'dosa',
     'chicken dinner',
     'butter chicken',
     'tandoori chicken',
