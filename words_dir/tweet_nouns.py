@@ -57,6 +57,8 @@ nouns = [
     'penguin 🐧',
     'lion 🦁',
     'horse 🐎',
+    'elephant',
+    'wolf'
 
     # clothing items
     'flannel shirt',
@@ -139,6 +141,7 @@ nouns = [
     'popcorn 🍿',
     'pho',
     'Khia sangia',
+    'chicken dinner'
 
     # computer things
     'laptop',
@@ -230,6 +233,10 @@ nouns = [
     'vampire',
     'werewolf',
     'witch',
+    'fighter',
+    'warlock',
+    'wizard',
+    'sorcerer'
 
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
