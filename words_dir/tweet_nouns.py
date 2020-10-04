@@ -164,6 +164,9 @@ nouns = [
     'taco' 🌮,
     'croissant' 🥐,
     'doughnut' 🍩,
+    'pretzels' 🥨,
+    'bavarian beer' 🍺,
+    'congee',
 
     # computer things
     'laptop',
