@@ -57,6 +57,9 @@ nouns = [
     'penguin 🐧',
     'lion 🦁',
     'horse 🐎',
+    'rhino',
+    'trilobite',
+    'velociraptor',
 
     # clothing items
     'flannel shirt',
@@ -154,6 +157,8 @@ nouns = [
     'mouse pad',
     'hub usb',
     'microphone',
+    'quad-core processor',
+    'carrying bag',
 
     # old tech
     'iMac G3',
@@ -209,6 +214,8 @@ nouns = [
     'swamp',
     'island',
     'archipelago',
+    'some moss',
+    'the swamp creature',
 
     # rpg classes\skins
     'rogue',
@@ -262,5 +269,11 @@ nouns = [
     'castle',
     'lighthouse in the darkness',
     'graphic novel memoir',
-    'scream into the void'
+    'scream into the void',
+    'my mom in sweatpants',
+    '[Object] Object',
+    'a ray of light in the distance',
+    'the old folk tale that kept you up at night',
+    'wheelchair-bomb',
+    'a mysterious burrito with no owner',
 ]
