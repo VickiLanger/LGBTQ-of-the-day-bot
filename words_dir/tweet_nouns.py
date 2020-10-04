@@ -57,6 +57,7 @@ nouns = [
     'penguin 🐧',
     'lion 🦁',
     'horse 🐎',
+    'duck 🦆',
 
     # clothing items
     'flannel shirt',
@@ -292,5 +293,6 @@ nouns = [
     'swing',
     'indie',
     'metal',
-    'punk'
+    'punk',
+    'samba',
 ]
