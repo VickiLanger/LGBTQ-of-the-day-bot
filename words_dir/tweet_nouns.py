@@ -57,6 +57,9 @@ nouns = [
     'penguin 🐧',
     'lion 🦁',
     'horse 🐎',
+    'hyacinth macaw',
+    'parrot' 🦜,
+    'hedgehog' 🦔,
     'duck 🦆',
     'rhino',
     'trilobite',
@@ -154,7 +157,10 @@ nouns = [
     'tandoori chicken',
     'roti',
     'naan',
-    'biryani'
+    'biryani',
+    'taco' 🌮,
+    'croissant' 🥐,
+    'doughnut' 🍩,
 
     # computer things
     'laptop',
