@@ -25,6 +25,7 @@ labels = [
     'autochorisexual',
     'androsexual',
     'gynosexual',
+    'homosexual',
 
     # gender feels
     'demiboy',
