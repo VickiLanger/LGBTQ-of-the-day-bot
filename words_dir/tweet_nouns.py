@@ -102,6 +102,15 @@ nouns = [
     'blue jeans 👖',
     'sunglass 🕶️',
     'bikini 👙',
+    'jacket',
+    'bloomer',
+    'blazer',
+    'ball gown',
+    'dungaree',
+    'frock',
+    'gown',
+    'glove',
+    'hoddie',
 
     # foods
     'pizza',
@@ -167,6 +176,18 @@ nouns = [
     'pretzels 🥨',
     'bavarian beer 🍺',
     'congee',
+    'chilli baby corn',
+    'tacos',
+    'omlette',
+    'mousse',
+    'banana split',
+    'ice-cream',
+    'trifle',
+    'paav bhaji',
+    'chole bhature',
+    'idli sambhar',
+    'pomegranate',
+    'tomato soup',
 
     # computer things
     'laptop',
@@ -186,6 +207,14 @@ nouns = [
     'quad-core processor',
     'carrying bag',
     'webcam',
+    'motherboard',
+    'hard disk',
+    'audio jack',
+    'scanner',
+    'stylus pen',
+    'speaker',
+    'CPU',
+    'joystick',
 
     # old tech
     'iMac G3',
@@ -208,6 +237,9 @@ nouns = [
     'dot-matrix printer',
     'clicky mechanical keyboard',
     'steno machine',
+    'telegraph'
+    'cassette player',
+    'gramophone',
 
     # video game consoles
     'Atari',
@@ -248,6 +280,9 @@ nouns = [
     'wind',
     'mountain',
     'hill',
+    'valley',
+    'lake',
+    'moonlit sky',
 
     # rpg classes\skins
     'rogue',
@@ -319,6 +354,7 @@ nouns = [
     'romance movie',
     'horror movie',
 
+
     #grooming items
     'toothbrush',
     'toothpaste',
@@ -338,7 +374,7 @@ nouns = [
     'soap',
     'sanitary-napkin',
     'bodywash',
-    'foot massager'
+    'foot massager',
 
 
      
@@ -346,5 +382,15 @@ nouns = [
 
 
 
+
+
+    'sci-fi movie',
+    'dramatic movie',
+    'action movie',
+    'animation movie',
+    'romcom movie',
+    'historcial movie',
+    'mystery movie',
+    'adventure movie',
 
 ]
