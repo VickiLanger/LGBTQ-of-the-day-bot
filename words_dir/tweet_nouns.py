@@ -257,6 +257,24 @@ nouns = [
     'flower' 🌹,
     'sunflower' 🌻,
 
+    # classroom objects
+    'pencil',
+    'pen',
+    'eraser',
+    'ruler',
+    'sharpener',
+    'marker',
+    'liquid paper',
+    'notebook',
+    'book',
+    'scissor',
+    'pencil case',
+    'stapler',
+    'clip',
+    'highlighter',
+    'board',
+    'calculator',
+
     # rpg classes\skins
     'rogue',
     'mage',
