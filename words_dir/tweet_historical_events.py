@@ -43,10 +43,19 @@ events = {
 def tweet_historicat_event():
     api = authenticate_api()
     # check events list for date that matches today's date
+    years=[]
     today = str(date.today())
-    if today in events:  # only tweet if date is today
-     today_event =  today + ' : ' +  events[today]
-     history_tweet = "This day in LGBTQ history: " today_event
+    sub = today[6:]
+    for v,k in events.items():
+    years.append(v)
+
+    matching = [s for s in years if sub in s]
+    matchstring = str(matching[0])
+
+    if matchstring in events:  # only tweet if date is today
+     today_event =  matchstring + ' : ' +  events[matchstring]
+     history_tweet = "This day in LGBTQ history: " + today_event
+     print (history_tweet)
      api.update_status(history_tweet)
      print('tweet accomplished')
 
