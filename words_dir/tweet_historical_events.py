@@ -33,6 +33,7 @@ events = {
     '1982-03-02': 'Wisconsin becomes the first U.S. state to outlaw discrimination on the basis of sexual orientation. https://en.wikipedia.org/wiki/LGBT_rights_in_Wisconsin',
     '1988-12-01': 'The World Health Organization organizes the first World AIDS Day to raise awareness of the spreading pandemic. https://www.verywellhealth.com/the-history-of-world-aids-day-48717',
     '2020-06-15': 'The 1964 Civil Rights Act now also prohibits discrimination based on sexual orientation and gender identity. https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html',
+    '2015-06-26': 'Same-sex marriage is legal throughout the United States. https://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html',
 }
 
 
