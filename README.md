@@ -32,7 +32,12 @@ All contributions are greatly appreciated.
 |--|--|--|--|
 | Vicki Langer | the creator/maintainer | https://github.com/VickiLanger | https://twitter.com/Vicki_Langer |
 | Ayush Modi | [A vs An article determiner](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/9) | https://github.com/hot9cups | https://www.linkedin.com/in/ayush-modi-17012000/ |
-| Your Name | Added nouns and events | GitHub link | link |
+| Franciélly Ferreira | [Add new nouns to tweet](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/10) | https://github.com/franciellyferreira | https://www.linkedin.com/in/franciellyferreira/ |
+| Ayush Modi | [A vs An article determiner](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/9) | https://github.com/hot9cups | https://www.linkedin.com/in/ayush-modi-17012000 |
+| Stephen Bowers | [Added nouns and adjectives](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/11) | https://github.com/stephenbowers | thatstephenbowers.com |
+| Tim Peng | [Added nouns](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/13) | https://github.com/typg93 | social link |
+| Renan Miranda | Add new nouns to tweet | https://github.com/renanlmiranda | https://www.linkedin.com/in/renanlmiranda/ |
+
 
 If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
 ```markdown

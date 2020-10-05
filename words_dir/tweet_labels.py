@@ -1,4 +1,4 @@
-'''
+:'''
 tweet_labels.py: list of labels used to build tweet.py
 11 September 2020
 Vicki Langer (@vicki_langer)
@@ -7,7 +7,7 @@ Vicki Langer (@vicki_langer)
 # TODO: add more adjectives
 
 labels = [
-    # sexual feels
+    # sexual orientation
     'gay',
     'lesbian',
     'bisexual',
@@ -23,8 +23,11 @@ labels = [
     'fraysexual',
     'reciprosexual',
     'autochorisexual',
+    'androsexual',
+    'gynosexual',
+    'homosexual',
 
-    # gender feels
+    # gender orientation
     'demiboy',
     'demigirl',
     'enby',
@@ -39,6 +42,8 @@ labels = [
     'genderqueer',
     'bigender',
     'polygender',
+    'graygender',
+    'pangender',
     'genderfluid',
     'novigender',
     'andorgynous',
@@ -46,12 +51,14 @@ labels = [
     'netrois',
     'trigender',
 
-    # romantic feels
+    # romantic orientation
     'demiromantic',
     'aromantic',
     'biromantic',
     'panromantic',
     'grayromantic',
     'lithromantic',
-
+    'polyromantic',
+    'homoromantic',
+    'heteroromantic'
     ]
