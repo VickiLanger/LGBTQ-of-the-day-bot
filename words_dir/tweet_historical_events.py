@@ -1,7 +1,7 @@
 '''
 tweet_historical_events.py: list of events used to build "this day in history" tweet
 15 September 2020
-Vicki Langer @vicki_langer
+Vicki Langer (@vicki_langer)
 '''
 
 # TODO: add more events, their dates, and a reference link
