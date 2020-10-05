@@ -176,6 +176,13 @@ nouns = [
     'pretzels' 🥨,
     'bavarian beer' 🍺,
     'congee',
+    'chilli baby corn',
+    'tacos',
+    'omlette',
+    'mousse',
+    'banana split',
+    'ice-cream',
+    'trifle',
     'paav bhaji',
     'chole bhature',
     'idli sambhar',
@@ -200,9 +207,12 @@ nouns = [
     'quad-core processor',
     'carrying bag',
     'webcam',
+    'motherboard',
+    'hard disk',
+    'audio jack',
+    'scanner',
     'stylus pen',
     'speaker',
-    'UPS',
     'CPU',
     'joystick',
 
@@ -227,6 +237,9 @@ nouns = [
     'dot-matrix printer',
     'clicky mechanical keyboard',
     'steno machine',
+    'telegraph'
+    'cassette player',
+    'gramophone',
 
     # video game consoles
     'Atari',
@@ -267,6 +280,9 @@ nouns = [
     'wind',
     'mountain',
     'hill',
+    'valley',
+    'lake',
+    'moonlit sky',
 
     # rpg classes\skins
     'rogue',
@@ -337,13 +353,12 @@ nouns = [
     'comedy movie',
     'romance movie',
     'horror movie',
-    'science fiction movie',
+    'sci-fi movie',
+    'dramatic movie',
     'action movie',
     'animation movie',
     'romcom movie',
-    'histocial movie',
+    'historcial movie',
     'mystery movie',
     'adventure movie',
-    
-    
 ]
