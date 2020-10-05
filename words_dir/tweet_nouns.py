@@ -167,6 +167,13 @@ nouns = [
     'pretzels' 🥨,
     'bavarian beer' 🍺,
     'congee',
+    'chilli baby corn',
+    'tacos',
+    'omlette',
+    'mousse',
+    'banana split',
+    'ice-cream',
+    'trifle',
 
     # computer things
     'laptop',
@@ -186,6 +193,10 @@ nouns = [
     'quad-core processor',
     'carrying bag',
     'webcam',
+    'motherboard',
+    'hard disk',
+    'audio jack',
+    'scanner',
 
     # old tech
     'iMac G3',
@@ -208,6 +219,9 @@ nouns = [
     'dot-matrix printer',
     'clicky mechanical keyboard',
     'steno machine',
+    'telegram'
+    'cassette player',
+    'gramophone',
 
     # video game consoles
     'Atari',
@@ -248,6 +262,9 @@ nouns = [
     'wind',
     'mountain',
     'hill',
+    'valley',
+    'lake',
+    'moonlit sky',
 
     # rpg classes\skins
     'rogue',
@@ -318,4 +335,6 @@ nouns = [
     'comedy movie',
     'romance movie',
     'horror movie',
+    'sci-fi movie',
+    'dramatic movie',
 ]
