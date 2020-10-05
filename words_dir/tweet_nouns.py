@@ -102,6 +102,15 @@ nouns = [
     'blue jeans 👖',
     'sunglass 🕶️',
     'bikini 👙',
+    'jacket',
+    'bloomer',
+    'blazer',
+    'ball gown',
+    'dungaree',
+    'frock',
+    'gown',
+    'glove',
+    'hoddie',
 
     # foods
     'pizza',
@@ -174,6 +183,11 @@ nouns = [
     'banana split',
     'ice-cream',
     'trifle',
+    'paav bhaji',
+    'chole bhature',
+    'idli sambhar',
+    'pomegranate',
+    'tomato soup',
 
     # computer things
     'laptop',
@@ -197,6 +211,10 @@ nouns = [
     'hard disk',
     'audio jack',
     'scanner',
+    'stylus pen',
+    'speaker',
+    'CPU',
+    'joystick',
 
     # old tech
     'iMac G3',
@@ -219,7 +237,7 @@ nouns = [
     'dot-matrix printer',
     'clicky mechanical keyboard',
     'steno machine',
-    'telegram'
+    'telegraph'
     'cassette player',
     'gramophone',
 
@@ -337,4 +355,10 @@ nouns = [
     'horror movie',
     'sci-fi movie',
     'dramatic movie',
+    'action movie',
+    'animation movie',
+    'romcom movie',
+    'historcial movie',
+    'mystery movie',
+    'adventure movie',
 ]
