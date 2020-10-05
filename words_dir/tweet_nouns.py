@@ -102,6 +102,15 @@ nouns = [
     'blue jeans 👖',
     'sunglass 🕶️',
     'bikini 👙',
+    'jacket',
+    'bloomer',
+    'blazer',
+    'ball gown',
+    'dungaree',
+    'frock',
+    'gown',
+    'glove',
+    'hoddie',
 
     # foods
     'pizza',
@@ -167,6 +176,11 @@ nouns = [
     'pretzels' 🥨,
     'bavarian beer' 🍺,
     'congee',
+    'paav bhaji',
+    'chole bhature',
+    'idli sambhar',
+    'pomegranate',
+    'tomato soup',
 
     # computer things
     'laptop',
@@ -186,6 +200,11 @@ nouns = [
     'quad-core processor',
     'carrying bag',
     'webcam',
+    'stylus pen',
+    'speaker',
+    'UPS',
+    'CPU',
+    'joystick',
 
     # old tech
     'iMac G3',
@@ -318,4 +337,13 @@ nouns = [
     'comedy movie',
     'romance movie',
     'horror movie',
+    'science fiction movie',
+    'action movie',
+    'animation movie',
+    'romcom movie',
+    'histocial movie',
+    'mystery movie',
+    'adventure movie',
+    
+    
 ]
