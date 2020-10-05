@@ -37,6 +37,7 @@ All contributions are greatly appreciated.
 | Stephen Bowers | [Added nouns and adjectives](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/11) | https://github.com/stephenbowers | thatstephenbowers.com |
 | Tim Peng | [Added nouns](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/13) | https://github.com/typg93 | social link |
 | Renan Miranda | Add new nouns to tweet | https://github.com/renanlmiranda | https://www.linkedin.com/in/renanlmiranda/ |
+| Venkata Sreeram | Added nouns | https://github.com/venkata-sreeram | https://venkatasreeram.live |
 
 
 If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
