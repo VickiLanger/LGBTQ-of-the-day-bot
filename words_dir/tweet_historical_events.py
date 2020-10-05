@@ -10,6 +10,7 @@ from datetime import date
 
 from tweet import authenticate_api
 
+import random
 
 # list of events with date, title, and a reference link
 
@@ -43,20 +44,41 @@ events = {
 }
 
 
-
 # TODO: why did tweet_historicat_event() send a regular get_tweet.py tweet?
 # TODO: figure out why history tweet isn't posting
 
 
 def tweet_historicat_event():
     api = authenticate_api()
-    # check events list for date that matches today's date
+
+    # declare empty string
+    history_tweet = ""
+    tweet_template = "This day in LGBTQ history: "
+
+    # get today's date
     today = str(date.today())
-    if today in events:  # only tweet if date is today
-     today_event =  today + ' : ' +  events[today]
-     history_tweet = "This day in LGBTQ history: " + today_event
-     api.update_status(history_tweet)
-     print('tweet accomplished')
+
+    # extract month and day
+    month_and_day = today[5:]
+
+    # make a list of the events that match month_and_day
+    list_of_history_tweets = [key + ": " + val for key, val in events.items() if month_and_day in key]
+    length_list_history_tweets = len(list_of_history_tweets)
+
+    '''if list has multiple events for the same month and day, 
+    then pick random,
+    else return the item then update api, if none, no update'''
+    # IDEA: generate a thread of tweets if has multiple events in chronological order
+
+    if length_list_history_tweets != 0:
+        if length_list_history_tweets > 1:
+            history_tweet = tweet_template + random.choice(list_of_history_tweets)
+        else:
+            history_tweet = tweet_template + list_of_history_tweets[0]
+        api.update_status(history_tweet)
+        print('tweet accomplished')
+    else:
+        print('no tweet today')
 
 
 tweet_historicat_event()
