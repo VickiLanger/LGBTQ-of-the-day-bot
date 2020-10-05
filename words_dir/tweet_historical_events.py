@@ -73,7 +73,7 @@ events = {
 
 
 
-# TODO: why did tweet_historicat_event send a regular get_tweet.py tweet?
+# TODO: why did tweet_historicat_event() send a regular get_tweet.py tweet?
 # TODO: figure out why history tweet isn't posting
 
 
