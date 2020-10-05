@@ -30,7 +30,7 @@ nouns = [
     'bat 🦇',
     'sloth 🦥',
     'danger noodle 🐍',
-    'snek 🐍',
+    'snake 🐍',
     'spider',
     'lemur',
     'kitten',
@@ -52,7 +52,7 @@ nouns = [
     'cow 🐄',
     'cat 🐈',
     'owl 🦉',
-    'flog 🐸',
+    'frog 🐸',
     'shark 🦈',
     'penguin 🐧',
     'lion 🦁',
@@ -68,7 +68,8 @@ nouns = [
     'trilobite',
     'velociraptor',
     'elephant',
-    'wolf'
+    'wolf',
+    'kookaburra'
 
     # clothing items
     'flannel shirt',
@@ -111,6 +112,8 @@ nouns = [
     'gown',
     'glove',
     'hoddie',
+    'bell-bottoms'
+    
 
     # foods
     'pizza',
@@ -188,6 +191,10 @@ nouns = [
     'idli sambhar',
     'pomegranate',
     'tomato soup',
+    'vada pav',
+    'samosa',
+    'jalebi',
+    'cadbury🍫',
 
     # computer things
     'laptop',
@@ -215,6 +222,11 @@ nouns = [
     'speaker',
     'CPU',
     'joystick',
+    'SSD',
+    'Trackpad',
+    'Kernel'
+    'Graphics Card'
+    
 
     # old tech
     'iMac G3',
@@ -240,6 +252,8 @@ nouns = [
     'telegraph'
     'cassette player',
     'gramophone',
+    'VCR',
+ 
 
     # video game consoles
     'Atari',
