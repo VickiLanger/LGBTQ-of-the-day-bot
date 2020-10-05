@@ -68,7 +68,11 @@ nouns = [
     'trilobite',
     'velociraptor',
     'elephant',
-    'wolf'
+    'wolf',
+    'buffalo',
+    'sheep',
+    'ottor',
+    'frog'
 
     # clothing items
     'flannel shirt',
@@ -111,6 +115,7 @@ nouns = [
     'gown',
     'glove',
     'hoddie',
+    'dynamo'
 
     # foods
     'pizza',
@@ -188,6 +193,7 @@ nouns = [
     'idli sambhar',
     'pomegranate',
     'tomato soup',
+    
 
     # computer things
     'laptop',
@@ -240,6 +246,7 @@ nouns = [
     'telegraph'
     'cassette player',
     'gramophone',
+    'Radio'
 
     # video game consoles
     'Atari',
