@@ -7,7 +7,7 @@ Vicki Langer (@vicki_langer)
 # TODO: add more adjectives
 
 labels = [
-    # sexual feels
+    # sexual orientation
     'gay',
     'lesbian',
     'bisexual',
@@ -27,7 +27,7 @@ labels = [
     'gynosexual',
     'homosexual',
 
-    # gender feels
+    # gender orientation
     'demiboy',
     'demigirl',
     'enby',
@@ -51,12 +51,14 @@ labels = [
     'netrois',
     'trigender',
 
-    # romantic feels
+    # romantic orientation
     'demiromantic',
     'aromantic',
     'biromantic',
     'panromantic',
     'grayromantic',
     'lithromantic',
-
+    'polyromantic',
+    'homoromantic',
+    'heteroromantic'
     ]
