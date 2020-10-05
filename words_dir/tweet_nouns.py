@@ -320,57 +320,27 @@ nouns = [
     'horror movie',
 
     #grooming items
-    'toothbrush'
-    'toothpaste'
-    'curling-iron'
-    'razor'
-    'trimmer'
-    'comb'
-    'epilator'
-    'hair dryer'
-    'hair crimper'
-    'cleanser'
-    'wax-strip'
-    'mouthwash'
-    'sanitizer'
-    'lip gloss'
-    'red lipstick'
-    'soap'
-    'sanitary-napkin'
-    'bodywash'
+    'toothbrush',
+    'toothpaste',
+    'curling-iron',
+    'razor',
+    'trimmer',
+    'comb',
+    'epilator',
+    'hair dryer',
+    'hair crimper',
+    'cleanser',
+    'wax-strip',
+    'mouthwash',
+    'sanitizer',
+    'lip gloss',
+    'red lipstick',
+    'soap',
+    'sanitary-napkin',
+    'bodywash',
     'foot massager'
 
 
-    #music genres
-    'Lullaby'
-    'Baroque'
-    'Cantata'
-    'Jingle'
-    'Country Rap'
-    'Breakcore'
-    'Breakbeat'
-    'Dubstyle'
-    'Gabber'
-    'Technopop'
-    'Tecno'
-    'Brega'
-    'Electropop'
-    'Thanksgiving'
-    'classic'
-    'romance'
-    'Pop'
-    'jazz'
-    'punk'
-    'metal'
-    'folk'
-    'acoustic'
-    'anime'
-    'Lavani'
-    'Ghazal'
-    'Dangdut'
-
-
-    
      
     
 
