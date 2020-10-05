@@ -361,4 +361,37 @@ nouns = [
     'historcial movie',
     'mystery movie',
     'adventure movie',
+    
+    #sports 
+    'archery',
+    'badminton',
+    'baseball',
+    'basketball',
+    'billiards',
+    'cricket',
+    'dart',
+    'dodgeball',
+    'golf',
+    'handball',
+    'high jump',
+    'ice hockey',
+    'karate',
+    'lacrosse',
+    'long jump',
+    'polo',
+    'racquetball',
+    'rugby',
+    'snorkeling',
+    'soccer',
+    'softball',
+    'squash',
+    'table tennis',
+    'taekwondo',
+    'tennis',
+    'tug of war',
+    'volley ball',
+    'water polo',
+    
+    
+
 ]
