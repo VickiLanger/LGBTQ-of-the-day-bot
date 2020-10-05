@@ -164,6 +164,9 @@ nouns = [
     'taco' 🌮,
     'croissant' 🥐,
     'doughnut' 🍩,
+    'pretzels' 🥨,
+    'bavarian beer' 🍺,
+    'congee',
 
     # computer things
     'laptop',
@@ -204,6 +207,7 @@ nouns = [
     'betamax',
     'dot-matrix printer',
     'clicky mechanical keyboard',
+    'steno machine',
 
     # video game consoles
     'Atari',
