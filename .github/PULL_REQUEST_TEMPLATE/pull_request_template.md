@@ -14,7 +14,7 @@
 - [ ] follow the bot on twitter?
 - [ ] learn new things?
 - [ ] have fun?
-:
+
 ## Repo Feedback
 - What would make it easier to contribute to this repo?
 
