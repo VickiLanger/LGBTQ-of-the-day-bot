@@ -233,10 +233,10 @@ nouns = [
     'Virtual Boy',
 
     # nature
-    'bolt of lightning',
-    'campfire',
+    'bolt of lightning' ⚡,
+    'campfire' 🔥,
     'body of water',
-    'cloud over the sun',
+    'cloud over the sun' ⛅,
     'trail in the woods',
     'oak tree',
     'swamp',
@@ -248,6 +248,14 @@ nouns = [
     'wind',
     'mountain',
     'hill',
+    'cloud',
+    'snow',
+    'snowflake' ❄,
+    'Earth' 🌎,
+    'Moon' 🌑,
+    'rainbow'🌈,
+    'flower' 🌹,
+    'sunflower' 🌻,
 
     # rpg classes\skins
     'rogue',
