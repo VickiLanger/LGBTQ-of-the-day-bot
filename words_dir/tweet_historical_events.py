@@ -14,9 +14,7 @@ from tweet import authenticate_api
 # list of events with date, title, and a reference link
 
 events = {
-    '2020-10-04': 'title'
-    '1969-06-28': 'Stonewall riots https://en.wikipedia.org/wiki/Stonewall_riots',
-    '2013-06-26': 'Repeal of DOMA https://www.americanprogress.org/issues/immigration/news/2013/06/26/68033/what-the-doma-decision-means-for-lgbt-binational-couples/',
+    '2020-10-04': 'title',
     '1969-06-28': 'Stonewall riots https://en.wikipedia.org/wiki/Stonewall_riots',
     '2013-06-26': 'Repeal of DOMA https://www.americanprogress.org/issues/immigration/news/2013/06/26/68033/what-the-doma-decision-means-for-lgbt-binational-couples/',
     '2011-09-20': 'Repeal of DADT https://www.americanprogress.org/issues/lgbtq-rights/reports/2012/09/20/38764/the-repeal-of-dont-ask-dont-tell-1-year-later/',
@@ -46,7 +44,7 @@ def tweet_historicat_event():
     today = str(date.today())
     if today in events:  # only tweet if date is today
      today_event =  today + ' : ' +  events[today]
-     history_tweet = "This day in LGBTQ history: " today_event
+     history_tweet = "This day in LGBTQ history: " + today_event
      api.update_status(history_tweet)
      print('tweet accomplished')
 
