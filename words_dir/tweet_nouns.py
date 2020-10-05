@@ -68,7 +68,6 @@ nouns = [
     'trilobite',
     'velociraptor',
     'elephant',
-    'wolf',
     'buffalo',
     'sheep',
     'ottor',
