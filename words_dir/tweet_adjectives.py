@@ -49,6 +49,14 @@ adjectives = [
     'witty',
     'lively',
     'tragic',
+    'comic',
+    'comicl',
+    'jocose'.
+    'jocular',
+    'laughable',
+    'hilarious',
+    'whimsical',
+    'ludicrous',
 
     # touch feels
     'fuzzy',
