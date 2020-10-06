@@ -482,6 +482,21 @@ nouns = [
     'b-boying',
     'line dance',
     'kathak',
-    
+
+	#music
+	'jazz',
+	'rock music',
+	'blues',
+	'classical',
+	'country music',
+	'heavy metal',
+	'folk music',
+	'pop music',
+	'electronic dance music',
+	'punk',
+	'carnatic music',
+	'hindustani music',
+	'new wave music',
+	    
     
 ]
