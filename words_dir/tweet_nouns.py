@@ -120,6 +120,10 @@ nouns = [
     'dynamo'
     'bell-bottoms',
     'sari 🥻',
+    'skinny jeans',
+    'vest',
+    'murse',
+    'feather boa',
 
     # foods
     'pizza 🍕',
@@ -219,6 +223,7 @@ nouns = [
     'kofta',
     'dahi',
     'lechon',
+    'rainbow cake',
 
     # computer things
     'laptop',
@@ -256,6 +261,8 @@ nouns = [
     'virus',
     'antivirus software',
     'software',
+    'socket',
+    'port',
 
     # old tech
     'iMac G3',
@@ -283,6 +290,7 @@ nouns = [
     'gramophone',
     'radio'
     'VCR',
+    'VHS',
 
     # video game consoles
     'Atari',
