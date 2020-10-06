@@ -238,7 +238,7 @@ adjectives = [
     'ash',
     'mocha',
 
-    # cold adjectives
+    # adjectives
     'algid',
     'austere',
     'benumbed',
@@ -266,4 +266,17 @@ adjectives = [
     'mild',
     'moderate',
     'pleasant',
+    
+    # weather and Temperature 
+    'cold',
+    'hot',
+    'cool',
+    'rainy',
+    'windy',
+    'snowy',
+    'foggy',
+    'sunny',
+    'cloudy',
+    'stormy',
+    'frozen',
     ]
