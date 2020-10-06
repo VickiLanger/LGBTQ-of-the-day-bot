@@ -73,7 +73,7 @@ nouns = [
     'otter',
     'frog'
     'wolf',
-    'kookaburra'
+    'kookaburra',
 
     # clothing items
     'flannel shirt',
@@ -116,9 +116,8 @@ nouns = [
     'gown',
     'glove',
     'hoodie',
-
     'dynamo'
-    'bell-bottoms'
+    'bell-bottoms',
 
 
     # foods
@@ -347,7 +346,7 @@ nouns = [
     'box',
     'geomectry box',
     'bag pack',
-    'water bottle'
+    'water bottle',
 
     # rpg classes\skins
     'rogue',
@@ -372,7 +371,7 @@ nouns = [
     'fighter',
     'warlock',
     'wizard',
-    'sorcerer'
+    'sorcerer',
 
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
