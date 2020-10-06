@@ -201,6 +201,16 @@ nouns = [
     'samosa',
     'jalebi',
     'cadbury🍫',
+    'biriyani',
+    'samosa',
+    'chutney',
+    'dosa',
+    'maal-pua',
+    'katchori',
+    'kheer',
+    'chowmin',
+    'tea',
+    'dahi',
 
     # computer things
     'laptop',
@@ -232,6 +242,11 @@ nouns = [
     'Trackpad',
     'Kernel'
     'Graphics Card'
+    'memory card',
+    'adapter',
+    'UPS',
+    
+    
 
     # old tech
     'iMac G3',
@@ -455,4 +470,18 @@ nouns = [
     'tug of war rope',
     'volley ball net',
     'water polo',
+    
+    #dance
+    'old school',
+    'hip hop',
+    'pop',
+    'salsa',
+    'ballet',
+    'tap dance',
+    'break dance',
+    'b-boying',
+    'line dance',
+    'kathak',
+    
+    
 ]
