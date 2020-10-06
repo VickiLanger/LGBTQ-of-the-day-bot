@@ -42,6 +42,8 @@ All contributions are greatly appreciated.
 | Bhavesh Gandhi | Added few nouns and deleted few repeating ones | https://github.com/SeekerHub |  |
 | Linh Nguyen | [fix: tweaked tweet_historicat_events()](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/47)] | https://github.com/bobsany16 | linhnguyen.dev |
 | Christine Zierold | [Add new nouns to tweet](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/64) | https://github.com/chriszie | https://www.linkedin.com/in/chriszie/ |
+| Ridhima Kohli | Added nouns | https://github.com/RidhimaKohli | https://www.linkedin.com/in/ridhima-kohli-127642190 |
+
 
 If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
 ```markdown

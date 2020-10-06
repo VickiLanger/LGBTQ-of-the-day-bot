@@ -49,9 +49,8 @@ adjectives = [
     'witty',
     'lively',
     'tragic',
-    'comic',
-    'comicl',
-    'jocose'.
+    'comical',
+    'jocose',
     'jocular',
     'laughable',
     'hilarious',
