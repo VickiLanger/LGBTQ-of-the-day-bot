@@ -59,7 +59,7 @@ nouns = [
     'horse 🐎',
     'quokka',
     'capybara',
-    'seal,'
+    'seal',
     'hyacinth macaw',
     'parrot 🦜',
     'hedgehog 🦔',
@@ -74,6 +74,7 @@ nouns = [
     'frog'
     'wolf',
     'kookaburra',
+    'puffin 🐧',
 
     # clothing items
     'flannel shirt',
@@ -96,7 +97,7 @@ nouns = [
     'party hat',
     'turtle neck',
     'windbreaker',
-    'kimono',
+    'kimono 👘',
     'helmet',
     'sock 🧦',
     'belt',
@@ -118,10 +119,10 @@ nouns = [
     'hoodie',
     'dynamo'
     'bell-bottoms',
-
+    'sari 🥻',
 
     # foods
-    'pizza',
+    'pizza 🍕',
     'chicken noodle soup',
     'protein shake',
     'tuna',
@@ -211,11 +212,13 @@ nouns = [
     'yoghurt',
     'coffee',
     'gulab jamun',
-    'Lassi',
-    'Khichdi',
-    'Lemonade',
-    'Pulao',
-    'Kofta',
+    'lassi',
+    'khichdi',
+    'lemonade',
+    'pulao',
+    'kofta',
+    'dahi',
+    'lechon',
 
     # computer things
     'laptop',
@@ -249,14 +252,10 @@ nouns = [
     'Graphics Card'
     'memory card',
     'adapter',
-    'UPS',
     'PSU',
-    'Virus',
-    'AntiVirus',
-    'Software',
-    
-    
-    
+    'virus',
+    'antivirus software',
+    'software',
 
     # old tech
     'iMac G3',
@@ -316,13 +315,13 @@ nouns = [
     'trail in the woods',
     'oak tree',
     'swamp',
-    'island',
+    'island 🏝️',
     'archipelago',
     'some moss',
     'the swamp creature',
     'breeze',
     'wind',
-    'mountain',
+    'mountain ⛰️',
     'hill',
     'cloud',
     'snow',
@@ -332,6 +331,7 @@ nouns = [
     'rainbow 🌈',
     'flower 🌹',
     'sunflower 🌻',
+    'aurora',
 
     # classroom objects
     'pencil',
@@ -352,12 +352,17 @@ nouns = [
     'calculator',
     'valley',
     'lake',
-    'Chalk',
-    'Duster',
-    'Bench',
-    'Stencil',
-    'Protractor',
-    'Compass',
+    'chalk',
+    'duster',
+    'bench',
+    'stencil',
+    'protractor',
+    'compass',
+    'moonlit sky',
+    'box',
+    'geometry box',
+    'bag pack',
+    'water bottle',
 
     # rpg classes\skins
     'rogue',
@@ -383,6 +388,7 @@ nouns = [
     'warlock',
     'wizard',
     'sorcerer',
+    'vigilante',
 
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
@@ -459,6 +465,9 @@ nouns = [
     'bodywash',
     'foot massager',
     'mirror',
+    'face wash',
+    'face scrub',
+    'serum',
 
     # sports
     'archery target',
@@ -487,21 +496,4 @@ nouns = [
     'volley ball net',
     'water polo',
     'chess board',
-    
-    
-    #dance
-    'old school',
-    'hip hop',
-    'pop',
-    'salsa',
-    'ballet',
-    'tap dance',
-    'break dance',
-    'b-boying',
-    'line dance',
-    'kathak',
-    'bharatnatyam',
-    
-    
-    
 ]
