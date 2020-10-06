@@ -14,7 +14,7 @@ from tweet import authenticate_api
 # list of events with date, title, and a reference link
 
 events = {
-    '2020-10-04': 'title'
+    '2020-10-04': 'title',
     '1969-06-28': 'Stonewall riots https://en.wikipedia.org/wiki/Stonewall_riots',
     '2013-06-26': 'Repeal of DOMA https://www.americanprogress.org/issues/immigration/news/2013/06/26/68033/what-the-doma-decision-means-for-lgbt-binational-couples/',
     '1969-06-28': 'Stonewall riots https://en.wikipedia.org/wiki/Stonewall_riots',
@@ -32,6 +32,14 @@ events = {
     '1979-10-14': 'An estimated 75,000 people participate in the National March on Washington for Lesbian and Gay Rights. https://en.wikipedia.org/wiki/National_March_on_Washington_for_Lesbian_and_Gay_Rights',
     '1982-03-02': 'Wisconsin becomes the first U.S. state to outlaw discrimination on the basis of sexual orientation. https://en.wikipedia.org/wiki/LGBT_rights_in_Wisconsin',
     '1988-12-01': 'The World Health Organization organizes the first World AIDS Day to raise awareness of the spreading pandemic. https://www.verywellhealth.com/the-history-of-world-aids-day-48717',
+
+    '1972-07-01': 'The first Pride march is held in London, attracting around 2000 participants. https://www.bbc.com/news/uk-england-40533612',
+    '2005-12-05': 'The Civil Partnership Act passes, granting civil partnership in the UK. https://en.wikipedia.org/wiki/Civil_Partnership_Act_2004',
+
+    '2020-06-15': 'The 1964 Civil Rights Act now also prohibits discrimination based on sexual orientation and gender identity. https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html',
+    '2015-06-26': 'Same-sex marriage is legal throughout the United States. https://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html',
+    '2009-04-03': 'Same-sex marriage is legal in the state of Iowa. https://en.wikipedia.org/wiki/Same-sex_marriage_in_Iowa',
+
 }
 
 
@@ -46,7 +54,7 @@ def tweet_historicat_event():
     today = str(date.today())
     if today in events:  # only tweet if date is today
      today_event =  today + ' : ' +  events[today]
-     history_tweet = "This day in LGBTQ history: " today_event
+     history_tweet = "This day in LGBTQ history: " + today_event
      api.update_status(history_tweet)
      print('tweet accomplished')
 
