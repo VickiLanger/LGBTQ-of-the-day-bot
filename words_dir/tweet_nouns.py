@@ -200,16 +200,16 @@ nouns = [
     'vada pav',
     'samosa',
     'jalebi',
-    'cadbury🍫'
-    'biriyani'
-    'samosa'
-    'chutney'
-    'dosa'
-    'maal-pua'
-    'katchori'
-    'kheer'
-    'chowmin'
-    'tea'
+    'cadbury🍫',
+    'biriyani',
+    'samosa',
+    'chutney',
+    'dosa',
+    'maal-pua',
+    'katchori',
+    'kheer',
+    'chowmin',
+    'tea',
     'dahi',
 
     # computer things
@@ -481,7 +481,7 @@ nouns = [
     'break dance',
     'b-boying',
     'line dance',
-    'kathak'
+    'kathak',
     
     
 ]
