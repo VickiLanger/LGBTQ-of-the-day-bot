@@ -265,10 +265,10 @@ nouns = [
     'Virtual Boy',
 
     # nature
-    'bolt of lightning',
-    'campfire',
+    'bolt of lightning ⚡',
+    'campfire 🔥',
     'body of water',
-    'cloud over the sun',
+    'cloud over the sun ⛅',
     'trail in the woods',
     'oak tree',
     'swamp',
@@ -280,6 +280,32 @@ nouns = [
     'wind',
     'mountain',
     'hill',
+    'cloud',
+    'snow',
+    'snowflake ❄',
+    'Earth 🌎',
+    'Moon 🌑',
+    'rainbow 🌈',
+    'flower 🌹',
+    'sunflower 🌻',
+
+    # classroom objects
+    'pencil',
+    'pen',
+    'eraser',
+    'ruler',
+    'sharpener',
+    'marker',
+    'liquid paper',
+    'notebook',
+    'book',
+    'scissor',
+    'pencil case',
+    'stapler',
+    'clip',
+    'highlighter',
+    'board',
+    'calculator',
     'valley',
     'lake',
     'moonlit sky',
@@ -353,9 +379,16 @@ nouns = [
     'comedy movie',
     'romance movie',
     'horror movie',
+    'sci-fi movie',
+    'dramatic movie',
+    'action movie',
+    'animation movie',
+    'romcom movie',
+    'historcial movie',
+    'mystery movie',
+    'adventure movie',
 
-
-    #grooming items
+    # grooming items
     'toothbrush',
     'toothpaste',
     'curling-iron',
@@ -376,21 +409,33 @@ nouns = [
     'bodywash',
     'foot massager',
 
-
-     
-    
-
-
-
-
-
-    'sci-fi movie',
-    'dramatic movie',
-    'action movie',
-    'animation movie',
-    'romcom movie',
-    'historcial movie',
-    'mystery movie',
-    'adventure movie',
-
+    # sports 
+    'archery',
+    'badminton',
+    'baseball',
+    'basketball',
+    'billiards',
+    'cricket',
+    'dart',
+    'dodgeball',
+    'golf',
+    'handball',
+    'high jump',
+    'ice hockey',
+    'karate',
+    'lacrosse',
+    'long jump',
+    'polo',
+    'racquetball',
+    'rugby',
+    'snorkeling',
+    'soccer',
+    'softball',
+    'squash',
+    'table tennis',
+    'taekwondo',
+    'tennis',
+    'tug of war',
+    'volley ball',
+    'water polo',
 ]
