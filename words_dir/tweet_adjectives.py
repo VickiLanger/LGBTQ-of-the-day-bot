@@ -267,7 +267,7 @@ adjectives = [
     'moderate',
     'pleasant',
     
-    # weather and Temperature 
+    # weather and temperature 
     'cold',
     'hot',
     'cool',
