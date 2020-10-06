@@ -238,7 +238,7 @@ adjectives = [
     'ash',
     'mocha',
 
-    # adjectives
+    # cold adjectives
     'algid',
     'austere',
     'benumbed',
