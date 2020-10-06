@@ -246,9 +246,6 @@ nouns = [
     'Graphics Card'
     'memory card',
     'adapter',
-    'UPS',
-    
-    
 
     # old tech
     'iMac G3',
@@ -473,32 +470,4 @@ nouns = [
     'tug of war rope',
     'volley ball net',
     'water polo',
-    
-    #dance
-    'old school',
-    'hip hop',
-    'pop',
-    'salsa',
-    'ballet',
-    'tap dance',
-    'break dance',
-    'b-boying',
-    'line dance',
-    'kathak',
-    'west coast swing',
-
-  	#music
-	  'jazz',
-  	'rock music',
-	  'blues',
-	  'classical',
-	  'country music',
-	  'heavy metal',
-	  'folk music',
-	  'pop music',
-	  'electronic dance music',
-	  'punk',
-	  'carnatic music',
-	  'hindustani music',
-	  'new wave music',
 ]
