@@ -208,8 +208,32 @@ adjectives = [
     'arsenic',
     'fallow',
 
-    #cold adjectives
-    'algid', 'austere', 'benumbed', 'biting', 'bitter', 'bitterly cold', 'bleak', 'bone-chilling', 'bracing', 'brisk', 'brumal', 'chilly', 'congealed', 'cool','cryogenic',
-    #warm adjectives
-    'agreeable', 'balmy','blood-warm', 'clement', 'homey', 'lukewarm', 'mellow', 'mild', 'moderate', 'pleasant'
+    # cold adjectives
+    'algid',
+    'austere',
+    'benumbed',
+    'biting',
+    'bitter',
+    'bitterly cold',
+    'bleak',
+    'bone-chilling',
+    'bracing',
+    'brisk',
+    'brumal',
+    'chilly',
+    'congealed',
+    'cool',
+    'cryogenic',
+
+    # warm adjectives
+    'agreeable',
+    'balmy',
+    'blood-warm',
+    'clement',
+    'homey',
+    'lukewarm',
+    'mellow',
+    'mild',
+    'moderate',
+    'pleasant'
     ]
