@@ -49,9 +49,8 @@ adjectives = [
     'witty',
     'lively',
     'tragic',
-    'comic',
-    'comicl',
-    'jocose'.
+    'comical',
+    'jocose',
     'jocular',
     'laughable',
     'hilarious',
@@ -266,4 +265,17 @@ adjectives = [
     'mild',
     'moderate',
     'pleasant',
+    
+    # weather and temperature 
+    'cold',
+    'hot',
+    'cool',
+    'rainy',
+    'windy',
+    'snowy',
+    'foggy',
+    'sunny',
+    'cloudy',
+    'stormy',
+    'frozen',
     ]

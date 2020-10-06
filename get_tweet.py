@@ -6,9 +6,9 @@ Vicki Langer (@vicki_langer)
 
 from random import choice
 
-from tweet_nouns import nouns
-from tweet_adjectives import adjectives
-from tweet_labels import labels
+from words_dir.tweet_nouns import nouns
+from words_dir.tweet_adjectives import adjectives
+from words_dir.tweet_labels import labels
 
 from article_determiner import get_indefinite_article
 

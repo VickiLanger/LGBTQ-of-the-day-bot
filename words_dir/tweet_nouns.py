@@ -74,6 +74,7 @@ nouns = [
     'frog'
     'wolf',
     'kookaburra',
+    'puffin 🐧',
 
     # clothing items
     'flannel shirt',
@@ -96,7 +97,7 @@ nouns = [
     'party hat',
     'turtle neck',
     'windbreaker',
-    'kimono',
+    'kimono 👘',
     'helmet',
     'sock 🧦',
     'belt',
@@ -118,10 +119,12 @@ nouns = [
     'hoodie',
     'dynamo'
     'bell-bottoms',
-
+    'dynamo',
+    'bell-bottoms',
+    'sari 🥻',
 
     # foods
-    'pizza',
+    'pizza 🍕',
     'chicken noodle soup',
     'protien shake',
     'tuna',
@@ -210,6 +213,7 @@ nouns = [
     'chowmin',
     'tea',
     'dahi',
+    'lechon',
 
     # computer things
     'laptop',
@@ -243,9 +247,6 @@ nouns = [
     'Graphics Card'
     'memory card',
     'adapter',
-    'UPS',
-    
-    
 
     # old tech
     'iMac G3',
@@ -305,13 +306,13 @@ nouns = [
     'trail in the woods',
     'oak tree',
     'swamp',
-    'island',
+    'island 🏝️',
     'archipelago',
     'some moss',
     'the swamp creature',
     'breeze',
     'wind',
-    'mountain',
+    'mountain ⛰️',
     'hill',
     'cloud',
     'snow',
@@ -372,6 +373,7 @@ nouns = [
     'warlock',
     'wizard',
     'sorcerer',
+    'vigilante',
 
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
@@ -477,18 +479,4 @@ nouns = [
     'tug of war rope',
     'volley ball net',
     'water polo',
-    
-    #dance
-    'old school',
-    'hip hop',
-    'pop',
-    'salsa',
-    'ballet',
-    'tap dance',
-    'break dance',
-    'b-boying',
-    'line dance',
-    'kathak',
-    
-    
 ]
