@@ -69,6 +69,7 @@ events = {
     # 2010s
     '2011-09-20': 'Repeal of DADT https://www.americanprogress.org/issues/lgbtq-rights/reports/2012/09/20/38764/the-repeal-of-dont-ask-dont-tell-1-year-later/', 
     '2012-05-09': 'In an ABC interview, Obama becomes the first sitting US president to publicly support the freedom for LGBTQ couples to marry https://www.cnn.com/2012/05/09/politics/obama-same-sex-marriage/', 
+    '2012-06-15': 'Same-sex marriage is now legal in Denmark https://en.wikipedia.org/wiki/LGBT_rights_in_Denmark#Recognition_of_same-sex_relationships', 
     '2012-11-06': 'Tammy Baldwin becomes the first openly gay politician and the first Wisconsin woman to be elected to the US Senate https://www.cnn.com/2012/11/07/politics/wisconsin-tammy-baldwin-senate/', 
     '2013-06-26': 'Repeal of DOMA https://www.americanprogress.org/issues/immigration/news/2013/06/26/68033/what-the-doma-decision-means-for-lgbt-binational-couples/', 
     '2015-06-09': 'Secretary of Defense Ash Carter announces that the Military Equal Opportunity policy has been adjusted to include gay and lesbian military members. https://www.cnn.com/2015/06/09/politics/carter-sexual-orientation-policy/index.html', 
