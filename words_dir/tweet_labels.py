@@ -26,6 +26,7 @@ labels = [
     'androsexual',
     'gynosexual',
     'homosexual',
+    'autosexual',
     'straight',
 
     # gender orientation
@@ -61,5 +62,6 @@ labels = [
     'lithromantic',
     'polyromantic',
     'homoromantic',
-    'heteroromantic'
+    'heteroromantic',
+    'autoromatic',
     ]
