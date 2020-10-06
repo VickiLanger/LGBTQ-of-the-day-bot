@@ -40,6 +40,7 @@ All contributions are greatly appreciated.
 | Gisela gdev12 | [Added more queer historical events](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/49) | https://github.com/gdev12 | https://twitter.com/giss1212 |
 | Luísa Moura | Add new nouns to tweet | https://github.com/lusmoura | https://www.linkedin.com/in/lusmoura |
 | Bhavesh Gandhi | Added few nouns and deleted few repeating ones | https://github.com/SeekerHub |  |
+| Linh Nguyen | [fix: tweaked tweet_historicat_events()](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/47)] | https://github.com/bobsany16 | linhnguyen.dev |
 
 If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
 ```markdown
