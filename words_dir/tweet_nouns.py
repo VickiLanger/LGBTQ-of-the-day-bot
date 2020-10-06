@@ -322,6 +322,7 @@ nouns = [
     'rainbow 🌈',
     'flower 🌹',
     'sunflower 🌻',
+    'aurora',
 
     # classroom objects
     'pencil',
@@ -343,6 +344,10 @@ nouns = [
     'valley',
     'lake',
     'moonlit sky',
+    'box',
+    'geomectry box',
+    'bag pack',
+    'water bottle'
 
     # rpg classes\skins
     'rogue',
@@ -443,6 +448,9 @@ nouns = [
     'tampon',
     'bodywash',
     'foot massager',
+    'face wassh',
+    'face scrub',
+    'serum',
 
     # sports
     'archery target',
