@@ -15,7 +15,7 @@ import random
 # list of events with date, title, and a reference link
 
 events = {
-    '2020-10-04': 'title',
+    '2020-10-06': 'this is a test tweet to see if `def tweet_historicat_event():` works. If you see this, @vicki_langer is super proud, overjoyed, and thankful for @bobbywin16\'s contribution',
 
     '1969-06-28': 'Stonewall riots https://en.wikipedia.org/wiki/Stonewall_riots',
     '2013-06-26': 'Repeal of DOMA https://www.americanprogress.org/issues/immigration/news/2013/06/26/68033/what-the-doma-decision-means-for-lgbt-binational-couples/',
@@ -40,7 +40,7 @@ events = {
     '2019-02-16': 'Nyla Rose became the first openly transgender wrestler in history to sign with a major American promotion. https://en.wikipedia.org/wiki/Nyla_Rose',
     '2019-09-25': 'Angelica Ross became the first openly transgender person to host an American presidential forum. https://en.wikipedia.org/wiki/Angelica_Ross',
     '2016-09-16': 'Lilly Singh became the first late-night host to ever publicly identify as bisexual. https://en.wikipedia.org/wiki/A_Little_Late_with_Lilly_Singh',
-    '2019-04-02': 'Lori Lightfoot was elected Chicago, Illinois first openly gay mayor. https://www.nbcnews.com/news/us-news/lori-lightfoot-elected-chicago-mayor-will-be-1st-black-woman-n990266'
+    '2019-04-02': 'Lori Lightfoot was elected Chicago, Illinois first openly gay mayor. https://www.nbcnews.com/news/us-news/lori-lightfoot-elected-chicago-mayor-will-be-1st-black-woman-n990266',
     '1997-12-18': 'In New Jersey, same-sex couples are given the right to jointly adopt children. https://www.washingtonpost.com/archive/politics/1997/12/18/nj-allows-gays-to-adopt-jointly/7b031fcd-1338-4dff-b548-1e54eb196f12/',
     '1961-09-11': 'The first US-televised documentary about homosexuality airs on a local station in California. https://en.wikipedia.org/wiki/The_Rejected',
     '1973-01-01': 'Maryland becomes the first state to statutorily ban same-sex marriage. https://www.npr.org/templates/story/story.php?storyId=5164355#:~:text=Maryland%20Judge%20Rejects%20Gay%2DMarriage%20Ban%20A%20Maryland%20circuit%20court,court%20has%20affirmed%20the%20decision.',
@@ -98,7 +98,7 @@ def tweet_historicat_event():
     list_of_history_tweets = [key + ": " + val for key, val in events.items() if month_and_day in key]
     length_list_history_tweets = len(list_of_history_tweets)
 
-    '''if list has multiple events for the same month and day, 
+    '''if list has multiple events for the same month and day,
     then pick random,
     else return the item then update api, if none, no update'''
     # IDEA: generate a thread of tweets if has multiple events in chronological order
