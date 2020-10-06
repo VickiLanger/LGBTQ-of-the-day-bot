@@ -61,8 +61,8 @@ nouns = [
     'capybara',
     'seal,'
     'hyacinth macaw',
-    'parrot' 🦜,
-    'hedgehog' 🦔,
+    'parrot 🦜',
+    'hedgehog 🦔',
     'duck 🦆',
     'rhino',
     'trilobite',
@@ -387,8 +387,29 @@ nouns = [
     'historcial movie',
     'mystery movie',
     'adventure movie',
-    
-    #sports 
+
+    # grooming items
+    'toothbrush',
+    'toothpaste',
+    'curling-iron',
+    'razor',
+    'trimmer',
+    'comb',
+    'epilator',
+    'hair dryer',
+    'hair crimper',
+    'cleanser',
+    'wax-strip',
+    'mouthwash',
+    'sanitizer',
+    'lip gloss',
+    'red lipstick',
+    'soap',
+    'sanitary-napkin',
+    'bodywash',
+    'foot massager',
+
+    # sports 
     'archery',
     'badminton',
     'baseball',
@@ -417,7 +438,4 @@ nouns = [
     'tug of war',
     'volley ball',
     'water polo',
-    
-    
-
 ]
