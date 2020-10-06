@@ -124,7 +124,7 @@ nouns = [
     # foods
     'pizza',
     'chicken noodle soup',
-    'protien shake',
+    'protein shake',
     'tuna',
     'cheeseburger 🍔',
     'french fries 🍟',
@@ -144,7 +144,7 @@ nouns = [
     'fried plantain',
     'ratatouille',
     'ramen',
-    '@tacobell grilled cheese burrito 🌯',
+    'tacobell grilled cheese burrito 🌯',
     'poutine',
     'spam',
     'meatloaf',
@@ -192,7 +192,7 @@ nouns = [
     'banana split',
     'ice-cream',
     'trifle',
-    'paav bhaji',
+    'pav bhaji',
     'chole bhature',
     'idli sambhar',
     'pomegranate',
@@ -201,16 +201,22 @@ nouns = [
     'samosa',
     'jalebi',
     'cadbury🍫',
-    'biriyani',
     'samosa',
     'chutney',
     'dosa',
     'maal-pua',
-    'katchori',
+    'kachori',
     'kheer',
     'chowmin',
     'tea',
-    'dahi',
+    'yoghurt',
+    'coffee',
+    'gulab jamun',
+    'Lassi',
+    'Khichdi',
+    'Lemonade',
+    'Pulao',
+    'Kofta'
 
     # computer things
     'laptop',
@@ -245,6 +251,11 @@ nouns = [
     'memory card',
     'adapter',
     'UPS',
+    'PSU',
+    'Virus',
+    'AntiVirus',
+    'Software',
+    
     
     
 
@@ -342,7 +353,12 @@ nouns = [
     'calculator',
     'valley',
     'lake',
-    'moonlit sky',
+    'Chalk',
+    'Duster',
+    'Bench',
+    'Stencil',
+    'Protractor',
+    'Compass'
 
     # rpg classes\skins
     'rogue',
@@ -443,6 +459,8 @@ nouns = [
     'tampon',
     'bodywash',
     'foot massager',
+    'mirror',
+    '
 
     # sports
     'archery target',
@@ -470,6 +488,8 @@ nouns = [
     'tug of war rope',
     'volley ball net',
     'water polo',
+    'chess board',
+    
     
     #dance
     'old school',
@@ -482,6 +502,8 @@ nouns = [
     'b-boying',
     'line dance',
     'kathak',
+    'bharatnatyam',
+    
     
     
 ]
