@@ -61,13 +61,17 @@ nouns = [
     'capybara',
     'seal,'
     'hyacinth macaw',
-    'parrot' 🦜,
-    'hedgehog' 🦔,
+    'parrot 🦜',
+    'hedgehog 🦔',
     'duck 🦆',
     'rhino',
     'trilobite',
     'velociraptor',
     'elephant',
+    'buffalo',
+    'sheep',
+    'otter',
+    'frog'
     'wolf',
     'kookaburra'
 
@@ -111,9 +115,11 @@ nouns = [
     'frock',
     'gown',
     'glove',
-    'hoddie',
+    'hoodie',
+
+    'dynamo'
     'bell-bottoms'
-    
+
 
     # foods
     'pizza',
@@ -173,11 +179,11 @@ nouns = [
     'roti',
     'naan',
     'biryani',
-    'taco' 🌮,
-    'croissant' 🥐,
-    'doughnut' 🍩,
-    'pretzels' 🥨,
-    'bavarian beer' 🍺,
+    'taco 🌮',
+    'croissant 🥐',
+    'doughnut 🍩',
+    'pretzels 🥨',
+    'bavarian beer 🍺',
     'congee',
     'chilli baby corn',
     'tacos',
@@ -195,6 +201,16 @@ nouns = [
     'samosa',
     'jalebi',
     'cadbury🍫',
+    'biriyani',
+    'samosa',
+    'chutney',
+    'dosa',
+    'maal-pua',
+    'katchori',
+    'kheer',
+    'chowmin',
+    'tea',
+    'dahi',
 
     # computer things
     'laptop',
@@ -226,6 +242,10 @@ nouns = [
     'Trackpad',
     'Kernel'
     'Graphics Card'
+    'memory card',
+    'adapter',
+    'UPS',
+    
     
 
     # old tech
@@ -252,8 +272,8 @@ nouns = [
     'telegraph'
     'cassette player',
     'gramophone',
+    'radio'
     'VCR',
- 
 
     # video game consoles
     'Atari',
@@ -279,10 +299,10 @@ nouns = [
     'Virtual Boy',
 
     # nature
-    'bolt of lightning',
-    'campfire',
+    'bolt of lightning ⚡',
+    'campfire 🔥',
     'body of water',
-    'cloud over the sun',
+    'cloud over the sun ⛅',
     'trail in the woods',
     'oak tree',
     'swamp',
@@ -294,6 +314,32 @@ nouns = [
     'wind',
     'mountain',
     'hill',
+    'cloud',
+    'snow',
+    'snowflake ❄',
+    'Earth 🌎',
+    'Moon 🌑',
+    'rainbow 🌈',
+    'flower 🌹',
+    'sunflower 🌻',
+
+    # classroom objects
+    'pencil',
+    'pen',
+    'eraser',
+    'ruler',
+    'sharpener',
+    'marker',
+    'liquid paper',
+    'notebook',
+    'book',
+    'scissor',
+    'pencil case',
+    'stapler',
+    'clip',
+    'highlighter',
+    'board',
+    'calculator',
     'valley',
     'lake',
     'moonlit sky',
@@ -375,4 +421,67 @@ nouns = [
     'historcial movie',
     'mystery movie',
     'adventure movie',
+
+    # grooming items
+    'toothbrush',
+    'toothpaste',
+    'curling-iron',
+    'razor',
+    'trimmer',
+    'comb',
+    'epilator',
+    'hair dryer',
+    'hair crimper',
+    'cleanser',
+    'wax-strip',
+    'mouthwash',
+    'sanitizer',
+    'lip gloss',
+    'red lipstick',
+    'soap',
+    'sanitary napkin',
+    'tampon',
+    'bodywash',
+    'foot massager',
+
+    # sports
+    'archery target',
+    'badminton racket',
+    'baseball field',
+    'basketball',
+    'billiards stick',
+    'cricket paddle',
+    'dartboard',
+    'dodgeball',
+    'golf club',
+    'handball',
+    'ice hockey rink',
+    'karate dojo',
+    'lacrosse stick',
+    'polo team',
+    'racquetball court',
+    'rugby ball',
+    'snorkel gear',
+    'soccer goalie',
+    'softball bat',
+    'squash team',
+    'table tennis paddle',
+    'tennis court',
+    'tug of war rope',
+    'volley ball net',
+    'water polo',
+    
+    #dance
+    'old school',
+    'hip hop',
+    'pop',
+    'salsa',
+    'ballet',
+    'tap dance',
+    'break dance',
+    'b-boying',
+    'line dance',
+    'kathak',
+    
+    
 ]
