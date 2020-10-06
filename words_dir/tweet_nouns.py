@@ -361,7 +361,7 @@ nouns = [
     'moonlit sky',
     'box',
     'geometry box',
-    'bag pack',
+    'back pack',
     'water bottle',
 
     # rpg classes\skins
@@ -429,7 +429,7 @@ nouns = [
     'wheelchair-bomb',
     'a mysterious burrito with no owner',
 
-    # movie genre
+    # types of movies
     'thriller movie',
     'comedy movie',
     'romance movie',
@@ -469,7 +469,7 @@ nouns = [
     'face scrub',
     'serum',
 
-    # sports
+    # sports things
     'archery target',
     'badminton racket',
     'baseball field',
