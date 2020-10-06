@@ -73,7 +73,7 @@ nouns = [
     'otter',
     'frog'
     'wolf',
-    'kookaburra'
+    'kookaburra',
 
     # clothing items
     'flannel shirt',
@@ -116,9 +116,8 @@ nouns = [
     'gown',
     'glove',
     'hoodie',
-
     'dynamo'
-    'bell-bottoms'
+    'bell-bottoms',
 
 
     # foods
@@ -216,7 +215,7 @@ nouns = [
     'Khichdi',
     'Lemonade',
     'Pulao',
-    'Kofta'
+    'Kofta',
 
     # computer things
     'laptop',
@@ -358,7 +357,7 @@ nouns = [
     'Bench',
     'Stencil',
     'Protractor',
-    'Compass'
+    'Compass',
 
     # rpg classes\skins
     'rogue',
@@ -383,7 +382,7 @@ nouns = [
     'fighter',
     'warlock',
     'wizard',
-    'sorcerer'
+    'sorcerer',
 
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
@@ -460,7 +459,6 @@ nouns = [
     'bodywash',
     'foot massager',
     'mirror',
-    '
 
     # sports
     'archery target',
