@@ -56,6 +56,8 @@ adjectives = [
     'hilarious',
     'whimsical',
     'ludicrous',
+    'Adorable ',
+    'Fantastic',
 
     # touch feels
     'fuzzy',
@@ -112,6 +114,7 @@ adjectives = [
     'chubby',
     'gross',
     'ethereal',
+    'beautiful,'
 
     # shapes
     'blobby',

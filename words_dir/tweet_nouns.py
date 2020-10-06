@@ -119,14 +119,12 @@ nouns = [
     'hoodie',
     'dynamo'
     'bell-bottoms',
-    'dynamo',
-    'bell-bottoms',
     'sari 🥻',
 
     # foods
     'pizza 🍕',
     'chicken noodle soup',
-    'protien shake',
+    'protein shake',
     'tuna',
     'cheeseburger 🍔',
     'french fries 🍟',
@@ -146,7 +144,7 @@ nouns = [
     'fried plantain',
     'ratatouille',
     'ramen',
-    '@tacobell grilled cheese burrito 🌯',
+    'tacobell grilled cheese burrito 🌯',
     'poutine',
     'spam',
     'meatloaf',
@@ -194,7 +192,7 @@ nouns = [
     'banana split',
     'ice-cream',
     'trifle',
-    'paav bhaji',
+    'pav bhaji',
     'chole bhature',
     'idli sambhar',
     'pomegranate',
@@ -203,15 +201,22 @@ nouns = [
     'samosa',
     'jalebi',
     'cadbury🍫',
-    'biriyani',
     'samosa',
     'chutney',
     'dosa',
     'maal-pua',
-    'katchori',
+    'kachori',
     'kheer',
     'chowmin',
     'tea',
+    'yoghurt',
+    'coffee',
+    'gulab jamun',
+    'lassi',
+    'khichdi',
+    'lemonade',
+    'pulao',
+    'kofta',
     'dahi',
     'lechon',
 
@@ -247,6 +252,10 @@ nouns = [
     'Graphics Card'
     'memory card',
     'adapter',
+    'PSU',
+    'virus',
+    'antivirus software',
+    'software',
 
     # old tech
     'iMac G3',
@@ -343,10 +352,16 @@ nouns = [
     'calculator',
     'valley',
     'lake',
+    'chalk',
+    'duster',
+    'bench',
+    'stencil',
+    'protractor',
+    'compass',
     'moonlit sky',
     'box',
-    'geomectry box',
-    'bag pack',
+    'geometry box',
+    'back pack',
     'water bottle',
 
     # rpg classes\skins
@@ -414,7 +429,7 @@ nouns = [
     'wheelchair-bomb',
     'a mysterious burrito with no owner',
 
-    # movie genre
+    # types of movies
     'thriller movie',
     'comedy movie',
     'romance movie',
@@ -449,11 +464,12 @@ nouns = [
     'tampon',
     'bodywash',
     'foot massager',
-    'face wassh',
+    'mirror',
+    'face wash',
     'face scrub',
     'serum',
 
-    # sports
+    # sports things
     'archery target',
     'badminton racket',
     'baseball field',
@@ -479,4 +495,5 @@ nouns = [
     'tug of war rope',
     'volley ball net',
     'water polo',
+    'chess board',
 ]
