@@ -40,6 +40,19 @@ events = {
     '2015-06-26': 'Same-sex marriage is legal throughout the United States. https://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html',
     '2009-04-03': 'Same-sex marriage is legal in the state of Iowa. https://en.wikipedia.org/wiki/Same-sex_marriage_in_Iowa',
 
+    '1966-04-21': 'The Mattachine Society organizes a gay rights “Sip-In.”. http://www.nytimes.com/2016/04/21/nyregion/before-the-stonewall-riots-there-was-the-sip-in.html',
+    '2015-07-23': 'The Equality Act is introduced. http://www.hrc.org/resources/the-equality-act',
+
+    '1961-09-11': 'The first US-televised documentary about homosexuality airs on a local station in California. https://diva.sfsu.edu/collections/sfbatv/bundles/225539',
+    '1970-06-28': 'Community members in New York City march through the local streets to recognize the one-year anniversary of the Stonewall riots. This event is named Christopher Street Liberation Day and is now considered the first gay pride parade. http://www.pbs.org/wgbh/americanexperience/features/timeline/stonewall/',
+    '1973-03-26': 'First meeting of "Parents and Friends of Gays," which goes national as Parents, Families and Friends of Lesbians and Gays (PFLAG) in 1982. https://pflag.org/our-story',
+    '1978-01-09': 'Harvey Milk is inaugurated as San Francisco city supervisor, and is the first openly gay man to be elected to a political office in California. http://milkfoundation.org/about/harvey-milk-biography/',
+    '1996-03-12': "Hawaii's Judge Chang rules that the state does not have a legal right to deprive same-sex couples of the right to marry, making Hawaii the first state to recognize that gay and lesbian couples are entitled to the same privileges as heterosexual married couples. https://web.archive.org/web/19990203044430/http://www.cnn.com/US/9612/03/same.sex.marriage/",
+    '1997-04-30': "DeGeneres' character, Ellen Morgan, on her self-titled TV series 'Ellen' becomes the first leading character to come out on a prime-time network television show. https://en.wikipedia.org/wiki/Ellen_(TV_series)",
+    '2004-05-17': 'The first legal same-sex marriage in the United States takes place in Massachusetts. https://www.npr.org/2019/05/17/723649385/the-1st-legally-married-same-sex-couple-wanted-to-lead-by-example',
+    '2006-10-25': 'The New Jersey Supreme Court rules that state lawmakers must provide the rights and benefits of marriage to gay and lesbian couples. http://www.cnn.com/2006/US/10/25/gay.marriage/',
+    '2012-05-09': 'In an ABC interview, Obama becomes the first sitting US president to publicly support the freedom for LGBTQ couples to marry. http://www.cnn.com/2012/05/09/politics/obama-same-sex-marriage/',
+    '2012-11-06': 'Tammy Baldwin becomes the first openly gay politician and the first Wisconsin woman to be elected to the US Senate. http://www.cnn.com/2012/11/07/politics/wisconsin-tammy-baldwin-senate/',
 }
 
 
