@@ -28,6 +28,8 @@ labels = [
     'homosexual',
     'autosexual',
     'straight',
+    'unisexual',
+    
 
     # gender orientation
     'demiboy',
@@ -58,10 +60,11 @@ labels = [
     'aromantic',
     'biromantic',
     'panromantic',
-    'grayromantic',
+    'greyromantic',
     'lithromantic',
     'polyromantic',
     'homoromantic',
     'heteroromantic',
     'autoromatic',
+    'triromantic',
     ]
