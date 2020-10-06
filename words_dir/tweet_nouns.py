@@ -59,7 +59,7 @@ nouns = [
     'horse 🐎',
     'quokka',
     'capybara',
-    'seal,'
+    'seal',
     'hyacinth macaw',
     'parrot 🦜',
     'hedgehog 🦔',
