@@ -68,6 +68,10 @@ nouns = [
     'trilobite',
     'velociraptor',
     'elephant',
+    'buffalo',
+    'sheep',
+    'otter',
+    'frog'
     'wolf',
     'kookaburra'
 
@@ -111,9 +115,11 @@ nouns = [
     'frock',
     'gown',
     'glove',
-    'hoddie',
+    'hoodie',
+
+    'dynamo'
     'bell-bottoms'
-    
+
 
     # foods
     'pizza',
@@ -226,7 +232,6 @@ nouns = [
     'Trackpad',
     'Kernel'
     'Graphics Card'
-    
 
     # old tech
     'iMac G3',
@@ -252,8 +257,8 @@ nouns = [
     'telegraph'
     'cassette player',
     'gramophone',
+    'radio'
     'VCR',
- 
 
     # video game consoles
     'Atari',
