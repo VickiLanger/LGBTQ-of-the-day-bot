@@ -265,4 +265,17 @@ adjectives = [
     'mild',
     'moderate',
     'pleasant',
+    
+    # weather and temperature 
+    'cold',
+    'hot',
+    'cool',
+    'rainy',
+    'windy',
+    'snowy',
+    'foggy',
+    'sunny',
+    'cloudy',
+    'stormy',
+    'frozen',
     ]
