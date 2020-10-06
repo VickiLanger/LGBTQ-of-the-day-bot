@@ -15,7 +15,7 @@ import random
 # list of events with date, title, and a reference link
 
 events = {
-    '2020-10-06': 'this is a test tweet to see if `def tweet_historicat_event():` works. If you see this, @vicki_langer is super proud, overjoyed, and thankful for @bobbywin16\'s contribution',
+    '2020-10-07': 'this is a test tweet to see if `def tweet_historicat_event():` works. If you see this, @vicki_langer is super proud, overjoyed, and thankful for @bobbywin16\'s contribution',
 
     '1969-06-28': 'Stonewall riots https://en.wikipedia.org/wiki/Stonewall_riots',
     '2013-06-26': 'Repeal of DOMA https://www.americanprogress.org/issues/immigration/news/2013/06/26/68033/what-the-doma-decision-means-for-lgbt-binational-couples/',
