@@ -114,11 +114,17 @@ adjectives = [
     'chubby',
     'gross',
     'ethereal',
+
     'beautiful,'
     'plump',
     'muscular',
     'skinny',
     'glamorous',
+    'beautiful',
+    'butch',
+    'femme',
+    'iconic',
+
 
     # shapes
     'blobby',
@@ -138,6 +144,8 @@ adjectives = [
     'thick',
     'shallow',
     'narrow',
+    'phat',
+
 
     # tastes
     'bitter',

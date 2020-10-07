@@ -75,6 +75,12 @@ nouns = [
     'wolf',
     'kookaburra',
     'puffin 🐧',
+    'Dog',
+    'cat',
+    'Bird',
+    'Bat',
+    'Cow',
+    'Giraffe',
 
     # clothing items
     'flannel shirt',
@@ -120,6 +126,10 @@ nouns = [
     'dynamo'
     'bell-bottoms',
     'sari 🥻',
+    'skinny jeans',
+    'vest',
+    'murse',
+    'feather boa',
 
     # foods
     'pizza 🍕',
@@ -219,6 +229,7 @@ nouns = [
     'kofta',
     'dahi',
     'lechon',
+    'rainbow cake',
 
     # computer things
     'laptop',
@@ -256,6 +267,8 @@ nouns = [
     'virus',
     'antivirus software',
     'software',
+    'socket',
+    'port',
 
     # old tech
     'iMac G3',
@@ -283,6 +296,7 @@ nouns = [
     'gramophone',
     'radio'
     'VCR',
+    'VHS',
 
     # video game consoles
     'Atari',
@@ -428,6 +442,7 @@ nouns = [
     'the old folk tale that kept you up at night',
     'wheelchair-bomb',
     'a mysterious burrito with no owner',
+    'wrongness parfait',
 
     # types of movies
     'thriller movie',
