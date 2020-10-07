@@ -71,6 +71,7 @@ events = {
     '2012-05-09': 'In an ABC interview, Obama becomes the first sitting US president to publicly support the freedom for LGBTQ couples to marry https://www.cnn.com/2012/05/09/politics/obama-same-sex-marriage/', 
     '2012-06-15': 'Same-sex marriage is now legal in Denmark https://en.wikipedia.org/wiki/LGBT_rights_in_Denmark#Recognition_of_same-sex_relationships', 
     '2012-11-06': 'Tammy Baldwin becomes the first openly gay politician and the first Wisconsin woman to be elected to the US Senate https://www.cnn.com/2012/11/07/politics/wisconsin-tammy-baldwin-senate/', 
+    '2013-05-16': 'Although same-sex unions have been legalized since 2004 in Brazil, only since 2013 is same-sex marriage legal https://en.wikipedia.org/wiki/Same-sex_marriage_in_Brazil', 
     '2013-06-26': 'Repeal of DOMA https://www.americanprogress.org/issues/immigration/news/2013/06/26/68033/what-the-doma-decision-means-for-lgbt-binational-couples/', 
     '2015-06-09': 'Secretary of Defense Ash Carter announces that the Military Equal Opportunity policy has been adjusted to include gay and lesbian military members. https://www.cnn.com/2015/06/09/politics/carter-sexual-orientation-policy/index.html', 
     '2015-06-26': 'The Supreme Court finally and officially declared same-sex marriage a Constitutional right nationwide https://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html', 
