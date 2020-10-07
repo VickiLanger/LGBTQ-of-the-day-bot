@@ -44,6 +44,7 @@ All contributions are greatly appreciated.
 | Christine Zierold | [Add new nouns to tweet](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/64) | https://github.com/chriszie | https://www.linkedin.com/in/chriszie/ |
 | Ridhima Kohli | Added nouns | https://github.com/RidhimaKohli | https://www.linkedin.com/in/ridhima-kohli-127642190 |
 | Chantal Shirley | Edited one type & added queer words | https://github.com/cShirley14 | https://www.linkedin.com/in/chantal-shirley-dartmouth14/ |
+| Franciélly Ferreira | [Add country to historical events](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/79) | https://github.com/franciellyferreira | https://www.linkedin.com/in/franciellyferreira/ |
 
 If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
 ```markdown
