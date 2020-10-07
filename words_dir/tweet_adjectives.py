@@ -177,6 +177,8 @@ adjectives = [
     'cacophonous',
     'euphonious',
     'soft',
+    'crashing',
+    'hissing',
 
     # sizes
     'tiny',
