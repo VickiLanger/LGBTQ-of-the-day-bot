@@ -85,6 +85,7 @@ events = {
     '2015-07-23': 'The military allows transgender Americans to serve openly in the military. https://www.advocate.com/politics/military/2015/07/13/reports-pentagon-poised-lift-transgender-military-ban', 
     '2015-07-23': 'The Equality Act is introduced. https://en.wikipedia.org/wiki/Equality_Act_United_States', 
     '2015-07-27': 'Boy Scouts of America President Robert Gates announces, "the national executive board ratified a resolution removing the national restriction on openly gay leaders and employees" https://www.cnn.com/2015/07/27/us/boy-scouts-gay-leaders-feat/', 
+    '2015-11-12': 'MP Shashi Tharoor introduced a bill to decriminalise homosexuality but it was rejected by the Lok Sabha. https://www.deccanherald.com/specials/history-of-the-pride-movement-in-india-742950.html
     '2016-05-17': 'The Senate confirms Eric Fanning to be secretary of the Army, making him the first openly gay secretary of a US military branch https://www.cnn.com/2016/05/17/politics/eric-fanning-secretary-of-the-army/', 
     '2016-06-24': 'Obama announces the designation of the first national monument to lesbian, gay, bisexual and transgender LGBTQ rights. https://obamawhitehouse.archives.gov/blog/2016/06/24/president-obama-designates-stonewall-national-monument', 
     '2016-06-30': 'Secretary of Defense Carter announces that the Pentagon is lifting the ban on transgender people serving openly in the US military. https://www.cnn.com/2016/06/30/politics/transgender-ban-lifted-us-military/', 
@@ -102,7 +103,7 @@ events = {
     '2019-05-25': 'Transgender no longer recognised as "disorder" by WHO. https://time.com/5596845/world-health-organization-transgender-identity/',
     '2019-09-22': 'Billy Porter becomes the first openly gay black man to win the Emmy for best lead actor in a drama series. https://www.cnn.com/2019/09/22/entertainment/billy-porter-first-openly-gay-black-actor-emmy/index.html', 
     '2019-09-25': 'Angelica Ross became the first openly transgender person to host an American presidential forum. https://en.wikipedia.org/wiki/Angelica_Ross', 
-
+    
     # 2020s
     '2020-02-12': 'New Jersey residents can now change the gender marker on a driver`s license without a note from a doctor. https://www.northjersey.com/story/news/new-jersey/2020/02/12/nj-mvc-allow-gender-designation-changes-without-doctors-note/4738926002/',
     '2020-06-15': 'The Supreme Court rules that federal law protects LGBTQ workers from discrimination. https://www.cnn.com/2020/06/15/politics/supreme-court-lgbtq-employment-case/index.html',
