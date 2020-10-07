@@ -115,6 +115,10 @@ adjectives = [
     'gross',
     'ethereal',
     'beautiful,'
+    'plump',
+    'muscular',
+    'skinny',
+    'glamorous',
 
     # shapes
     'blobby',
@@ -132,6 +136,8 @@ adjectives = [
     'crooked',
     'circular',
     'thick',
+    'shallow',
+    'narrow',
 
     # tastes
     'bitter',
@@ -185,6 +191,8 @@ adjectives = [
     'ginormous',
     'vast',
     'average',
+    'colossal',
+    'mammoth',
 
     # colors
     'rosy',
@@ -239,6 +247,7 @@ adjectives = [
     'cedar',
     'ash',
     'mocha',
+    'ashy',
 
     # cold adjectives
     'algid',
