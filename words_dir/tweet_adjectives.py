@@ -84,6 +84,7 @@ adjectives = [
     'wet',
     'dry',
     'painful',
+    'prickly',
 
     # appearance
     'dapper',
@@ -114,8 +115,7 @@ adjectives = [
     'chubby',
     'gross',
     'ethereal',
-
-    'beautiful,'
+    'beautiful',
     'plump',
     'muscular',
     'skinny',

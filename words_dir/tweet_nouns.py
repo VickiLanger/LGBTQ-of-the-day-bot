@@ -130,6 +130,7 @@ nouns = [
     'vest',
     'murse',
     'feather boa',
+    'cravat',
 
     # foods
     'pizza 🍕',
@@ -230,6 +231,7 @@ nouns = [
     'dahi',
     'lechon',
     'rainbow cake',
+    'tiramisu',
 
     # computer things
     'laptop',
