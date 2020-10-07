@@ -436,6 +436,7 @@ nouns = [
     'the old folk tale that kept you up at night',
     'wheelchair-bomb',
     'a mysterious burrito with no owner',
+    'wrongness parfait',
 
     # types of movies
     'thriller movie',
