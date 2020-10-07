@@ -59,7 +59,7 @@ nouns = [
     'horse 🐎',
     'quokka',
     'capybara',
-    'seal,'
+    'seal',
     'hyacinth macaw',
     'parrot 🦜',
     'hedgehog 🦔',
@@ -73,7 +73,8 @@ nouns = [
     'otter',
     'frog'
     'wolf',
-    'kookaburra'
+    'kookaburra',
+    'puffin 🐧',
 
     # clothing items
     'flannel shirt',
@@ -96,7 +97,7 @@ nouns = [
     'party hat',
     'turtle neck',
     'windbreaker',
-    'kimono',
+    'kimono 👘',
     'helmet',
     'sock 🧦',
     'belt',
@@ -116,15 +117,18 @@ nouns = [
     'gown',
     'glove',
     'hoodie',
-
     'dynamo'
-    'bell-bottoms'
-
+    'bell-bottoms',
+    'sari 🥻',
+    'skinny jeans',
+    'vest',
+    'murse',
+    'feather boa',
 
     # foods
-    'pizza',
+    'pizza 🍕',
     'chicken noodle soup',
-    'protien shake',
+    'protein shake',
     'tuna',
     'cheeseburger 🍔',
     'french fries 🍟',
@@ -144,7 +148,7 @@ nouns = [
     'fried plantain',
     'ratatouille',
     'ramen',
-    '@tacobell grilled cheese burrito 🌯',
+    'tacobell grilled cheese burrito 🌯',
     'poutine',
     'spam',
     'meatloaf',
@@ -192,7 +196,7 @@ nouns = [
     'banana split',
     'ice-cream',
     'trifle',
-    'paav bhaji',
+    'pav bhaji',
     'chole bhature',
     'idli sambhar',
     'pomegranate',
@@ -201,16 +205,25 @@ nouns = [
     'samosa',
     'jalebi',
     'cadbury🍫',
-    'biriyani',
     'samosa',
     'chutney',
     'dosa',
     'maal-pua',
-    'katchori',
+    'kachori',
     'kheer',
     'chowmin',
     'tea',
+    'yoghurt',
+    'coffee',
+    'gulab jamun',
+    'lassi',
+    'khichdi',
+    'lemonade',
+    'pulao',
+    'kofta',
     'dahi',
+    'lechon',
+    'rainbow cake',
 
     # computer things
     'laptop',
@@ -244,9 +257,12 @@ nouns = [
     'Graphics Card'
     'memory card',
     'adapter',
-    'UPS',
-    
-    
+    'PSU',
+    'virus',
+    'antivirus software',
+    'software',
+    'socket',
+    'port',
 
     # old tech
     'iMac G3',
@@ -274,6 +290,7 @@ nouns = [
     'gramophone',
     'radio'
     'VCR',
+    'VHS',
 
     # video game consoles
     'Atari',
@@ -306,13 +323,13 @@ nouns = [
     'trail in the woods',
     'oak tree',
     'swamp',
-    'island',
+    'island 🏝️',
     'archipelago',
     'some moss',
     'the swamp creature',
     'breeze',
     'wind',
-    'mountain',
+    'mountain ⛰️',
     'hill',
     'cloud',
     'snow',
@@ -322,6 +339,7 @@ nouns = [
     'rainbow 🌈',
     'flower 🌹',
     'sunflower 🌻',
+    'aurora',
 
     # classroom objects
     'pencil',
@@ -342,7 +360,17 @@ nouns = [
     'calculator',
     'valley',
     'lake',
+    'chalk',
+    'duster',
+    'bench',
+    'stencil',
+    'protractor',
+    'compass',
     'moonlit sky',
+    'box',
+    'geometry box',
+    'back pack',
+    'water bottle',
 
     # rpg classes\skins
     'rogue',
@@ -367,7 +395,8 @@ nouns = [
     'fighter',
     'warlock',
     'wizard',
-    'sorcerer'
+    'sorcerer',
+    'vigilante',
 
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
@@ -407,8 +436,9 @@ nouns = [
     'the old folk tale that kept you up at night',
     'wheelchair-bomb',
     'a mysterious burrito with no owner',
+    'wrongness parfait',
 
-    # movie genre
+    # types of movies
     'thriller movie',
     'comedy movie',
     'romance movie',
@@ -443,8 +473,12 @@ nouns = [
     'tampon',
     'bodywash',
     'foot massager',
+    'mirror',
+    'face wash',
+    'face scrub',
+    'serum',
 
-    # sports
+    # sports things
     'archery target',
     'badminton racket',
     'baseball field',
@@ -470,18 +504,5 @@ nouns = [
     'tug of war rope',
     'volley ball net',
     'water polo',
-    
-    #dance
-    'old school',
-    'hip hop',
-    'pop',
-    'salsa',
-    'ballet',
-    'tap dance',
-    'break dance',
-    'b-boying',
-    'line dance',
-    'kathak',
-    
-    
+    'chess board',
 ]
