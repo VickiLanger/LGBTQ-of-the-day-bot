@@ -86,6 +86,7 @@ events = {
     '2017-11-07': 'Virginia voters elect the state`s first openly transgender candidate to the Virginia House of Delegates. Danica Roem unseats incumbent delegate Bob Marshall, who had been elected thirteen times over 26 years. https://www.cnn.com/2017/11/07/politics/danica-roem-virginia-transgender/index.html', 
     '2018-02-26': 'The Pentagon confirms that the first transgender person has signed a contract to join the US military. https://www.cnn.com/2018/02/26/politics/first-transgender-recruit-join-us-military/index.html', 
     '2018-03-23': 'The Trump administration announces a new policy that bans most transgender people from serving in military. After several court battles, the Supreme Court allows the ban to go into effect in January 2019 https://www.cnn.com/2018/03/23/politics/transgender-white-house/index.html', 
+    '2018-09-06': 'The Supreme Court of India decriminalised Section 377 making gay sex legal. https://timesofindia.indiatimes.com/topic/same-sex-marriage'
     '2018-11-06': 'Democratic US Representative Jared Polis wins the Colorado governor`s race, becoming the nation`s first openly gay man to be elected governor https://www.cnn.com/2018/11/06/politics/jared-polis-colorado-gay-governor/index.html', 
     '2019-02-16': 'Nyla Rose became the first openly transgender wrestler in history to sign with a major American promotion. https://en.wikipedia.org/wiki/Nyla_Rose', 
     '2019-04-02': 'Lori Lightfoot was elected Chicago, Illinois first openly gay mayor. https://www.nbcnews.com/news/us-news/lori-lightfoot-elected-chicago-mayor-will-be-1st-black-woman-n990266', 
@@ -95,5 +96,4 @@ events = {
     # 2020s
     '2020-02-12': 'New Jersey residents can now change the gender marker on a driver`s license without a note from a doctor. https://www.northjersey.com/story/news/new-jersey/2020/02/12/nj-mvc-allow-gender-designation-changes-without-doctors-note/4738926002/',
     '2020-06-15': 'The Supreme Court rules that federal law protects LGBTQ workers from discrimination. https://www.cnn.com/2020/06/15/politics/supreme-court-lgbtq-employment-case/index.html',
-    '2018-09-06': 'The Supreme Court of India decriminalised Section 377 making gay sex legal. https://timesofindia.indiatimes.com/topic/same-sex-marriage'
 }
