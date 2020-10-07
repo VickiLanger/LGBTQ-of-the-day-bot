@@ -75,7 +75,7 @@ events = {
     '2012-09-30': 'California bans gay "conversion" therapy for minors https://www.reuters.com/article/us-california-gaytherapy-idUSBRE88T0DR20120930',
     '2012-11-06': 'Tammy Baldwin becomes the first openly gay politician and the first Wisconsin woman to be elected to the US Senate https://www.cnn.com/2012/11/07/politics/wisconsin-tammy-baldwin-senate/', 
     '2013-06-26': 'Repeal of DOMA https://www.americanprogress.org/issues/immigration/news/2013/06/26/68033/what-the-doma-decision-means-for-lgbt-binational-couples/', 
-    '2014-02-09': 'Michael Sam becomes the first openly gay football player in the NFL https://www.espn.com/espn/otl/story/_/id/10429030/michael-sam-missouri-tigers-says-gay'   
+    '2014-02-09': 'Michael Sam becomes the first openly gay football player in the NFL https://www.espn.com/espn/otl/story/_/id/10429030/michael-sam-missouri-tigers-says-gay',   
     '2015-06-09': 'Secretary of Defense Ash Carter announces that the Military Equal Opportunity policy has been adjusted to include gay and lesbian military members. https://www.cnn.com/2015/06/09/politics/carter-sexual-orientation-policy/index.html', 
     '2015-06-26': 'The Supreme Court finally and officially declared same-sex marriage a Constitutional right nationwide https://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html', 
     '2015-07-23': 'The military allows transgender Americans to serve openly in the military. https://www.advocate.com/politics/military/2015/07/13/reports-pentagon-poised-lift-transgender-military-ban', 
