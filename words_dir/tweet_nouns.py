@@ -75,6 +75,12 @@ nouns = [
     'wolf',
     'kookaburra',
     'puffin 🐧',
+    'Dog',
+    'cat',
+    'Bird',
+    'Bat',
+    'Cow',
+    'Giraffe',
 
     # clothing items
     'flannel shirt',
