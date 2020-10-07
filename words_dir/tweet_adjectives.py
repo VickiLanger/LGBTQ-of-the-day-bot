@@ -114,6 +114,12 @@ adjectives = [
     'chubby',
     'gross',
     'ethereal',
+
+    'beautiful,'
+    'plump',
+    'muscular',
+    'skinny',
+    'glamorous',
     'beautiful',
     'butch',
     'femme',
@@ -136,7 +142,10 @@ adjectives = [
     'crooked',
     'circular',
     'thick',
+    'shallow',
+    'narrow',
     'phat',
+
 
     # tastes
     'bitter',
@@ -176,6 +185,8 @@ adjectives = [
     'cacophonous',
     'euphonious',
     'soft',
+    'crashing',
+    'hissing',
 
     # sizes
     'tiny',
@@ -190,6 +201,8 @@ adjectives = [
     'ginormous',
     'vast',
     'average',
+    'colossal',
+    'mammoth',
 
     # colors
     'rosy',
@@ -244,6 +257,7 @@ adjectives = [
     'cedar',
     'ash',
     'mocha',
+    'ashy',
 
     # cold adjectives
     'algid',
