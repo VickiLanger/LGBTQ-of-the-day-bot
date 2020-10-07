@@ -74,6 +74,7 @@ events = {
     '2018-11-06': 'Democratic US Representative Jared Polis wins the Colorado governor`s race, becoming the nation`s first openly gay man to be elected governor https://www.cnn.com/2018/11/06/politics/jared-polis-colorado-gay-governor/index.html',
     '2019-09-22': 'Billy Porter becomes the first openly gay black man to win the Emmy for best lead actor in a drama series. https://www.cnn.com/2019/09/22/entertainment/billy-porter-first-openly-gay-black-actor-emmy/index.html',
     '2020-06-15': 'The Supreme Court rules that federal law protects LGBTQ workers from discrimination. https://www.cnn.com/2020/06/15/politics/supreme-court-lgbtq-employment-case/index.html',
+    '2018-09-06': 'The Supreme Court of India decriminalised Section 377 making gay sex legal. https://timesofindia.indiatimes.com/topic/same-sex-marriage'
 }
 
 
