@@ -24,8 +24,8 @@ def authenticate_api():
         auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
         auth.set_access_token(access_token, access_token_secret)
         return tweepy.API(auth)
-    except Exception:
-        print(f"An error occurred when attempting to authenticate with the twitter API.")
+    except Exception as error:
+        print(f"An error occurred when attempting to authenticate with the twitter API. reason: {error}")
 
 
 

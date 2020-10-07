@@ -49,14 +49,15 @@ adjectives = [
     'witty',
     'lively',
     'tragic',
-    'comic',
-    'comicl',
-    'jocose'.
+    'comical',
+    'jocose',
     'jocular',
     'laughable',
     'hilarious',
     'whimsical',
     'ludicrous',
+    'Adorable ',
+    'Fantastic',
 
     # touch feels
     'fuzzy',
@@ -113,6 +114,11 @@ adjectives = [
     'chubby',
     'gross',
     'ethereal',
+    'beautiful',
+    'butch',
+    'femme',
+    'iconic',
+
 
     # shapes
     'blobby',
@@ -130,6 +136,7 @@ adjectives = [
     'crooked',
     'circular',
     'thick',
+    'phat',
 
     # tastes
     'bitter',
@@ -266,4 +273,17 @@ adjectives = [
     'mild',
     'moderate',
     'pleasant',
+    
+    # weather and temperature 
+    'cold',
+    'hot',
+    'cool',
+    'rainy',
+    'windy',
+    'snowy',
+    'foggy',
+    'sunny',
+    'cloudy',
+    'stormy',
+    'frozen',
     ]
