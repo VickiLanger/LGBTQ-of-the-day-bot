@@ -71,7 +71,6 @@ nouns = [
     'buffalo',
     'sheep',
     'otter',
-    'frog'
     'wolf',
     'kookaburra',
     'puffin 🐧',
@@ -428,6 +427,7 @@ nouns = [
     'mysterious piñata hanging in a hallway',
     'automatic kitty litter box',
     'horribly biased machine learning code out to screw over the most vulnerable',
+    'app that has stories but really shouldn\'t have them',
     'twitter meme trend',
     'unintended consequence of a homogenous software engineering team',
     'indie song about friendship',
@@ -439,10 +439,10 @@ nouns = [
     'scream into the void',
     'mom in sweatpants',
     '[Object] Object',
-    'a ray of light in the distance',
-    'the old folk tale that kept you up at night',
+    'ray of light in the distance',
+    'old folk-tale that kept you up at night',
     'wheelchair-bomb',
-    'a mysterious burrito with no owner',
+    'mysterious burrito with no owner',
     'wrongness parfait',
 
     # types of movies
