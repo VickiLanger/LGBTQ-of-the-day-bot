@@ -86,6 +86,7 @@ events = {
     '2015-07-23': 'The military allows transgender Americans to serve openly in the military. https://www.advocate.com/politics/military/2015/07/13/reports-pentagon-poised-lift-transgender-military-ban', 
     '2015-07-23': 'The Equality Act is introduced. https://en.wikipedia.org/wiki/Equality_Act_United_States', 
     '2015-07-27': 'Boy Scouts of America President Robert Gates announces, "the national executive board ratified a resolution removing the national restriction on openly gay leaders and employees" https://www.cnn.com/2015/07/27/us/boy-scouts-gay-leaders-feat/', 
+    '2015-11-12': 'Indian MP Shashi Tharoor introduced a bill to decriminalise homosexuality but it was rejected by the Lok Sabha. https://www.deccanherald.com/specials/history-of-the-pride-movement-in-india-742950.html',
     '2016-05-17': 'The Senate confirms Eric Fanning to be secretary of the Army, making him the first openly gay secretary of a US military branch https://www.cnn.com/2016/05/17/politics/eric-fanning-secretary-of-the-army/', 
     '2016-06-24': 'Obama announces the designation of the first national monument to lesbian, gay, bisexual and transgender LGBTQ rights. https://obamawhitehouse.archives.gov/blog/2016/06/24/president-obama-designates-stonewall-national-monument', 
     '2016-06-30': 'Secretary of Defense Carter announces that the Pentagon is lifting the ban on transgender people serving openly in the US military. https://www.cnn.com/2016/06/30/politics/transgender-ban-lifted-us-military/', 
