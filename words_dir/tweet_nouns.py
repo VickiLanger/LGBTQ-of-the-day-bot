@@ -394,7 +394,6 @@ nouns = [
     'fae',
     'ghost',
     'ghoul',
-    'infernal',
     'mortal',
     'queen',
     'vampire',
