@@ -123,7 +123,7 @@ nouns = [
     'gown',
     'glove',
     'hoodie',
-    'dynamo'
+    'dynamo',
     'bell-bottoms',
     'sari 🥻',
     'skinny jeans',
