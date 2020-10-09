@@ -6,8 +6,9 @@ Vicki Langer (@vicki_langer)
 
 import tweepy
 # import time
+import random 
 
-from os import environ
+import os
 
 from get_tweet import get_tweet
 # from get_reply import get_reply
@@ -19,6 +20,16 @@ access_token = environ['access_token']
 access_token_secret = environ['access_token_secret']
 
 
+def get_img_random():
+    no=0
+    while(True):
+        no = random.randint(0,99)
+        if(os.path.exists('post_'+str(no)+'.png')):
+            return 'post_'+str(no)+'.png'
+        else:
+            continue
+            
+            
 def authenticate_api():
     try:
         auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -33,10 +44,17 @@ def main():
     api = authenticate_api()
     #reply_with = get_reply()
 
-    print("finding a tweet...")
-    tweet = get_tweet()
-    print("chose tweet: " + tweet)
-    tweet = api.update_status(tweet)  # variable used later for reply to this tweet
+    # print("finding a tweet...")
+    # tweet = get_tweet()
+    # print("chose tweet: " + tweet)
+    
+    #get_tweet() is now done by generateImagePost.py, so the above won't be required
+    
+    #To choose a random image file name:
+    img = get_img_random()
+    
+    #To just upload the selected image to Twitter:
+    tweet = api.update_with_media(img)  # variable used later for reply to this tweet
     print('tweet has been tweeted')
     #api.update_status(status=reply_with, in_reply_to_status_id=tweet.id, auto_populate_reply_metadata=True)
     #print('chose reply:' + reply_with)
