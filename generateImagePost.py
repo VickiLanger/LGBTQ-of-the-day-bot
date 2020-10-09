@@ -31,14 +31,14 @@ def random_image(images):
 
 def write_centre(image, text):
     draw = ImageDraw.Draw(image)
-    draw.text(xy=(450, 325), text=text, fill=(255, 69, 0), font=font_type2)
+    draw.text(xy=(450, 325), text=text, fill=(11, 60, 73), font=font_type2)
 
 
 def write_line(image, text, x, y):
     draw = ImageDraw.Draw(image)
-    draw.text(xy=(x, y), text=text, fill=(255, 69, 0), font=font_type)
-    draw.text(xy=(x, y+35), text=" ", fill=(255, 69, 0), font=font_type)
-    draw.text(xy=(x, y+35), text=" ", fill=(255, 69, 0), font=font_type)
+    draw.text(xy=(x, y), text=text, fill=(11, 60, 73), font=font_type)
+    draw.text(xy=(x, y+35), text=" ", fill=(11, 60, 73), font=font_type)
+    draw.text(xy=(x, y+35), text=" ", fill=(11, 60, 73), font=font_type)
 
 
 # Args:text/tweet , rtype:lst[imageObject,filenam(str)]
