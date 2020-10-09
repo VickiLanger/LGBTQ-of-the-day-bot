@@ -35,8 +35,11 @@ arr=[]
 def getlist_linear():
     for i in range(100):
         if(os.path.exists('post_'+str(i)+'.png')):
-            #add filename to array if exists
+            #add filename{no} to array if exists
             arr.append('post_'+str(i)+'.png')
+        if(os.path.exists('post_'+str(i)+'a.png')):
+            #add filename{no+'a'} to array if exists
+            arr.append('post_'+str(i)+'a.png')
         
 def authenticate_api():
     try:
