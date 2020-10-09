@@ -354,7 +354,7 @@ nouns = [
     'cliff',
     'coast',
     'cave',
-    'desert,
+    'desert',
     'sleet',
     'stars',
     
