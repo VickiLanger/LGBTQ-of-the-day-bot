@@ -14,6 +14,7 @@ events = {
     # 1800s
     '1889-11-03': 'Amelio Robles Ávila is born, the first trans man in Mexico who fought in the Mexican Revolution. https://es.wikipedia.org/wiki/Amelio_Robles_%C3%81vila',
     '1895-05-25': 'Oscar Wilde is convicted of "gross indecency" for having a homosexual relationship with Alfred Taylor, and is sentenced to two years hard labour. https://en.wikipedia.org/wiki/Oscar_Wilde#Imprisonment',
+    '1898-06-05': 'Federico García Lorca is born in Granada, Spain. He was a really important poet, playwright and prose writer who was shot during the spanish Civil War accused of being homosexual. https://es.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca',
 
     # 1920s
     '1924-12-10': 'The Society for Human Rights was founded https://en.wikipedia.org/wiki/Society_for_Human_Rights',
@@ -22,7 +23,7 @@ events = {
 
     # 1940s
 
-    # 1960s
+    # 1950s
     '1950-11-11': 'The Mattachine Society was founded https://en.wikipedia.org/wiki/Mattachine_Society',
     '1952-01-12': 'Alan Turing was charged, trialed, and convicted with "gross indeceny" for having a homosexual relationship with his partner, Arnold Murray https://en.wikipedia.org/wiki/Alan_Turing#Conviction_for_indecency',
     '1955-09-21': 'The Daughters of Bilitis becomes the first lesbian rights organization in the United States https://en.wikipedia.org/wiki/Daughters_of_Bilitis',
@@ -45,10 +46,12 @@ events = {
     '1973-12-15': 'The board of the American Psychiatric Association votes to remove homosexuality from its list of mental illnesses. https://www.hrc.org/news/flashbackfriday-today-in-1973-the-apa-removed-homosexuality-from-list-of-me',
     '1974-04-02': 'Kathy Kozachenko becomes the first openly gay American elected to public office https://www.nbcnews.com/feature/nbc-out/meet-lesbian-who-made-political-history-years-harvey-milk-n1174941',
     '1975-01-14': 'First federal gay rights bill is introduced to address discrimination based on sexual orientation https://www.congress.gov/bill/94th-congress/house-bill/166/all-info',
+    '1977-06-28': 'The Front d\'Alliberament Gai de Catalunya calls the first LGBT Pride demonstration in Barcelona when homosexuality was still illegal in Spain. 5000 people participate. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
     '1977-11-08': 'Harvey Milk wins a seat on the San Francisco Board of Supervisors https://en.wikipedia.org/wiki/Harvey_Milk',
     '1978-01-09': 'Harvey Milk is inaugurated as San Francisco city supervisor, and is the first openly gay man to be elected to a political office in California. http://milkfoundation.org/about/harvey-milk-biography/',
     '1978-06-25': 'The rainbow flag becomes a universal symbol of hope for LGBTQ people around the world https://www.cnn.com/style/article/pride-rainbow-flag-design-history/index.html#:~:text=The%20rainbow%20flag%2C%20which%20has,openly%20gay%20artist%20and%20activist.',
     '1979-10-14': 'An estimated 75,000 people participate in the National March on Washington for Lesbian and Gay Rights. https://en.wikipedia.org/wiki/National_March_on_Washington_for_Lesbian_and_Gay_Rights',
+	'1979-01-11': 'The law that decriminalizes homosexuality in Spain comes into force. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
 
     # 1980s
     '1982-03-02': 'Wisconsin becomes the first U.S. state to outlaw discrimination on the basis of sexual orientation. https://en.wikipedia.org/wiki/LGBT_rights_in_Wisconsin',
@@ -65,6 +68,7 @@ events = {
     # 2000s
     '2001-04-01': 'The Netherlands became the first country to legalize same-sex marriages. https://en.wikipedia.org/wiki/Same-sex_marriage_in_the_Netherlands',
     '2004-05-17': 'The first legal same-sex marriage in the United States takes place in Massachusetts https://www.npr.org/2019/05/17/723649385/the-1st-legally-married-same-sex-couple-wanted-to-lead-by-example',
+    '2005-07-03': 'Same-sex marriage becomes legal in Spain. https://es.wikipedia.org/wiki/Matrimonio_entre_personas_del_mismo_sexo_en_Espa%C3%B1a',
     '2005-07-20': 'The enactment of the Civil Marriage Act allows same-sex couples to be married anywhere in Canada. http://laws-lois.justice.gc.ca/eng/acts/c-31.5/page-1.html',
     '2005-09-06': 'The California legislature becomes the first to pass a bill allowing marriage between same-sex couples. Governor Arnold Schwarzenegger vetoes the bill. https://www.nytimes.com/2005/09/06/national/california-legislature-approves-samesex-marriage-bill.html',
     '2005-12-05': 'The Civil Partnership Act passes, granting civil partnership in the UK. https://en.wikipedia.org/wiki/Civil_Partnership_Act_2004',
@@ -72,6 +76,7 @@ events = {
     '2008-05-15': 'The California Supreme Court rules in re: Marriage Cases that limiting marriage to opposite-sex couples is unconstitutional. https://www.aclunc.org/our-work/legal-docket/re-marriage-cases',
     '2008-11-04': 'Voters approve Proposition 8 in California, which makes same-sex marriage illegal. The proposition is later found to be unconstitutional by a federal judge. https://en.wikipedia.org/wiki/2008_California_Proposition_8',
     '2009-04-03': 'Same-sex marriage is legal in the state of Iowa. https://en.wikipedia.org/wiki/Same-sex_marriage_in_Iowa',
+    '2009-05-16': 'The first monument dedicated to remembering the persecution of homosexuals during the Franco regime is inaugurated in Durango, Spain. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
 
     # 2010s
     '2011-09-20': 'Repeal of DADT https://www.americanprogress.org/issues/lgbtq-rights/reports/2012/09/20/38764/the-repeal-of-dont-ask-dont-tell-1-year-later/',
