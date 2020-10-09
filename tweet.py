@@ -8,7 +8,8 @@ import tweepy
 # import time
 import random 
 
-import os
+import os.path
+from os import environ
 
 from get_tweet import get_tweet
 # from get_reply import get_reply
