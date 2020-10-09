@@ -43,4 +43,5 @@ def main():
     #print('reply has been tweeted')
 
 
-main()
+if __name__ == "__main__":
+    main()
