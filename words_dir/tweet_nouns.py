@@ -347,7 +347,17 @@ nouns = [
     'flower 🌹',
     'sunflower 🌻',
     'aurora',
-
+    'meadow',
+    'rainforest',
+    'volcano',
+    'petrichor',
+    'cliff',
+    'coast',
+    'cave',
+    'desert',
+    'sleet',
+    'stars',
+    
     # classroom objects
     'pencil',
     'pen',
