@@ -27,7 +27,7 @@ events = {
     '1950-11-11': 'The Mattachine Society was founded https://en.wikipedia.org/wiki/Mattachine_Society',
     '1952-01-12': 'Alan Turing was charged, trialed, and convicted with "gross indeceny" for having a homosexual relationship with his partner, Arnold Murray https://en.wikipedia.org/wiki/Alan_Turing#Conviction_for_indecency',
     '1955-09-21': 'The Daughters of Bilitis becomes the first lesbian rights organization in the United States https://en.wikipedia.org/wiki/Daughters_of_Bilitis',
-    '1955-12-20': 'Frank Kameny is fired from his job as an astronomer in the United States Army’s Map Service in Washington, D.C. because of his homosexuality. A few days later he is blacklisted from seeking federal employment.  http://www.thelavendereffect.org/2013/12/20/december-20-in-lgbtq-history-2/',
+    '1955-12-20': 'Frank Kameny is fired from his job as an astronomer in the United States Army’s Map Service in Washington DC because of his homosexuality. A few days later he is denied from seeking federal employment. http://www.thelavendereffect.org/2013/12/20/december-20-in-lgbtq-history-2/',
 
     # 1960s
     '1961-09-11': 'The first US-televised documentary about homosexuality airs on a local station in California. https://en.wikipedia.org/wiki/The_Rejected',
@@ -38,7 +38,7 @@ events = {
     '1969-11-02': 'Craig Rodwell, his partner Fred Sargeant, Ellen Broidy, and Linda Rhodes proposed the first gay pride parade to be held in New York City https://en.wikipedia.org/wiki/Pride_parade#:~:text=On%20November%202%2C%201969%2C%20Craig,ERCHO%20meeting%20in%20Philadelphia.',
 
     # 1970s
-    '1970-06-28': 'Community members in New York City march through the local streets to recognize the one-year anniversary of the Stonewall riots. This event is named Christopher Street Liberation Day and is now considered the first gay pride parade. http://www.pbs.org/wgbh/americanexperience/features/timeline/stonewall/',
+    '1970-06-28': 'Community members in New York City march through the streets to recognize the 1-yr anniversary of the Stonewall riots. This event is now considered the 1st gay pride parade. http://www.pbs.org/wgbh/americanexperience/features/timeline/stonewall/',
     '1972-07-01': 'The first Pride march is held in London, attracting around 2000 participants. https://www.bbc.com/news/uk-england-40533612',
     '1973-01-01': 'Maryland becomes the first state to statutorily ban same-sex marriage. https://www.npr.org/templates/story/story.php?storyId=5164355#:~:text=Maryland%20Judge%20Rejects%20Gay%2DMarriage%20Ban%20A%20Maryland%20circuit%20court,court%20has%20affirmed%20the%20decision.',
     '1973-03-11': 'First meeting of Parents and Friends of Gays https://pflag.org/our-story#:~:text=The%20first%20formal%20meeting%20took,Approximately%2020%20people%20attended.',
@@ -51,7 +51,7 @@ events = {
     '1978-01-09': 'Harvey Milk is inaugurated as San Francisco city supervisor, and is the first openly gay man to be elected to a political office in California. http://milkfoundation.org/about/harvey-milk-biography/',
     '1978-06-25': 'The rainbow flag becomes a universal symbol of hope for LGBTQ people around the world https://www.cnn.com/style/article/pride-rainbow-flag-design-history/index.html#:~:text=The%20rainbow%20flag%2C%20which%20has,openly%20gay%20artist%20and%20activist.',
     '1979-10-14': 'An estimated 75,000 people participate in the National March on Washington for Lesbian and Gay Rights. https://en.wikipedia.org/wiki/National_March_on_Washington_for_Lesbian_and_Gay_Rights',
-	'1979-01-11': 'The law that decriminalizes homosexuality in Spain comes into force. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
+    '1979-01-11': 'The law that decriminalizes homosexuality in Spain comes into force. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
 
     # 1980s
     '1982-03-02': 'Wisconsin becomes the first U.S. state to outlaw discrimination on the basis of sexual orientation. https://en.wikipedia.org/wiki/LGBT_rights_in_Wisconsin',
@@ -94,16 +94,16 @@ events = {
     '2015-07-27': 'Boy Scouts of America President Robert Gates announces, "the national executive board ratified a resolution removing the national restriction on openly gay leaders and employees" https://www.cnn.com/2015/07/27/us/boy-scouts-gay-leaders-feat/',
     '2015-11-12': 'Indian MP Shashi Tharoor introduced a bill to decriminalise homosexuality but it was rejected by the Lok Sabha. https://www.deccanherald.com/specials/history-of-the-pride-movement-in-india-742950.html',
     '2016-05-17': 'The Senate confirms Eric Fanning to be secretary of the Army, making him the first openly gay secretary of a US military branch https://www.cnn.com/2016/05/17/politics/eric-fanning-secretary-of-the-army/',
-    '2016-06-24': 'Obama announces the designation of the first national monument to lesbian, gay, bisexual and transgender LGBTQ rights. https://obamawhitehouse.archives.gov/blog/2016/06/24/president-obama-designates-stonewall-national-monument'
+    '2016-06-24': 'Obama announces the designation of the first national monument to lesbian, gay, bisexual and transgender LGBTQ rights. https://obamawhitehouse.archives.gov/blog/2016/06/24/president-obama-designates-stonewall-national-monument',
     '2016-06-30': 'Secretary of Defense Carter announces that the Pentagon is lifting the ban on transgender people serving openly in the US military. https://www.cnn.com/2016/06/30/politics/transgender-ban-lifted-us-military/',
     '2016-08-05': 'A record number of "out" athletes compete in the summer Olympic Games in Rio de Janeiro. The Human Rights Campaign estimates that there are at least 41 openly lesbian, gay and bisexual Olympians -- up from 23 that participated in London 2012. https://edition.cnn.com/2016/08/11/sport/rio-2016-lgbt-olympians/',
     '2016-09-16': 'Lilly Singh became the first late-night host to ever publicly identify as bisexual. https://en.wikipedia.org/wiki/A_Little_Late_with_Lilly_Singh',
     '2016-11-09': 'Kate Brown is sworn in as governor of Oregon, a day after she was officially elected to the office. Brown becomes the highest-ranking LGBTQ person elected to office in the United States. https://www.npr.org/sections/thetwo-way/2016/11/09/501338927/for-first-time-openly-lgbt-governor-elected-oregons-kate-brown',
     '2017-06-27': 'District of Columbia residents can now choose a gender-neutral option of their driver`s license.  https://www.cnn.com/2017/06/27/health/washington-gender-neutral-drivers-license/index.html',
-    '2017-11-07': 'Virginia voters elect the state`s first openly transgender candidate to the Virginia House of Delegates. Danica Roem unseats incumbent delegate Bob Marshall, who had been elected thirteen times over 26 years. https://www.cnn.com/2017/11/07/politics/danica-roem-virginia-transgender/index.html',
+    '2017-11-07': 'Virginia voters elect the state`s first openly transgender candidate to the Virginia House of Delegates. Danica Roem unseats incumbent delegate Bob Marshall, who had been elected 13 times over 26 years. https://www.cnn.com/2017/11/07/politics/danica-roem-virginia-transgender/index.html',
     '2018-02-26': 'The Pentagon confirms that the first transgender person has signed a contract to join the US military. https://www.cnn.com/2018/02/26/politics/first-transgender-recruit-join-us-military/index.html',
     '2018-03-23': 'The Trump administration announces a new policy that bans most transgender people from serving in military. After several court battles, the Supreme Court allows the ban to go into effect in January 2019 https://www.cnn.com/2018/03/23/politics/transgender-white-house/index.html',
-    '2018-09-06': 'The Supreme Court of India decriminalised Section 377 making gay sex legal. https://timesofindia.indiatimes.com/topic/same-sex-marriage'
+    '2018-09-06': 'The Supreme Court of India decriminalised Section 377 making gay sex legal. https://timesofindia.indiatimes.com/topic/same-sex-marriage',
     '2018-11-06': 'Democratic US Representative Jared Polis wins the Colorado governor`s race, becoming the nation`s first openly gay man to be elected governor https://www.cnn.com/2018/11/06/politics/jared-polis-colorado-gay-governor/index.html',
     '2019-02-16': 'Nyla Rose became the first openly transgender wrestler in history to sign with a major American promotion. https://en.wikipedia.org/wiki/Nyla_Rose',
     '2019-04-02': 'Lori Lightfoot was elected Chicago, Illinois first openly gay mayor. https://www.nbcnews.com/news/us-news/lori-lightfoot-elected-chicago-mayor-will-be-1st-black-woman-n990266',
