@@ -114,4 +114,5 @@ events = {
     # 2020s
     '2020-02-12': 'New Jersey residents can now change the gender marker on a driver`s license without a note from a doctor. https://www.northjersey.com/story/news/new-jersey/2020/02/12/nj-mvc-allow-gender-designation-changes-without-doctors-note/4738926002/',
     '2020-06-15': 'The Supreme Court rules that federal law protects LGBTQ workers from discrimination. https://www.cnn.com/2020/06/15/politics/supreme-court-lgbtq-employment-case/index.html',
+    '2020-09-15': 'India`s most populated state, Uttar Pradesh approves setting up of a transgender welfare board in state. https://indianexpress.com/article/cities/lucknow/up-minister-shastri-approves-setting-up-of-transgender-welfare-board-in-state-6597718/',
 }
