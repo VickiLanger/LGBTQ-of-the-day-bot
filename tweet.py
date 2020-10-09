@@ -92,4 +92,8 @@ def run():
     #Pre-program-end msg
     print('Used up all the images scanned. Generate more images and recall the function/program')
 
+
 run()
+
+if __name__ == "__main__":
+    main()
