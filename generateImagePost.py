@@ -6,6 +6,8 @@ import os
 import os.path
 import random
 
+from get_tweet import get_tweet
+
 from PIL import Image, ImageDraw, ImageFont
 # This is a function returns a list of all images names
 # Args:DIR (directory which holds the images) rtype:lst, containing strings of files name.
@@ -44,17 +46,26 @@ def write_on_image(text):
     file = random_image(images)
     image = Image.open(f'{DIR}/{file}')
     i = 0
-    x, y = 215, 325
+
+    #changed default x, y values so that the else part shows up in center
+    
+    x = (image.width/2) - 260
+    y = 380
+
     if(len(text) > 286):
         return [image, file]
-    elif(len(text) < 75):
+    elif(len(text) < 20):
         write_centre(image, text)
     else:
         divisions = len(text)//35
         remainder = len(text)-divisions*35
+        start_index = 0
         for i in range(divisions+1):
-            write_line(image, text[:35], x, y)
-            text = text.replace(text[:35], " ")
+            line = text[:35]
+            if i == divisions:
+                write_line(image, text[:], x, y)    
+            write_line(image, line[:line.rfind(' ')], x, y)
+            text = text.replace(line[:line.rfind(' ')+1], "")
             y += 35
     return [image, file]
 
@@ -66,21 +77,17 @@ def write_on_image(text):
 
 DIR = 'img_bg'
 images = images_list(DIR)
-
-
-image = Image.open(f'{DIR}/{random_image(images)}')
 font_type = ImageFont.truetype('arial.ttf', 40)
 font_type2 = ImageFont.truetype('arial.ttf', 40*2)
 
-# text="Finish what you start my bro its a sample u can use it anytime bro, this is from a git repository  and i dont know i can solve that issue or not because it's difficult and case sensetive brother baby my life is  not that easy i sware the repository id is one ot two i can not rela."
-text = "Remain valley who mrs uneasy remove wooded him you. Her questions favourite him concealed. We to wife face took he. The taste begin early old why since dried can first. Prepared as or humoured formerly. Evil mrs true get post. Express village evening prudent my as ye hundred forming."
-text_short = "Hello,its me"
+def run(x):
+    for i in range(x):
+        image = Image.open(f'{DIR}/{random_image(images)}')
+        text = get_tweet()
+        # print(text)
+        new_image = write_on_image(text)
+        new_image[0].save(f'post_{new_image[1]}')
 
+        new_image[0].show()
 
-new_image = write_on_image(text)
-new_image2 = write_on_image(text_short)
-new_image2[0].save(f'post_{new_image2[1]}')
-new_image[0].save(f'post_short_{new_image[1]}')
-
-new_image[0].show()
-new_image2[0].show()
+run(1)
