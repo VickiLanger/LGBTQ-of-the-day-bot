@@ -5,7 +5,8 @@ Vicki Langer (@vicki_langer)
 '''
 
 # TODO: add more events, their dates, and a reference link
-# NOTE: list of events with date, title, and a reference link
+
+# NOTE: syntax--> 'YYYY-MM-DD': 'title/description & a reference link',
 # NOTE: place events in order, oldest to newest
 # NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
@@ -15,6 +16,11 @@ events = {
     '1889-11-03': 'Amelio Robles Ávila is born, the first trans man in Mexico who fought in the Mexican Revolution. https://es.wikipedia.org/wiki/Amelio_Robles_%C3%81vila',
     '1895-05-25': 'Oscar Wilde is convicted of "gross indecency" for having a homosexual relationship with Alfred Taylor, and is sentenced to two years hard labour. https://en.wikipedia.org/wiki/Oscar_Wilde#Imprisonment',
     '1898-06-05': 'Federico García Lorca is born in Granada, Spain. He was a really important poet, playwright and prose writer who was shot during the spanish Civil War accused of being homosexual. https://es.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca',
+
+    # 1900s
+    '1901-06-08': 'Post-Roman times, Marcela and Elisa became the first same-sex marriage in Spain. When it was out they had decieved the priest, they fled the country. Yet, their marriage was never voided. https://en.wikipedia.org/wiki/First_same-sex_marriage_in_Spain',
+
+    # 1910s
 
     # 1920s
     '1924-12-10': 'The Society for Human Rights was founded https://en.wikipedia.org/wiki/Society_for_Human_Rights',
@@ -86,6 +92,7 @@ events = {
     '2012-11-06': 'Tammy Baldwin becomes the first openly gay politician and the first Wisconsin woman to be elected to the US Senate https://www.cnn.com/2012/11/07/politics/wisconsin-tammy-baldwin-senate/',
     '2013-05-16': 'Although same-sex unions have been legalized since 2004 in Brazil, only since 2013 is same-sex marriage legal https://en.wikipedia.org/wiki/Same-sex_marriage_in_Brazil',
     '2013-06-26': 'Repeal of DOMA https://www.americanprogress.org/issues/immigration/news/2013/06/26/68033/what-the-doma-decision-means-for-lgbt-binational-couples/',
+    '2013-10-24': 'As a less exclusive alternative to "LGBT," "LGBTQ," and "LGBTQIA+," the acronym "GSRM," which stands for "Gender, Sexual, and Romantic Minorities", has been added to Urban Dictionary. ',
     '2014-02-09': 'Michael Sam becomes the first openly gay football player in the NFL https://www.espn.com/espn/otl/story/_/id/10429030/michael-sam-missouri-tigers-says-gay',
     '2015-06-09': 'Secretary of Defense Ash Carter announces that the Military Equal Opportunity policy has been adjusted to include gay and lesbian military members. https://www.cnn.com/2015/06/09/politics/carter-sexual-orientation-policy/index.html',
     '2015-06-26': 'The Supreme Court finally and officially declared same-sex marriage a Constitutional right nationwide https://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html',
