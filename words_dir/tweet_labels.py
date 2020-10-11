@@ -65,5 +65,5 @@ labels = {
     'polyromantic': '',
     'homoromantic': 'Romantically attracted to those of the same gender.',
     'heteroromantic': 'Romantically attracted to those of the opposite gender.',
-    'autoromantic': 'Romantically attracted to those',
+    'autoromantic': 'Romantically attracted to oneself',
 }
