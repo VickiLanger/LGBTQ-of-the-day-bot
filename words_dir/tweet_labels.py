@@ -10,8 +10,8 @@ Vicki Langer (@vicki_langer)
 labels = {
     # 'label': 'defintion'
     # sexual orientation
-    'gay': 'Possessing sexual and/or emotional attraction towards members of the same sex.',
-    'lesbian': '(of a woman) Homosexual, gay; preferring mostly or exclusively women as romantic or sexual partners.',
+    'gay': 'Possessing sexual and/or emotional attraction towards members of the same sex; Especially men preferring mostly or exclusively men as romantic or sexual partners.',
+    'lesbian': 'A woman whose enduring physical, romantic, and/or emotional attraction is to other women. Some lesbians may prefer to identify as gay or as gay women.',
     'bisexual': 'Sexually attracted to both men and women (by a narrow definition) or to people of multiple or any genders (by a broad definition; compare pansexual).',
     'pansexual': 'Sexually attracted to people regardless of gender.',
     'polysexual': '',
