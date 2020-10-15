@@ -269,7 +269,6 @@ nouns = [
     'software',
     'socket',
     'port',
-    'floppy disk',
     'ethernet cable',
 
     # old tech
@@ -284,7 +283,7 @@ nouns = [
     'flip phone',
     'MP3 player',
     'PDA',
-    'floppy disk',
+    'floppy disc',
     'phonebook',
     'portatable DVD player',
     'dial-up modem',
@@ -435,6 +434,7 @@ nouns = [
     'null bus',
     'null haus',
     'ladle',
+    'surprise casserole',
     'pink bra strap',
     'mysterious piñata hanging in a hallway',
     'automatic kitty litter box',
