@@ -358,7 +358,7 @@ nouns = [
     'sleet',
     'stars',
     'beach 🏖',
-    
+
     # classroom objects
     'pencil',
     'pen',
@@ -527,6 +527,5 @@ nouns = [
     'hula hoops',
     'batting gloves',
     'badminton net',
-    
-    
+
 ]
