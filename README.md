@@ -9,6 +9,9 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/VickiLanger/Queer-of-the-day-bot.svg)](https://GitHub.com/VickiLanger/Queer-of-the-day-bot/graphs/contributors/)
 
 
+[![Follow on Twitter](https://img.shields.io/twitter/follow/LGBTQotd?label=Follow&style=social)](https://twitter.com/LGBTQotd)
+
+
 
 ## Mission
 Share gooofiness in regards to LGBTQ labels, then have a followup tweet to define the label. Also have a "this day in queer history" set of tweets
