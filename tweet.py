@@ -47,7 +47,7 @@ def main():
         image = api.media_upload(image_path)
         # add alt-text
         api.create_media_metadata(
-            image.media_id, alt_text=tweet_content["text"])
+            str(image.media_id), alt_text=tweet_content["text"])
     except Exception as error:
         print(f"An error occurred while generating image. reason: {error}")
 

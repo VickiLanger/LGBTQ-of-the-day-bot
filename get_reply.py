@@ -13,5 +13,5 @@ def get_reply(label):
     if (label_definition == ''):
         return
 
-    reply = f'{label.capitalize()}: label_definition'
+    reply = f'{label.capitalize()}: {label_definition}'
     return reply
