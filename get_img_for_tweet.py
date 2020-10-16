@@ -79,8 +79,8 @@ DIR = 'img_bg'
 OUT_DIR = 'img_post'
 
 images = images_list(DIR)
-font_type = ImageFont.load_default()
-font_type2 = ImageFont.load_default()
+font_type = ImageFont.truetype('assets/Nunito-Regular.ttf', 40)
+font_type2 = ImageFont.truetype('assets/Nunito-Regular.ttf', 40*2)
 
 
 def get_img_for_tweet(tweet_text):
