@@ -300,4 +300,7 @@ adjectives = [
     'cloudy',
     'stormy',
     'frozen',
+    
+    # adverb and adjective pairs
+    'perfectly splendid',
     ]
