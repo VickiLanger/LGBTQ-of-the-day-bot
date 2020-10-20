@@ -30,11 +30,8 @@ labels = {
     'homosexual': 'Possessing sexual and/or emotional attraction towards members of the same sex.',
     'autosexual': 'Someone who primarily feels sexual atraction to themself, but not toward others.',
     'straight': 'Heterosexual, sexually and/or emotionally attracted to members of the opposite sex.',
-<<<<<<< HEAD
-=======
     'aegosexual': 'lacking any desire to be a participant in the sexual activities therein',
     'abrosexual': 'Abrosexual refers to an individual whose sexuality is changing or fluid. For example, someone could be gay one day, then be asexual the next, then polysexual the next.',
->>>>>>> bfc36d0... add definition for abrosexual
 
     # gender orientation
     'demiboy': 'A person who identifies as partially, but not completely, male.',
@@ -55,7 +52,8 @@ labels = {
     'pangender': 'Pangender, or omnigender, is a gender identity in which a person either identifies as a countless number of separate identities that they are fluid between over time.',
     'genderfluid': 'Genderfluid individuals have different gender identities at different times. A genderfluid individual\'s gender identity could be multiple genders at once and then switch to none at all, or move between single gender identities, or some other combination.',
     'novigender': 'Nonbinary gender identity with several definitions:\n-someone who feels that gender identity or existing gender terms don\'t apply to them\n-someone who isn\'t sure whether they experience gender or what gender identity means for them\n-can be used as an alternative to "questioning"',
-    'androgynous': 'A wide category of gender-expression that either mixes masculine and feminine markers, or omits them entirely.Intersex people are people born with any variation in sex characteristics including chromosomes, gonads, sex hormones, or genitals that do not fit the typical definitions of male or female bodies.',
+    'androgynous': 'A wide category of gender-expression that either mixes masculine and feminine markers, or omits them entirely.
+    'intersex': 'Intersex people are people born with any variation in sex characteristics including chromosomes, gonads, sex hormones, or genitals that do not fit the typical definitions of male or female bodies.',
     'neutrois': 'Neutrois is an identity under the nonbinary and transgender umbrellas. Generally speaking, neutrois is a transsexual identity, meaning that it involves gender dysphoria and a desire to make a physical transition to a gender neutral presentation.',
     'trigender': 'Trigender people experience three genders, at the same time, or moving between the three at different times. These three genders can be any gender, either binary or nonbinary.',
 
