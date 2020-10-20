@@ -73,10 +73,10 @@ labels = {
     'autoromantic': 'Romantically attracted to oneself',
     
     # subculture labels?
-    'butch': '',
-    'femme': '',
-    'lipstick lesbian': '',
-    'bear': '',
-    'polyamorous': '',
-    'baby dyke': '',
+    'butch': 'Butch is a term in lesbian subculture to describe a lesbian who presents in a masculine way.',
+    'femme': 'Femme is a term in lesbian subculture to describe a lesbian, bisexual, or otherwise sapphic woman (or feminine-alinged non-binary person) who presents in a feminine way.',
+    'lipstick lesbian': 'Another term for a femme lesbian; a lesbian who presents in a feminine way.',
+    'bear': 'A gay man who presents in a very masculine way.',
+    'polyamorous': 'Polyamory is the ability and/or desire to be in a relationship with more than one person at a time.',
+    'baby dyke': 'A young, sometimes inexperienced lesbian.',
 }
