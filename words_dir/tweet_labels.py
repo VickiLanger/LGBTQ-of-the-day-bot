@@ -30,6 +30,11 @@ labels = {
     'homosexual': 'Possessing sexual and/or emotional attraction towards members of the same sex.',
     'autosexual': 'Someone who primarily feels sexual atraction to themself, but not toward others.',
     'straight': 'Heterosexual, sexually and/or emotionally attracted to members of the opposite sex.',
+<<<<<<< HEAD
+=======
+    'aegosexual': 'lacking any desire to be a participant in the sexual activities therein',
+    'abrosexual': 'Abrosexual refers to an individual whose sexuality is changing or fluid. For example, someone could be gay one day, then be asexual the next, then polysexual the next.',
+>>>>>>> bfc36d0... add definition for abrosexual
 
     # gender orientation
     'demiboy': 'A person who identifies as partially, but not completely, male.',
