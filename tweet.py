@@ -8,18 +8,17 @@ import tweepy
 import time
 import random
 
+
 from os import environ, remove
 
 from get_tweet_content import get_tweet_content
 from get_img_for_tweet import get_img_for_tweet
 from get_reply import get_reply
 
-
 consumer_key = environ['consumer_key']
 consumer_secret = environ['consumer_secret']
 access_token = environ['access_token']
 access_token_secret = environ['access_token_secret']
-
 
 def authenticate_api():
     try:
