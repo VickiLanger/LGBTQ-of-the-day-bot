@@ -6,9 +6,12 @@ Vicki Langer (@vicki_langer)
 
 # TODO: add more adjectives
 # TODO: add defintions.
+# NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 
 labels = {
-    # 'label': 'defintion'
+    # 'label': 'defintion',
+    
     # sexual orientation
     'gay': 'Possessing sexual and/or emotional attraction towards members of the same sex; Especially men preferring mostly or exclusively men as romantic or sexual partners.',
     'lesbian': 'A woman whose enduring physical, romantic, and/or emotional attraction is to other women. Some lesbians may prefer to identify as gay or as gay women.',
@@ -68,4 +71,12 @@ labels = {
     'homoromantic': 'Romantically attracted to those of the same gender.',
     'heteroromantic': 'Romantically attracted to those of the opposite gender.',
     'autoromantic': 'Romantically attracted to oneself',
+    
+    # subculture labels?
+    'butch': '',
+    'femme': '',
+    'lipstick lesbian': '',
+    'bear': '',
+    'polyamorous': '',
+    'baby dyke': '',
 }
