@@ -10,7 +10,7 @@ Vicki Langer (@vicki_langer)
 
 
 labels = {
-    # 'label': 'defintion'
+    # 'label': 'defintion',
     
     # sexual orientation
     'gay': 'Possessing sexual and/or emotional attraction towards members of the same sex; Especially men preferring mostly or exclusively men as romantic or sexual partners.',
