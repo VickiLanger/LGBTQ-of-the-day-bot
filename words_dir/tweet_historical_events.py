@@ -23,11 +23,19 @@ events = {
     # 1910s
 
     # 1920s
-    '1924-12-10': 'The Society for Human Rights was founded https://en.wikipedia.org/wiki/Society_for_Human_Rights',
+    '1924-12-10': 'The Society for Human Rights was founded. https://en.wikipedia.org/wiki/Society_for_Human_Rights',
+    '1926-03-06': 'The Hamilton Lodge Ball of Harlem attracts thousands of cross-dressing men and women https://www.queermusicheritage.com/nov2014hamilton.html',
+    '1927-01-19': 'First appearance of "homosexual" in the Congressional Record. https://ucsd.libguides.com/lgbtdocs/timeline',
+    '1927-02-08': 'First appearance of "lesbian" in the Congressional Record. https://ucsd.libguides.com/lgbtdocs/timeline',
 
     # 1930s
+    '1932-01-01': '"Man into Woman: An Authentic Record of a Change of Sex," the story of the life of Lili Elbe published. https://en.wikipedia.org/wiki/Lili_Elbe',
+    '1935-04-09': 'Sigmund Freud writes "Letter to an American Mother", urging compassion and tolerance for homosexuality. https://commons.wikimedia.org/wiki/File:A_Letter_from_Freud_to_a_mother_of_a_homosexual_-_1935_-_1.jpg',
 
     # 1940s
+    '1945-02-20': 'First appearance of "bisexual" in the Congressional Record. https://ucsd.libguides.com/lgbtdocs/timeline',
+    '1947-06-01': 'Lisa Ben publishes "Vice Versa", the earliest known US periodical published especially for lesbians. https://en.wikipedia.org/wiki/Vice_Versa_(magazine)',
+    '1948-03-01': 'Alfred Kinsey publishes "Sexual Behavior in the Human Male", concluding that homosexual behavior is not restricted to those who identify as homosexual and that 37% of men have enjoyed homosexual activities at least once. https://www.pbs.org/wgbh/americanexperience/features/stonewall-milestones-american-gay-rights-movement/',
 
     # 1950s
     '1950-11-11': 'The Mattachine Society was founded https://en.wikipedia.org/wiki/Mattachine_Society',
@@ -51,7 +59,8 @@ events = {
     '1973-03-26': 'First meeting of "Parents and Friends of Gays," which goes national as Parents, Families and Friends of Lesbians and Gays (PFLAG) in 1982. https://pflag.org/our-story',
     '1973-12-15': 'The board of the American Psychiatric Association votes to remove homosexuality from its list of mental illnesses. https://www.hrc.org/news/flashbackfriday-today-in-1973-the-apa-removed-homosexuality-from-list-of-me',
     '1974-04-02': 'Kathy Kozachenko becomes the first openly gay American elected to public office https://www.nbcnews.com/feature/nbc-out/meet-lesbian-who-made-political-history-years-harvey-milk-n1174941',
-    '1975-01-14': 'First federal gay rights bill is introduced to address discrimination based on sexual orientation https://www.congress.gov/bill/94th-congress/house-bill/166/all-info',
+    '1974-05-14': 'The Equality Act of 1974 prohibits discrimination "on the basis of sex, marital status, and sexual orientation, and for other purposes." https://ucsd.libguides.com/lgbtdocs/timeline',
+    '1975-01-14': 'First federal gay rights bill is introduced to address discrimination based on sexual orientation (Civil Rights Amendments of 1975). https://www.congress.gov/bill/94th-congress/house-bill/166/all-info',
     '1977-06-28': 'The Front d\'Alliberament Gai de Catalunya calls the first LGBT Pride demonstration in Barcelona when homosexuality was still illegal in Spain. 5000 people participate. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
     '1977-11-08': 'Harvey Milk wins a seat on the San Francisco Board of Supervisors https://en.wikipedia.org/wiki/Harvey_Milk',
     '1977-07-08': 'João W. Nery became the first brazilian transgender to have undergone sex-change surgery in Brazil https://en.wikipedia.org/wiki/Jo%C3%A3o_W._Nery',
