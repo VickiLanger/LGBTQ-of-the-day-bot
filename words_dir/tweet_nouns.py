@@ -552,7 +552,7 @@ nouns = [
     # fashion trends
     'chelsea boot',
     'cuffed pants and sleeves',
-<<<<<<< HEAD
+# TODO <<<<<<< HEAD
     'tight-rolled pants',
     'asymmetrical undercut',
     'septum piercing',
