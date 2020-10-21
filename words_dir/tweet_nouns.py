@@ -221,7 +221,8 @@ nouns = [
     'kachori',
     'kheer',
     'chowmin',
-    'tea',
+    'bread🍞',
+    'tea☕',
     'yoghurt',
     'coffee',
     'gulab jamun',
@@ -236,7 +237,7 @@ nouns = [
     'tiramisu',
 
     # computer things
-    'laptop',
+    'laptop💻',
     'keyboard',
     'dual-monitor desk setup',
     'laptop stand',
