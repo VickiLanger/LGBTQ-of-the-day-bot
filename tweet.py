@@ -4,7 +4,7 @@ tweet.py: post tweets to twitter.com
 Vicki Langer (@vicki_langer)
 '''
 
-import tweepy
+import tweepy # type: ignore
 import time
 import random
 

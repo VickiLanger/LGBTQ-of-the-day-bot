@@ -14,7 +14,8 @@
 
 
 ## Mission
-Share gooofiness in regards to LGBTQ labels, then have a followup tweet to define the label. Also have a "this day in queer history" set of tweets
+
+Share goofiness in regards to LGBTQ labels, then have a followup tweet to define the label. Also have a "this day in queer history" set of tweets
 
 ![Screeshot of tweets: "today's queerness is a high af genderqueer Sega" "today's queerness is a biromatic flannel shirt" "today's queerness is a blobby demigirl N64"](https://repository-images.githubusercontent.com/294564715/007d7100-f804-11ea-88b4-d5cc00092fcb)
 
@@ -22,7 +23,7 @@ Share gooofiness in regards to LGBTQ labels, then have a followup tweet to defin
 
 If you would like to contribute, feel free to make a pull request.
 
-First time? I suggest starting with adding a some nouns to `tweet_nouns.py`. Check out [issue #3 to add nouns](https://github.com/VickiLanger/Queer-of-the-day-bot/issues/3) for more details.
+First time? I suggest starting with adding some nouns to `tweet_nouns.py`. Check out [issue #3 to add nouns](https://github.com/VickiLanger/Queer-of-the-day-bot/issues/3) for more details.
 
 If you need more of a step-by-step, skim through [this article about making your first contribution](https://dev.to/vickilanger/open-up-to-open-source-contributing-5hla).
 
@@ -58,7 +59,7 @@ If you've contributed and would like to add your name to this list, please follo
 ```
 
 #### Designers and Front Enders
-You're welcome to substitute dribbble, behance, instagram, or your portfolio links in the GitHub and Twitter columns. The goal is for people to be able to find you
+You're welcome to substitute dribbble, behance, instagram, or your portfolio links in the GitHub and Twitter columns. The goal is for people to be able to find you.
 
 
 Reference Stuff

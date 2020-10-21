@@ -5,10 +5,11 @@
 import os
 import os.path
 import random
+import textwrap
 
 from get_tweet import get_tweet
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont # type: ignore
 # This is a function returns a list of all images names
 # Args:DIR (directory which holds the images) rtype:lst, containing strings of files name.
 
@@ -31,45 +32,39 @@ def random_image(images):
 
 def write_centre(image, text):
     draw = ImageDraw.Draw(image)
-    draw.text(xy=(450, 325), text=text, fill=(11, 60, 73), font=font_type2)
+    #use the text size to determine the x and y axis
+    x,y=font_type2.getsize(text)
+    draw.text(((1600-x)/2, (900-y)/2), text=text, fill=(11, 60, 73), font=font_type2)
 
 
 def write_line(image, text, x, y):
     draw = ImageDraw.Draw(image)
-    draw.text(xy=(x, y), text=text, fill=(11, 60, 73), font=font_type)
-    draw.text(xy=(x, y+35), text=" ", fill=(11, 60, 73), font=font_type)
-    draw.text(xy=(x, y+35), text=" ", fill=(11, 60, 73), font=font_type)
+    draw.text(((1600-x)/2, (900-y)/2), text=text, fill=(11, 60, 73), font=font_type)
 
 
 # Args:text/tweet , rtype:lst[imageObject,filenam(str)]
 def write_on_image(text):
     file = random_image(images)
     image = Image.open(f'{DIR}/{file}')
-    i = 0
-
-    # changed default x, y values so that the else part shows up in center
-
-    x = (image.width/2) - 260
-    y = 380
 
     if(len(text) > 286):
         return [image, file]
     elif(len(text) < 20):
         write_centre(image, text)
     else:
-        divisions = len(text)//35
-        remainder = len(text)-divisions*35
-        start_index = 0
-        for i in range(divisions+1):
-            line = text[:35]
-            if i == divisions:
-                write_line(image, text[:], x, y)
-            write_line(image, line[:line.rfind(' ')], x, y)
-            text = text.replace(line[:line.rfind(' ')+1], "")
-            y += 35
+        #use the python wrap text function to wrap text by words on maximum of 35 charaters.
+        wrapped_lines = textwrap.wrap(text, 35)
+
+        x,y=font_type.getsize(wrapped_lines[0])
+        # offset y for the number of lines in the list
+        y=y+len(wrapped_lines)*80
+        for line in wrapped_lines:
+            x,h=font_type.getsize(line)
+            write_line(image, line, x, y)
+            y-=160
     return [image, file]
 
-# Now we have an aray contain an image object returned so we can pass it into a function to tweet or to save locally with
+# Now we have an array contain an image object returned so we can pass it into a function to tweet or to save locally with
 # the returned file name arr[1]
 
 # Driver program to test all above functions:
@@ -88,4 +83,5 @@ def get_img_for_tweet(tweet_text):
     new_image = write_on_image(tweet_text)
     new_image_path = f'{OUT_DIR}/post_{new_image[1]}'
     new_image[0].save(f'{new_image_path}')
+
     return new_image_path
