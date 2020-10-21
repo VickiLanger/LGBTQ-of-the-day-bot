@@ -530,4 +530,13 @@ nouns = [
     'batting gloves',
     'badminton net',
 
+    # fashion trends
+    'cuffed pants and sleeves',
+    'tight-rolled pants',
+
+    # queer things
+    'gogo boy',
+    'drag queen',
+    'drag king',
+    'wall plastered with varying pride flags',
 ]
