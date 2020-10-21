@@ -552,7 +552,6 @@ nouns = [
     # fashion trends
     'chelsea boot',
     'cuffed pants and sleeves',
-<<<<<<< HEAD
     'tight-rolled pants',
     'asymmetrical undercut',
     'septum piercing',
@@ -564,14 +563,10 @@ nouns = [
     'gogo boy',
     'chosen family',
     'drag queen',
-=======
     'french cuff',
     'tight-rolled pant',
 
-
-
     # queer things
->>>>>>> 01c02b9ad99ca77ee2ba59fbd57c9d6d91441bcc
     'drag king',
     'drag queen',
     'gogo boy',
