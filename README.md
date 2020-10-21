@@ -50,6 +50,7 @@ All contributions are greatly appreciated.
 | Nuttaphat Arunoprayoch | Added nouns | https://github.com/nat236919 | https://twitter.com/nat236919 |
 | Jasir Mohammad Zaeem | [Improved tweeting images](https://github.com/VickiLanger/LGBTQ-of-the-day-bot/pull/100) & [added reply with label definitions](https://github.com/VickiLanger/LGBTQ-of-the-day-bot/pull/101) | https://github.com/JasirZaeem | https://zaeem.dev |
 | Yechiel Kalmenson | Added definitions for many of the labels | https://github.com/achasveachas | [@YechielK](https://twitter.com/yechielk) |
+| Ruthiel Trevisan | Add some facts about LGBTI+ | https://github.com/ruthiel | https://twitter.com/tofucru |
 
 If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
 ```markdown

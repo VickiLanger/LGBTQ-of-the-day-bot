@@ -11,8 +11,11 @@ Vicki Langer (@vicki_langer)
 # NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 events = {
+    #1600s
+    '1629-01-01': 'In 1629, the General Court of Colonial Virginia met to decide if a certain settler was male or female. https://www.history.com/news/intersex-people-casimir-pulaski-thomasine-hall',
 
     # 1800s
+    '1871-01-01': 'Homosexuality was technically made illegal in Germany in 1871, but it was rarely enforced until the Nazi Party took power in 1933. https://www.history.com/news/pink-triangle-nazi-concentration-camps',
     '1889-11-03': 'Amelio Robles Ávila is born, the first trans man in Mexico who fought in the Mexican Revolution. https://es.wikipedia.org/wiki/Amelio_Robles_%C3%81vila',
     '1895-05-25': 'Oscar Wilde is convicted of "gross indecency" for having a homosexual relationship with Alfred Taylor, and is sentenced to two years hard labour. https://en.wikipedia.org/wiki/Oscar_Wilde#Imprisonment',
     '1898-06-05': 'Federico García Lorca is born in Granada, Spain. He was a really important poet, playwright and prose writer who was shot during the spanish Civil War accused of being homosexual. https://es.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca',
@@ -23,14 +26,26 @@ events = {
     # 1910s
 
     # 1920s
-    '1924-12-10': 'The Society for Human Rights was founded https://en.wikipedia.org/wiki/Society_for_Human_Rights',
+    '1924-12-10': 'The Society for Human Rights was founded. https://en.wikipedia.org/wiki/Society_for_Human_Rights',
+    '1926-03-06': 'The Hamilton Lodge Ball of Harlem attracts thousands of cross-dressing men and women https://www.queermusicheritage.com/nov2014hamilton.html',
+    '1927-01-19': 'First appearance of "homosexual" in the Congressional Record. https://ucsd.libguides.com/lgbtdocs/timeline',
+    '1927-02-08': 'First appearance of "lesbian" in the Congressional Record. https://ucsd.libguides.com/lgbtdocs/timeline',
 
     # 1930s
+    '1932-01-01': '"Man into Woman: An Authentic Record of a Change of Sex," the story of the life of Lili Elbe published. https://en.wikipedia.org/wiki/Lili_Elbe',
+    '1935-04-09': 'Sigmund Freud writes "Letter to an American Mother", urging compassion and tolerance for homosexuality. https://commons.wikimedia.org/wiki/File:A_Letter_from_Freud_to_a_mother_of_a_homosexual_-_1935_-_1.jpg',
 
     # 1940s
+    '1945-04-01': 'The United States Holocaust Memorial Museum estimates 100,000 gay men were arrested and between 5,000 and 15,000 were placed in concentration camps. https://www.history.com/news/pink-triangle-nazi-concentration-camps',
+    '1945-04-01': 'Just as Jews were forced to identify themselves with yellow stars, gay men in concentration camps had to wear a large pink triangle. https://www.history.com/news/pink-triangle-nazi-concentration-camps',
+
+    '1945-02-20': 'First appearance of "bisexual" in the Congressional Record. https://ucsd.libguides.com/lgbtdocs/timeline',
+    '1947-06-01': 'Lisa Ben publishes "Vice Versa", the earliest known US periodical published especially for lesbians. https://en.wikipedia.org/wiki/Vice_Versa_(magazine)',
+    '1948-03-01': 'Alfred Kinsey publishes "Sexual Behavior in the Human Male", concluding that homosexual behavior is not restricted to those who identify as homosexual and that 37% of men have enjoyed homosexual activities at least once. https://www.pbs.org/wgbh/americanexperience/features/stonewall-milestones-american-gay-rights-movement/',
 
     # 1950s
     '1950-11-11': 'The Mattachine Society was founded https://en.wikipedia.org/wiki/Mattachine_Society',
+    '1951-01-01': 'Roberta Cowell is the first known British trans woman to undergo reassignment surgery https://en.wikipedia.org/wiki/Roberta_Cowell',
     '1952-01-12': 'Alan Turing was charged, trialed, and convicted with "gross indeceny" for having a homosexual relationship with his partner, Arnold Murray https://en.wikipedia.org/wiki/Alan_Turing#Conviction_for_indecency',
     '1955-09-21': 'The Daughters of Bilitis becomes the first lesbian rights organization in the United States https://en.wikipedia.org/wiki/Daughters_of_Bilitis',
     '1955-12-20': 'Frank Kameny is fired from his job as an astronomer in the United States Army’s Map Service in Washington DC because of his homosexuality. A few days later he is denied from seeking federal employment. http://www.thelavendereffect.org/2013/12/20/december-20-in-lgbtq-history-2/',
@@ -45,13 +60,16 @@ events = {
 
     # 1970s
     '1970-06-28': 'Community members in New York City march through the streets to recognize the 1-yr anniversary of the Stonewall riots. This event is now considered the 1st gay pride parade. http://www.pbs.org/wgbh/americanexperience/features/timeline/stonewall/',
+    '1972-01-01': 'In 1972, The Men with the Pink Triangle, the first autobiography of a gay concentration camp survivor, was published. https://www.history.com/news/pink-triangle-nazi-concentration-camps',
+    '1973-01-01': 'In 1973, post-war Germany’s first gay rights organization, Homosexuelle Aktion Westberlin (HAW), reclaimed the pink triangle as a symbol of liberation. https://nursingclio.org/2017/04/20/pink-triangle-legacies-holocaust-memory-and-international-gay-rights-activism/#footnoteref2',
     '1972-07-01': 'The first Pride march is held in London, attracting around 2000 participants. https://www.bbc.com/news/uk-england-40533612',
     '1973-01-01': 'Maryland becomes the first state to statutorily ban same-sex marriage. https://www.npr.org/templates/story/story.php?storyId=5164355#:~:text=Maryland%20Judge%20Rejects%20Gay%2DMarriage%20Ban%20A%20Maryland%20circuit%20court,court%20has%20affirmed%20the%20decision.',
     '1973-03-11': 'First meeting of Parents and Friends of Gays https://pflag.org/our-story#:~:text=The%20first%20formal%20meeting%20took,Approximately%2020%20people%20attended.',
     '1973-03-26': 'First meeting of "Parents and Friends of Gays," which goes national as Parents, Families and Friends of Lesbians and Gays (PFLAG) in 1982. https://pflag.org/our-story',
     '1973-12-15': 'The board of the American Psychiatric Association votes to remove homosexuality from its list of mental illnesses. https://www.hrc.org/news/flashbackfriday-today-in-1973-the-apa-removed-homosexuality-from-list-of-me',
     '1974-04-02': 'Kathy Kozachenko becomes the first openly gay American elected to public office https://www.nbcnews.com/feature/nbc-out/meet-lesbian-who-made-political-history-years-harvey-milk-n1174941',
-    '1975-01-14': 'First federal gay rights bill is introduced to address discrimination based on sexual orientation https://www.congress.gov/bill/94th-congress/house-bill/166/all-info',
+    '1974-05-14': 'The Equality Act of 1974 prohibits discrimination "on the basis of sex, marital status, and sexual orientation, and for other purposes." https://ucsd.libguides.com/lgbtdocs/timeline',
+    '1975-01-14': 'First federal gay rights bill is introduced to address discrimination based on sexual orientation (Civil Rights Amendments of 1975). https://www.congress.gov/bill/94th-congress/house-bill/166/all-info',
     '1977-06-28': 'The Front d\'Alliberament Gai de Catalunya calls the first LGBT Pride demonstration in Barcelona when homosexuality was still illegal in Spain. 5000 people participate. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
     '1977-11-08': 'Harvey Milk wins a seat on the San Francisco Board of Supervisors https://en.wikipedia.org/wiki/Harvey_Milk',
     '1977-07-08': 'João W. Nery became the first brazilian transgender to have undergone sex-change surgery in Brazil https://en.wikipedia.org/wiki/Jo%C3%A3o_W._Nery',
@@ -66,6 +84,7 @@ events = {
 
     # 1990s
     '1993-11-30': 'President Bill Clinton signs a military policy directive that prohibits openly gay and lesbian Americans from serving in the military, but also prohibits the harassment of closeted homosexuals https://www.cnn.com/2013/02/01/us/bill-clinton-fast-facts/index.html',
+    '1996-01-01': 'A landmark case rules that an employee who was about to transition was wrongfully dismissed https://en.wikipedia.org/wiki/P_v_S_and_Cornwall_County_Council',
     '1996-03-12': "Hawaii's Judge Chang rules that the state does not have a legal right to deprive same-sex couples of the right to marry, making Hawaii the first state to recognize that gay and lesbian couples are entitled to the same privileges as heterosexual married couples. https://web.archive.org/web/19990203044430/http://www.cnn.com/US/9612/03/same.sex.marriage/",
     '1997-04-14': 'Comedian Ellen DeGeneres comes out as a lesbian on the cover of Time magazine http://content.time.com/time/covers/0,16641,19970414,00.html',
     '1997-04-30': "DeGeneres' character, Ellen Morgan, on her self-titled TV series 'Ellen' becomes the first leading character to come out on a prime-time network television show. https://en.wikipedia.org/wiki/Ellen_(TV_series)",
