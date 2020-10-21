@@ -18,7 +18,7 @@ import random
 def tweet_historicat_event():
     api = authenticate_api()
 
-    # declare empty string
+    # declare an empty string
     history_tweet = ""
     tweet_template = "This day in LGBTQ history: "
 
