@@ -7,6 +7,7 @@ Vicki Langer (@vicki_langer)
 # TODO: add more nouns
 # NOTE: nouns should be singular (e.g. 'boot' not 'boots')
 # NOTE: must make sense in "{adjective} {label} {noun}" (example: tiny queer [something])
+# NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 nouns = [
     # animals

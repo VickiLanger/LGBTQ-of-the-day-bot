@@ -6,6 +6,7 @@ Vicki Langer (@vicki_langer)
 
 # TODO: add more adjectives
 # NOTE: must make sense in "{adjective} {label} {noun}" (example: [adjective] queer book)
+# NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 adjectives = [
     'funky',
@@ -288,8 +289,8 @@ adjectives = [
     'mild',
     'moderate',
     'pleasant',
-    
-    # weather and temperature 
+
+    # weather and temperature
     'cold',
     'hot',
     'cool',
@@ -301,7 +302,7 @@ adjectives = [
     'cloudy',
     'stormy',
     'frozen',
-    
+
     # adverb and adjective pairs
     'perfectly splendid',
     ]
