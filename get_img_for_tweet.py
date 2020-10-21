@@ -9,7 +9,7 @@ import textwrap
 
 from get_tweet import get_tweet
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont # type: ignore
 # This is a function returns a list of all images names
 # Args:DIR (directory which holds the images) rtype:lst, containing strings of files name.
 
@@ -83,8 +83,5 @@ def get_img_for_tweet(tweet_text):
     new_image = write_on_image(tweet_text)
     new_image_path = f'{OUT_DIR}/post_{new_image[1]}'
     new_image[0].save(f'{new_image_path}')
-
-    #to be removed in final version
-    new_image[0].show()
 
     return new_image_path
