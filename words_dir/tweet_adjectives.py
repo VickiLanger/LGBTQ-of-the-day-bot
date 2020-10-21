@@ -5,6 +5,7 @@ Vicki Langer (@vicki_langer)
 '''
 
 # TODO: add more adjectives
+# NOTE: must make sense in "{adjective} {label} {noun}" (example: [adjective] queer book)
 
 adjectives = [
     'funky',

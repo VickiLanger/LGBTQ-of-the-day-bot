@@ -5,13 +5,14 @@ Vicki Langer (@vicki_langer)
 '''
 
 # TODO: add more adjectives
-# TODO: add defintions.
+# TODO: add defintions
+# NOTE: must make sense in "{adjective} {label} {noun}" (example: tiny [somelabel] book)
 # NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
 labels = {
     # 'label': 'defintion',
-    
+
     # sexual orientation
     'gay': 'Possessing sexual and/or emotional attraction towards members of the same sex; Especially men preferring mostly or exclusively men as romantic or sexual partners.',
     'lesbian': 'A woman whose enduring physical, romantic, and/or emotional attraction is to other women. Some lesbians may prefer to identify as gay or as gay women.',
@@ -55,7 +56,7 @@ labels = {
     'pangender': 'Pangender, or omnigender, is a gender identity in which a person either identifies as a countless number of separate identities that they are fluid between over time.',
     'genderfluid': 'Genderfluid individuals have different gender identities at different times. A genderfluid individual\'s gender identity could be multiple genders at once and then switch to none at all, or move between single gender identities, or some other combination.',
     'novigender': 'Nonbinary gender identity with several definitions:\n-someone who feels that gender identity or existing gender terms don\'t apply to them\n-someone who isn\'t sure whether they experience gender or what gender identity means for them\n-can be used as an alternative to "questioning"',
-    'androgynous': 'A wide category of gender-expression that either mixes masculine and feminine markers, or omits them entirely.
+    'androgynous': 'A wide category of gender-expression that either mixes masculine and feminine markers, or omits them entirely.',
     'intersex': 'Intersex people are people born with any variation in sex characteristics including chromosomes, gonads, sex hormones, or genitals that do not fit the typical definitions of male or female bodies.',
     'neutrois': 'Neutrois is an identity under the nonbinary and transgender umbrellas. Generally speaking, neutrois is a transsexual identity, meaning that it involves gender dysphoria and a desire to make a physical transition to a gender neutral presentation.',
     'trigender': 'Trigender people experience three genders, at the same time, or moving between the three at different times. These three genders can be any gender, either binary or nonbinary.',
@@ -71,7 +72,7 @@ labels = {
     'homoromantic': 'Romantically attracted to those of the same gender.',
     'heteroromantic': 'Romantically attracted to those of the opposite gender.',
     'autoromantic': 'Romantically attracted to oneself',
-    
+
     # subculture labels?
     'butch': 'Butch is a term in lesbian subculture to describe a lesbian who presents in a masculine way.',
     'femme': 'Femme is a term in lesbian subculture to describe a lesbian, bisexual, or otherwise sapphic woman (or feminine-alinged non-binary person) who presents in a feminine way.',
