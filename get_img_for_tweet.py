@@ -8,7 +8,7 @@ import random
 
 from get_tweet import get_tweet
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont # type: ignore
 # This is a function returns a list of all images names
 # Args:DIR (directory which holds the images) rtype:lst, containing strings of files name.
 
