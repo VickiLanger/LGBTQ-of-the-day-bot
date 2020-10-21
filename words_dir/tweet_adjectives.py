@@ -4,7 +4,7 @@ tweet_adjectives.py: list of adjectives used to build tweet.py
 Vicki Langer (@vicki_langer)
 '''
 
-# TODO: add more adjectives
+# TODO: add more adjectives, in alphabetical order
 # NOTE: must make sense in "{adjective} {label} {noun}" (example: [adjective] queer book)
 # NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 

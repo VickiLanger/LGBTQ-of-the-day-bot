@@ -4,7 +4,7 @@ tweet_labels.py: list of labels used to build tweet.py
 Vicki Langer (@vicki_langer)
 '''
 
-# TODO: add more adjectives
+# TODO: add more labels, in alphabetical order
 # TODO: add defintions
 # NOTE: must make sense in "{adjective} {label} {noun}" (example: tiny [somelabel] book)
 # NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
