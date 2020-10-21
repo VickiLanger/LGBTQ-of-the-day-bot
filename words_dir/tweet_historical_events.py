@@ -135,6 +135,7 @@ events = {
     '2018-11-06': 'Democratic US Representative Jared Polis wins the Colorado governor`s race, becoming the nation`s first openly gay man to be elected governor https://www.cnn.com/2018/11/06/politics/jared-polis-colorado-gay-governor/index.html',
     '2019-02-16': 'Nyla Rose became the first openly transgender wrestler in history to sign with a major American promotion. https://en.wikipedia.org/wiki/Nyla_Rose',
     '2019-04-02': 'Lori Lightfoot was elected Chicago, Illinois first openly gay mayor. https://www.nbcnews.com/news/us-news/lori-lightfoot-elected-chicago-mayor-will-be-1st-black-woman-n990266',
+    '2019-05-17': 'Same-sex marriage was legalized in Taiwan and became effective since 24 May 2019, including rights in areas such as taxes, insurance and child custody. https://en.wikipedia.org/wiki/LGBT_history_in_Taiwan',
     '2019-05-25': 'Transgender no longer recognized as "disorder" by WHO. https://time.com/5596845/world-health-organization-transgender-identity/',
     '2019-06-13': 'Discrimination on the basis of sexual orientation and gender identity became crime in Brazil https://en.wikipedia.org/wiki/LGBT_rights_in_Brazil',
     '2019-09-22': 'Billy Porter becomes the first openly gay black man to win the Emmy for best lead actor in a drama series. https://www.cnn.com/2019/09/22/entertainment/billy-porter-first-openly-gay-black-actor-emmy/index.html',
