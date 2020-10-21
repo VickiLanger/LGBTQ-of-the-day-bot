@@ -33,6 +33,8 @@ labels = {
     'homosexual': 'Possessing sexual and/or emotional attraction towards members of the same sex.',
     'autosexual': 'Someone who primarily feels sexual atraction to themself, but not toward others.',
     'straight': 'Heterosexual, sexually and/or emotionally attracted to members of the opposite sex.',
+    'aegosexual': 'lacking any desire to be a participant in the sexual activities therein',
+    'abrosexual': '',
 
     # gender orientation
     'demiboy': 'A person who identifies as partially, but not completely, male.',
@@ -42,7 +44,7 @@ labels = {
     'non-binary': 'Having a gender identity that is not male or female.',
     'transgender': '',
     'trans': '',
-    'trans masc': '',
+    'trans masc': '', 
     'trans femme': '',
     'two-spirit': '',
     'cisgender': 'Having a gender identity which matches the sex one was assigned at birth; or, pertaining to such people.',
@@ -69,4 +71,12 @@ labels = {
     'homoromantic': 'Romantically attracted to those of the same gender.',
     'heteroromantic': 'Romantically attracted to those of the opposite gender.',
     'autoromantic': 'Romantically attracted to oneself',
+    
+    # subculture labels?
+    'butch': '',
+    'femme': '',
+    'lipstick lesbian': '',
+    'bear': '',
+    'polyamorous': '',
+    'baby dyke': '',
 }
