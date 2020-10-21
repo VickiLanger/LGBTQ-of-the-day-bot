@@ -32,7 +32,7 @@ labels = {
     'androsexual': 'Sexually attracted toward men and/or masculinity.',
     'gynosexual': 'Sexually attracted toward women and/or femininity.',
     'homosexual': 'Possessing sexual and/or emotional attraction towards members of the same sex.',
-    'autosexual': 'Someone who primarily feels sexual atraction to themself, but not toward others.',
+    'autosexual': 'Someone who primarily feels sexual attraction to themself, but not toward others.',
     'straight': 'Heterosexual, sexually and/or emotionally attracted to members of the opposite sex.',
     'aegosexual': 'lacking any desire to be a participant in the sexual activities therein',
     'abrosexual': 'Abrosexual refers to an individual whose sexuality is changing or fluid. For example, someone could be gay one day, then be asexual the next, then polysexual the next.',

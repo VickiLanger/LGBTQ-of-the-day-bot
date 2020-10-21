@@ -71,7 +71,7 @@ adjectives = [
     'dusty',
     'encrusted',
     'filthy',
-    'rought',
+    'rough',
     'shaggy',
     'warm',
     'tender',
@@ -87,6 +87,7 @@ adjectives = [
     'dry',
     'painful',
     'prickly',
+    'crusty',
 
     # appearance
     'dapper',
