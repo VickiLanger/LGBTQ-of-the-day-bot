@@ -71,7 +71,7 @@ adjectives = [
     'dusty',
     'encrusted',
     'filthy',
-    'rought',
+    'rough',
     'shaggy',
     'warm',
     'tender',

@@ -288,7 +288,7 @@ nouns = [
     'PDA',
     'floppy disc',
     'phonebook',
-    'portatable DVD player',
+    'portable DVD player',
     'dial-up modem',
     'walkman',
     'betamax',
@@ -470,7 +470,7 @@ nouns = [
     'action movie',
     'animation movie',
     'romcom movie',
-    'historcial movie',
+    'historical movie',
     'mystery movie',
     'adventure movie',
 
