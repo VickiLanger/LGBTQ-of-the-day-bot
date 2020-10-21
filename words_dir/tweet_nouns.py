@@ -80,7 +80,7 @@ nouns = [
     'Bat 🦇',
     'Cow',
     'Giraffe 🦒',
-    'Polar Bear'
+    'Polar Bear',
 
     # clothing items
     'flannel shirt',
