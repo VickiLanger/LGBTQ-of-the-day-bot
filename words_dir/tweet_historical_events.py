@@ -18,7 +18,7 @@ events = {
     '1871-01-01': 'Homosexuality was technically made illegal in Germany in 1871, but it was rarely enforced until the Nazi Party took power in 1933. https://www.history.com/news/pink-triangle-nazi-concentration-camps',
     '1889-11-03': 'Amelio Robles Ávila is born, the first trans man in Mexico who fought in the Mexican Revolution. https://es.wikipedia.org/wiki/Amelio_Robles_%C3%81vila',
     '1895-05-25': 'Oscar Wilde is convicted of "gross indecency" for having a homosexual relationship with Alfred Taylor, and is sentenced to two years hard labour. https://en.wikipedia.org/wiki/Oscar_Wilde#Imprisonment',
-    '1898-06-05': 'Federico García Lorca is born in Granada, Spain. He was a really important poet, playwright and prose writer who was shot during the spanish Civil War accused of being homosexual. https://es.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca',
+    '1898-06-05': 'Federico García Lorca is born in Granada, Spain. He was a really important poet, playwright, and prose writer who was shot during the spanish Civil War accused of being homosexual. https://es.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca',
 
     # 1900s
     '1901-06-08': 'Post-Roman times, Marcela and Elisa became the first same-sex marriage in Spain. When it was out they had deceived the priest, they fled the country. Yet, their marriage was never voided. https://en.wikipedia.org/wiki/First_same-sex_marriage_in_Spain',
@@ -130,14 +130,14 @@ events = {
     '2017-06-27': 'District of Columbia residents can now choose a gender-neutral option of their driver`s license.  https://www.cnn.com/2017/06/27/health/washington-gender-neutral-drivers-license/index.html',
     '2017-11-07': 'Virginia voters elect the state`s first openly transgender candidate to the Virginia House of Delegates. Danica Roem unseats incumbent delegate Bob Marshall, who had been elected 13 times over 26 years. https://www.cnn.com/2017/11/07/politics/danica-roem-virginia-transgender/index.html',
     '2018-02-26': 'The Pentagon confirms that the first transgender person has signed a contract to join the US military. https://www.cnn.com/2018/02/26/politics/first-transgender-recruit-join-us-military/index.html',
-    '2018-03-23': 'The Trump administration announces a new policy that bans most transgender people from serving in military. After several court battles, the Supreme Court allows the ban to go into effect in January 2019 https://www.cnn.com/2018/03/23/politics/transgender-white-house/index.html',
+    '2018-03-23': 'The Trump administration announces a new policy that bans most transgender people from serving in the military. After several court battles, the Supreme Court allows the ban to go into effect in January 2019 https://www.cnn.com/2018/03/23/politics/transgender-white-house/index.html',
     '2018-09-06': 'The Supreme Court of India decriminalized Section 377 making gay sex legal. https://timesofindia.indiatimes.com/topic/same-sex-marriage',
     '2018-11-06': 'Democratic US Representative Jared Polis wins the Colorado governor`s race, becoming the nation`s first openly gay man to be elected governor https://www.cnn.com/2018/11/06/politics/jared-polis-colorado-gay-governor/index.html',
     '2019-02-16': 'Nyla Rose became the first openly transgender wrestler in history to sign with a major American promotion. https://en.wikipedia.org/wiki/Nyla_Rose',
     '2019-04-02': 'Lori Lightfoot was elected Chicago, Illinois first openly gay mayor. https://www.nbcnews.com/news/us-news/lori-lightfoot-elected-chicago-mayor-will-be-1st-black-woman-n990266',
     '2019-05-17': 'Same-sex marriage was legalized in Taiwan and became effective since 24 May 2019, including rights in areas such as taxes, insurance and child custody. https://en.wikipedia.org/wiki/LGBT_history_in_Taiwan',
     '2019-05-25': 'Transgender no longer recognized as "disorder" by WHO. https://time.com/5596845/world-health-organization-transgender-identity/',
-    '2019-06-13': 'Discrimination on the basis of sexual orientation and gender identity became crime in Brazil https://en.wikipedia.org/wiki/LGBT_rights_in_Brazil',
+    '2019-06-13': 'Discrimination on the basis of sexual orientation and gender identity became a crime in Brazil https://en.wikipedia.org/wiki/LGBT_rights_in_Brazil',
     '2019-09-22': 'Billy Porter becomes the first openly gay black man to win the Emmy for best lead actor in a drama series. https://www.cnn.com/2019/09/22/entertainment/billy-porter-first-openly-gay-black-actor-emmy/index.html',
     '2019-09-25': 'Angelica Ross became the first openly transgender person to host an American presidential forum. https://en.wikipedia.org/wiki/Angelica_Ross',
 
@@ -145,5 +145,5 @@ events = {
     '2020-02-12': 'New Jersey residents can now change the gender marker on a driver`s license without a note from a doctor. https://www.northjersey.com/story/news/new-jersey/2020/02/12/nj-mvc-allow-gender-designation-changes-without-doctors-note/4738926002/',
     '2020-06-15': 'The Supreme Court rules that federal law protects LGBTQ workers from discrimination. https://www.cnn.com/2020/06/15/politics/supreme-court-lgbtq-employment-case/index.html',
     '2020-07-16': 'Sudan abolished the death penalty and flogging for homosexuality. https://www.reuters.com/article/us-sudan-lgbt-rights-trfn/great-first-step-as-sudan-lifts-death-penalty-and-flogging-for-gay-sex-idUSKCN24H30J',
-    '2020-09-15': 'India`s most populated state, Uttar Pradesh approves setting up of a transgender welfare board in state. https://indianexpress.com/article/cities/lucknow/up-minister-shastri-approves-setting-up-of-transgender-welfare-board-in-state-6597718/',
+    '2020-09-15': 'India`s most populated state, Uttar Pradesh approves setting up of a transgender welfare board in the state. https://indianexpress.com/article/cities/lucknow/up-minister-shastri-approves-setting-up-of-transgender-welfare-board-in-state-6597718/',
 }
