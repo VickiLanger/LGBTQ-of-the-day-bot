@@ -4,7 +4,7 @@ tweet_nouns.py: list of nouns used to build tweet.py
 Vicki Langer (@vicki_langer)
 '''
 
-# TODO: add more nouns
+# TODO: add more nouns, in alphabetical order
 # NOTE: nouns should be singular (e.g. 'boot' not 'boots')
 # NOTE: must make sense in "{adjective} {label} {noun}" (example: tiny queer [something])
 # NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -534,9 +534,15 @@ nouns = [
     # fashion trends
     'cuffed pants and sleeves',
     'tight-rolled pants',
+    'asymmetrical undercut',
+    'septum piercing',
+    'rolled pant legs',
+    'folded shirt sleeves',
+    'cuffed jeans',
 
     # queer things
     'gogo boy',
+    'chosen family',
     'drag queen',
     'drag king',
     'wall plastered with varying pride flags',
