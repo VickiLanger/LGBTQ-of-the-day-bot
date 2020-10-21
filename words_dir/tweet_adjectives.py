@@ -87,6 +87,7 @@ adjectives = [
     'dry',
     'painful',
     'prickly',
+    'crusty',
 
     # appearance
     'dapper',
