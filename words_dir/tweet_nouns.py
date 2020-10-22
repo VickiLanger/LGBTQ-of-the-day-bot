@@ -184,6 +184,7 @@ nouns = [
     'gulab jamun',
     'gyro',
     'ham sandwich',
+    'halwa',
     'ice-cream',
     'idli sambhar',
     'jalebi',
