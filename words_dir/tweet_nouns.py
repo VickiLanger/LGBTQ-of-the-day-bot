@@ -560,13 +560,18 @@ nouns = [
     'cuffed jeans',
 
     # queer things
+    '@autostraddle article',
     'chosen family',
     'drag king',
     'drag queen',
     'drag brunch',
     'french cuff',
     'gogo boy',
+    'newest issue of @ftmmagazine',
+    'newly released book chosen for the Stonewall Book Awards (@GLBTRT)',
+    'old issue of @TheAdvocateMag',
     'Sunday brunch',
     'tight-rolled pant',
     'wall plastered with varying pride flags',
+    '@autostraddle article',
 ]
