@@ -560,15 +560,13 @@ nouns = [
     'cuffed jeans',
 
     # queer things
-    'gogo boy',
     'chosen family',
-    'drag queen',
-    'french cuff',
-    'tight-rolled pant',
-
-    # queer things
     'drag king',
     'drag queen',
+    'drag brunch',
+    'french cuff',
     'gogo boy',
+    'Sunday brunch',
+    'tight-rolled pant',
     'wall plastered with varying pride flags',
 ]
