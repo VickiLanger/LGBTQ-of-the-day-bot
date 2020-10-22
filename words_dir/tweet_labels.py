@@ -74,6 +74,7 @@ labels = {
     'autoromantic': 'Romantically attracted to oneself',
 
     # subculture labels?
+    # NOTE: must make sense in "{adjective} {label} {noun}" (example: tiny [somelabel] book)
     'butch': 'Butch is a term in the lesbian subculture to describe a lesbian who presents in a masculine way.',
     'femme': 'Femme is a term in the lesbian subculture to describe a lesbian, bisexual, or otherwise sapphic woman (or feminine-aligned non-binary person) who presents in a feminine way.',
     'lipstick lesbian': 'Another term for a femme lesbian; a lesbian who presents in a feminine way.',
