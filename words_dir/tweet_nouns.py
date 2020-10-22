@@ -264,6 +264,7 @@ nouns = [
     'keyboard',
     'laptop stand',
     'laptop',
+    'laptop table',
     'memory card',
     'microphone',
     'motherboard',
