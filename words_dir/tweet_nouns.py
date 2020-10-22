@@ -529,6 +529,8 @@ nouns = [
     'billiards stick',
     'chess board',
     'cricket paddle',
+    'cricket bat',
+    'cricket ball',
     'dartboard',
     'dodgeball',
     'golf club',
