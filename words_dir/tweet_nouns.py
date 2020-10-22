@@ -440,14 +440,14 @@ nouns = [
     '3 day old opened can of tuna',
     'app that has stories but really shouldn\'t have them',
     'automatic kitty litter box',
-    'bairly-fuctioning homemade water bottle bong',
+    'barely-functioning homemade water bottle bong',
     'blurry photo of feet from an @OnlyFans subscription',
     'cake that perfectly resembles an intricate knitted blanket',
     'castle',
     'child asking "why" for the fiftieth time',
     'color',
     'graphic novel memoir',
-    'hand drawn picture of a stick family hanging in the The Louvre',
+    'hand drawn picture of a stick family hanging in The Louvre',
     'horribly biased machine learning code out to screw over the most vulnerable',
     'indie song about friendship',
     'ladle',
@@ -483,7 +483,7 @@ nouns = [
     'comedy movie',
     'dramatic movie',
     'family movie'
-    'historcial movie',
+    'historical movie',
     'horror movie',
     'mystery movie',
     'romance movie',
@@ -552,7 +552,6 @@ nouns = [
     # fashion trends
     'chelsea boot',
     'cuffed pants and sleeves',
-# TODO <<<<<<< HEAD
     'tight-rolled pants',
     'asymmetrical undercut',
     'septum piercing',
@@ -564,14 +563,10 @@ nouns = [
     'gogo boy',
     'chosen family',
     'drag queen',
-=======
     'french cuff',
     'tight-rolled pant',
 
-
-
     # queer things
->>>>>>> 01c02b9ad99ca77ee2ba59fbd57c9d6d91441bcc
     'drag king',
     'drag queen',
     'gogo boy',
