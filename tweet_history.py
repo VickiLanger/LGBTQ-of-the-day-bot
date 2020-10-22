@@ -35,7 +35,7 @@ def tweet_historicat_event():
     '''if list has multiple events for the same month and day,
     then pick random,
     else return the item then update api, if none, no update'''
-    # IDEA: generate a thread of tweets if has multiple events in chronological order
+    # IDEA: generate a thread of tweets if it has multiple events in chronological order
 
     if length_list_history_tweets != 0:
         if length_list_history_tweets > 1:
