@@ -304,4 +304,5 @@ adjectives = [
 
     # adverb and adjective pairs
     'perfectly splendid',
+    'very similar',
     ]
