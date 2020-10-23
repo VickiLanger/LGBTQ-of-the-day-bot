@@ -15,7 +15,7 @@
 Share goofiness in regards to LGBTQ labels, then have a followup tweet to define the label. Also have a "this day in queer history" set of tweets
 
 
-![Screeshot of tweets: "today's queerness is a high af genderqueer Sega" "today's queerness is a biromatic flannel shirt" "today's queerness is a blobby demigirl N64"](https://repository-images.githubusercontent.com/294564715/007d7100-f804-11ea-88b4-d5cc00092fcb)
+![Screenshot of tweets: "today's queerness is a high af genderqueer Sega" "today's queerness is a biromatic flannel shirt" "today's queerness is a blobby demigirl N64"](https://repository-images.githubusercontent.com/294564715/007d7100-f804-11ea-88b4-d5cc00092fcb)
 
 ## Contributing
 
@@ -61,7 +61,7 @@ If you've contributed and would like to add your name to this list, please follo
 
 #### Designers and Front Enders
 
-You're welcome to substitute dribbble, behance, instagram, or your portfolio links in the GitHub and Twitter columns. The goal is for people to be able to find you.
+You're welcome to substitute dribble, behance, Instagram, or your portfolio links in the GitHub and Twitter columns. The goal is for people to be able to find you.
 
 ## Reference Stuff
 
