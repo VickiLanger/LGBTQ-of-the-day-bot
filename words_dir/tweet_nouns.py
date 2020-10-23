@@ -611,6 +611,12 @@ nouns = [
     'rolled pant legs',
     'folded shirt sleeves',
     'cuffed jeans',
+    'Oversized Victorian Sleeves',
+    'Maxi Faux Leather Coats',
+    'Ripped Stockings',
+    'Faux Fur Sandals',
+    'Bucket Hats',
+    'Shrunken Bags',
 
     # queer things
     '@autostraddle article',
