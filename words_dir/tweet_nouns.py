@@ -302,6 +302,7 @@ nouns = [
     'printer',
     'quad-core processor',
     'RAM',
+    'ROM',
     'scanner',
     'socket',
     'software',
