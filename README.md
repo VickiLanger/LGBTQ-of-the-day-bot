@@ -61,7 +61,7 @@ If you've contributed and would like to add your name to this list, please follo
 
 #### Designers and Front Enders
 
-You're welcome to substitute dribble, behance, Instagram, or your portfolio links in the GitHub and Twitter columns. The goal is for people to be able to find you.
+You're welcome to substitute dribbble, behance, Instagram, or your portfolio links in the GitHub and Twitter columns. The goal is for people to be able to find you.
 
 ## Reference Stuff
 
