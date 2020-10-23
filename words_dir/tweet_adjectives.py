@@ -4,7 +4,9 @@ tweet_adjectives.py: list of adjectives used to build tweet.py
 Vicki Langer (@vicki_langer)
 '''
 
-# TODO: add more adjectives
+# TODO: add more adjectives, in alphabetical order
+# NOTE: must make sense in "{adjective} {label} {noun}" (example: [adjective] queer book)
+# NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 adjectives = [
     'funky',
@@ -49,6 +51,15 @@ adjectives = [
     'witty',
     'lively',
     'tragic',
+    'comical',
+    'jocose',
+    'jocular',
+    'laughable',
+    'hilarious',
+    'whimsical',
+    'ludicrous',
+    'adorable ',
+    'fantastic',
 
     # touch feels
     'fuzzy',
@@ -60,7 +71,7 @@ adjectives = [
     'dusty',
     'encrusted',
     'filthy',
-    'rought',
+    'rough',
     'shaggy',
     'warm',
     'tender',
@@ -75,6 +86,8 @@ adjectives = [
     'wet',
     'dry',
     'painful',
+    'prickly',
+    'crusty',
 
     # appearance
     'dapper',
@@ -105,6 +118,16 @@ adjectives = [
     'chubby',
     'gross',
     'ethereal',
+    'beautiful',
+    'plump',
+    'muscular',
+    'skinny',
+    'glamorous',
+    'beautiful',
+    'butch',
+    'femme',
+    'iconic',
+
 
     # shapes
     'blobby',
@@ -122,6 +145,10 @@ adjectives = [
     'crooked',
     'circular',
     'thick',
+    'shallow',
+    'narrow',
+    'phat',
+
 
     # tastes
     'bitter',
@@ -161,6 +188,8 @@ adjectives = [
     'cacophonous',
     'euphonious',
     'soft',
+    'crashing',
+    'hissing',
 
     # sizes
     'tiny',
@@ -175,6 +204,8 @@ adjectives = [
     'ginormous',
     'vast',
     'average',
+    'colossal',
+    'mammoth',
 
     # colors
     'rosy',
@@ -205,6 +236,74 @@ adjectives = [
     'sage',
     'emerald',
     'sapphire',
-    'arsenic',
-    'fallow'
+    'arsenic-colored',
+    'fallow',
+    'royal',
+    'tuscany',
+    'peach',
+    'sepia',
+    'goldenrod',
+    'ochre',
+    'amber',
+    'salmon',
+    'crimson',
+    'burgundy',
+    'carmine',
+    'amaranth',
+    'hot pink',
+    'orchid',
+    'navy',
+    'azure',
+    'lime',
+    'ruby',
+    'jade',
+    'cedar',
+    'ash',
+    'mocha',
+    'ashy',
+
+    # cold adjectives
+    'algid',
+    'austere',
+    'benumbed',
+    'biting',
+    'bitter',
+    'bitterly cold',
+    'bleak',
+    'bone-chilling',
+    'bracing',
+    'brisk',
+    'brumal',
+    'chilly',
+    'congealed',
+    'cool',
+    'cryogenic',
+
+    # warm adjectives
+    'agreeable',
+    'balmy',
+    'blood-warm',
+    'clement',
+    'homey',
+    'lukewarm',
+    'mellow',
+    'mild',
+    'moderate',
+    'pleasant',
+
+    # weather and temperature
+    'cold',
+    'hot',
+    'cool',
+    'rainy',
+    'windy',
+    'snowy',
+    'foggy',
+    'sunny',
+    'cloudy',
+    'stormy',
+    'frozen',
+
+    # adverb and adjective pairs
+    'perfectly splendid',
     ]

@@ -5,20 +5,13 @@ Vicki Langer (@vicki_langer)
 '''
 
 from random import choice
-
-# TODO: add more replies
-
-REPLIES = { 
-    'gay': 'definition goes here',
-    '': '',
-    '': '',
-    '': '',
-    '': '',
-}
+from words_dir.tweet_labels import labels
 
 
-def get_reply():
-    #if label == 
-    reply_to_tweet = choice(REPLIES)
+def get_reply(label):
+    label_definition = labels[label]
+    if (label_definition == ''):
+        return
 
-    return reply_to_tweet
+    reply = f'{label.capitalize()}: {label_definition}'
+    return reply
