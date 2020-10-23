@@ -50,7 +50,8 @@ events = {
     '1955-09-21': 'The Daughters of Bilitis becomes the first lesbian rights organization in the United States. https://en.wikipedia.org/wiki/Daughters_of_Bilitis',
     '1955-12-20': 'Frank Kameny is fired from his job as an astronomer in the United States Army’s Map Service in Washington, DC because of his homosexuality. A few days later, he is denied from seeking federal employment. http://www.thelavendereffect.org/2013/12/20/december-20-in-lgbtq-history-2/',
     '1958-01-13': 'United States Supreme Court rules in favor of the First Amendment rights of the lesbian, gay, bisexual and transgender (LGBT) magazine One: The Homosexual Magazine. https://en.wikipedia.org/wiki/One,_Inc._v._Olesen',
-
+    '1958-03-05': 'Tony Dyson writes a letter to the Times leading to the formation of the Homosexual Law Reform Society. A society that campaigned for the legalisation of same-sex relationships in the UK. https://en.wikipedia.org/wiki/Homosexual_Law_Reform_Society',
+    
     # 1960s
     '1961-09-11': 'The first US-televised documentary about homosexuality airs on a local station in California. https://en.wikipedia.org/wiki/The_Rejected',
     '1962-01-01': 'Illinois repeals its sodomy laws, becoming the first U.S. state to decriminalize homosexuality. https://en.wikipedia.org/wiki/LGBT_rights_in_Illinois',
