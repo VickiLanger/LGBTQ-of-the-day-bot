@@ -326,7 +326,7 @@ nouns = [
     'pagers/beeper 📟',
     'PDA',
     'phonebook',
-    'portatable DVD player',
+    'portable DVD player',
     'radio'
     'rotary telephone',
     'steno machine',
@@ -371,7 +371,7 @@ nouns = [
     'aurora',
     'beach 🏖',
     'body of water',
-    'bolt of lightening ⚡',
+    'bolt of lightning ⚡',
     'breeze',
     'campfire 🔥',
     'cave',
