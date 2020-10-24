@@ -35,6 +35,7 @@ nouns = [
     'dinosaur',
     'dodo',
     'Dog 🐶',
+    'Doggie 🐶',
     'doggo 🐶',
     'dolphin 🐬',
     'duck 🦆',
