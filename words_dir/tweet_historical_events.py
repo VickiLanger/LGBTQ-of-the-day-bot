@@ -56,6 +56,7 @@ events = {
     '1961-09-11': 'The first US-televised documentary about homosexuality airs on a local station in California. https://en.wikipedia.org/wiki/The_Rejected',
     '1962-01-01': 'Illinois repeals its sodomy laws, becoming the first U.S. state to decriminalize homosexuality. https://en.wikipedia.org/wiki/LGBT_rights_in_Illinois',
     '1966-04-21': 'The Mattachine Society organizes gay rights “Sip-In.” http://www.nytimes.com/2016/04/21/nyregion/before-the-stonewall-riots-there-was-the-sip-in.html',
+    '1966-08-01': 'Compton\'s Cafeteria riots mark the beginning of the transgender activism in San Francisco. https://en.wikipedia.org/wiki/Compton%27s_Cafeteria_riot',
     '1969-06-27': 'Canada decriminalized homosexuality. https://en.wikipedia.org/wiki/Criminal_Law_Amendment_Act,_1968%E2%80%9369',
     '1969-06-28': 'Stonewall riots. https://en.wikipedia.org/wiki/Stonewall_riots',
     '1969-11-02': 'Craig Rodwell, his partner Fred Sargeant, Ellen Broidy, and Linda Rhodes proposed the first gay pride parade to be held in New York City. https://en.wikipedia.org/wiki/Pride_parade#:~:text=On%20November%202%2C%201969%2C%20Craig,ERCHO%20meeting%20in%20Philadelphia.',
