@@ -101,12 +101,13 @@ events = {
     '2005-09-06': 'The California legislature becomes the first to pass a bill allowing marriage between same-sex couples. Governor Arnold Schwarzenegger vetoes the bill. https://www.nytimes.com/2005/09/06/national/california-legislature-approves-samesex-marriage-bill.html',
     '2005-12-05': 'The Civil Partnership Act passes, granting civil partnership in the UK. https://en.wikipedia.org/wiki/Civil_Partnership_Act_2004',
     '2006-10-25': 'The New Jersey Supreme Court rules that state lawmakers must provide the rights and benefits of marriage to gay and lesbian couples. https://www.cnn.com/2006/US/10/25/gay.marriage/',
+    '2007-12-21': 'Homosexuality was legalized in Nepal in 2007. https://en.wikipedia.org/wiki/LGBT_rights_in_Nepal',
     '2008-05-15': 'The California Supreme Court rules in reMarriage Cases that limiting marriage to opposite-sex couples is unconstitutional. https://www.aclunc.org/our-work/legal-docket/re-marriage-cases',
     '2008-11-04': 'Voters approve Proposition 8 in California, which makes same-sex marriage illegal. The proposition is later found to be unconstitutional by a federal judge. https://en.wikipedia.org/wiki/2008_California_Proposition_8',
     '2009-04-03': 'Same-sex marriage is legal in the state of Iowa. https://en.wikipedia.org/wiki/Same-sex_marriage_in_Iowa',
     '2009-05-16': 'The first monument dedicated to remembering the persecution of homosexuals during the Franco regime is inaugurated in Durango, Spain. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
-
     # 2010s
+    '2010-07-15': 'Argentina legalises gay marriage. https://www.thehindu.com/news/international/Argentina-legalises-gay-marriage/article16197744.ece',
     '2011-05-05': 'Same-sex stable union is now legal in Brazil. https://en.wikipedia.org/wiki/LGBT_rights_in_Brazil',
     '2011-09-20': 'Repeal of DADT. https://www.americanprogress.org/issues/lgbtq-rights/reports/2012/09/20/38764/the-repeal-of-dont-ask-dont-tell-1-year-later/',
     '2012-05-09': 'In an ABC interview, Obama becomes the first sitting US president to publicly support the freedom for LGBTQ couples to marry. https://www.cnn.com/2012/05/09/politics/obama-same-sex-marriage/',
@@ -117,6 +118,7 @@ events = {
     '2013-06-26': 'Repeal of DOMA. https://www.americanprogress.org/issues/immigration/news/2013/06/26/68033/what-the-doma-decision-means-for-lgbt-binational-couples/',
     '2013-10-24': 'As a less exclusive alternative to "LGBT," "LGBTQ," and "LGBTQIA+," the acronym "GSRM," which stands for "Gender, Sexual, and Romantic Minorities", has been added to Urban Dictionary. ',
     '2014-02-09': 'Michael Sam becomes the first openly gay football player in the NFL. https://www.espn.com/espn/otl/story/_/id/10429030/michael-sam-missouri-tigers-says-gay',
+    '2014-03-13': 'The Marriage (Same Sex Couples) Act 2013 (c. 30) introduced same-sex marriage in England and Wales. https://en.wikipedia.org/wiki/Marriage_(Same_Sex_Couples)_Act_2013#13_March_2014:_Same-Sex_Marriage',
     '2015-06-09': 'Secretary of Defense Ash Carter announces that the Military Equal Opportunity policy has been adjusted to include gay and lesbian military members. https://www.cnn.com/2015/06/09/politics/carter-sexual-orientation-policy/index.html',
     '2015-06-26': 'The Supreme Court finally and officially declared same-sex marriage a Constitutional right nationwide. https://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html',
     '2015-07-23': 'The military allows transgender Americans to serve openly in the military. https://www.advocate.com/politics/military/2015/07/13/reports-pentagon-poised-lift-transgender-military-ban',
