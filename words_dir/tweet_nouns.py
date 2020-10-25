@@ -384,6 +384,7 @@ nouns = [
     'VCR',
     'VHS',
     'walkman',
+    'floppy disk',
 
     # video game consoles
     'Adventure Vision',
@@ -461,6 +462,7 @@ nouns = [
     'storm',
     'sunflower 🌻',
     'swamp',
+    'spring',
     'the swamp creature',
     'thunder',
     'trail in the woods',
@@ -529,6 +531,7 @@ nouns = [
     'witch',
     'witcher',
     'wizard',
+    'boss',
 
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
@@ -666,6 +669,7 @@ nouns = [
     'Faux Fur Sandals',
     'Bucket Hats',
     'Shrunken Bags',
+    'baggy trousers',
 
     # queer things
     '@autostraddle article',
