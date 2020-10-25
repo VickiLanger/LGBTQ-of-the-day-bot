@@ -131,6 +131,7 @@ adjectives = [
     # shapes
     'blobby',
     'broad',
+    'chubby',
     'circular',
     'crooked',
     'curved',
@@ -145,6 +146,7 @@ adjectives = [
     'shallow',
     'skinny',
     'steep',
+    'stout',
     'thick',
     'triangular',
 
@@ -305,4 +307,6 @@ adjectives = [
     # adverb and adjective pairs
     'perfectly splendid',
     'very similar',
+    'well aware',
+    'fast asleep',
     ]
