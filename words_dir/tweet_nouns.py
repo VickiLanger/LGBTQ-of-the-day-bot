@@ -39,6 +39,7 @@ nouns = [
     'Doggie 🐶',
     'doggo 🐶',
     'dolphin 🐬',
+    'donkey',
     'duck 🦆',
     'eagle',
     'elephant 🐘',
@@ -156,6 +157,7 @@ nouns = [
     'vest',
     'wallet',
     'windbreaker',
+    'yeezy',
 
 
     # foods
@@ -290,6 +292,7 @@ nouns = [
     'external hard disk',
     'graphics card'
     'hard disk',
+    'heat sink',
     'joystick',
     'kernel'
     'keyboard',
@@ -420,6 +423,7 @@ nouns = [
     'some moss',
     'star',
     'stone',
+    'storm',
     'sunflower 🌻',
     'swamp',
     'the swamp creature',
