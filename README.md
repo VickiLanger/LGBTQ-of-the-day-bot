@@ -40,3 +40,5 @@ All contributions are greatly appreciated.
 - [Twitter Rules](https://support.twitter.com/articles/76915)
 
 - [This tutorial was super helpful](https://dev.to/emcain/how-to-set-up-a-twitter-bot-with-python-and-heroku-1n39)
+
+-[This is tutorial to create twitter bot](https://www.youtube.com/watch?v=W0wWwglE1Vc)
