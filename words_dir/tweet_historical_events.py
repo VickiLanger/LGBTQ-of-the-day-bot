@@ -118,7 +118,7 @@ events = {
     '2013-06-26': 'Repeal of DOMA. https://www.americanprogress.org/issues/immigration/news/2013/06/26/68033/what-the-doma-decision-means-for-lgbt-binational-couples/',
     '2013-10-24': 'As a less exclusive alternative to "LGBT," "LGBTQ," and "LGBTQIA+," the acronym "GSRM," which stands for "Gender, Sexual, and Romantic Minorities", has been added to Urban Dictionary. ',
     '2014-02-09': 'Michael Sam becomes the first openly gay football player in the NFL. https://www.espn.com/espn/otl/story/_/id/10429030/michael-sam-missouri-tigers-says-gay',
-    '2014-03-13': 'The Marriage (Same Sex Couples) Act 2013 (c. 30) introduced same-sex marriage in England and Wales. https://en.wikipedia.org/wiki/Marriage_(Same_Sex_Couples)_Act_2013#13_March_2014:_Same-Sex_Marriage'
+    '2014-03-13': 'The Marriage (Same Sex Couples) Act 2013 (c. 30) introduced same-sex marriage in England and Wales. https://en.wikipedia.org/wiki/Marriage_(Same_Sex_Couples)_Act_2013#13_March_2014:_Same-Sex_Marriage',
     '2015-06-09': 'Secretary of Defense Ash Carter announces that the Military Equal Opportunity policy has been adjusted to include gay and lesbian military members. https://www.cnn.com/2015/06/09/politics/carter-sexual-orientation-policy/index.html',
     '2015-06-26': 'The Supreme Court finally and officially declared same-sex marriage a Constitutional right nationwide. https://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html',
     '2015-07-23': 'The military allows transgender Americans to serve openly in the military. https://www.advocate.com/politics/military/2015/07/13/reports-pentagon-poised-lift-transgender-military-ban',
