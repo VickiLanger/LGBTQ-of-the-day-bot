@@ -11,10 +11,12 @@ Vicki Langer (@vicki_langer)
 # NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 events = {
+    
     #1600s
     '1629-01-01': 'In 1629, the General Court of Colonial Virginia met to decide if a certain settler was male or female. https://www.history.com/news/intersex-people-casimir-pulaski-thomasine-hall',
 
     # 1800s
+    '1868-05-06': 'The word "homosexuality" was not coined until 1868 by German-Hungarian Karoly Maria Kertbeny (who advocated decriminalization). https://en.wikipedia.org/wiki/LGBT_history'
     '1871-01-01': 'Homosexuality was technically made illegal in Germany in 1871, but it was rarely enforced until the Nazi Party took power in 1933. https://www.history.com/news/pink-triangle-nazi-concentration-camps',
     '1889-11-03': 'Amelio Robles Ávila is born, the first trans man in Mexico who fought in the Mexican Revolution. https://es.wikipedia.org/wiki/Amelio_Robles_%C3%81vila',
     '1895-05-25': 'Oscar Wilde is convicted of "gross indecency" for having a homosexual relationship with Alfred Taylor and is sentenced to two years hard labour. https://en.wikipedia.org/wiki/Oscar_Wilde#Imprisonment',
