@@ -202,7 +202,7 @@ nouns = [
     'french fry 🍟',
     'fried chicken 🍗',
     'fried plantain',
-    'fried rice'
+    'fried rice',
     'garlic bread',
     'gefilte fish',
     'guacamole 🥑',
