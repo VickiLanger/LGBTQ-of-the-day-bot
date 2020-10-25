@@ -81,4 +81,5 @@ labels = {
     'bear': 'A gay man who presents in a very masculine way.',
     'polyamorous': 'Polyamory is the ability and/or desire to be in a relationship with more than one person at a time.',
     'baby dyke': 'A young, sometimes inexperienced lesbian.',
+    'gold star gay': 'A gay man who has never had sex with a woman.',
 }
