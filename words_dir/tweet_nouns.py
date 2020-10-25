@@ -105,7 +105,12 @@ nouns = [
     'wolf',
     'wolverine',
     'zebra 🦓',
-
+    
+    #insect 
+    'ant',
+    'cockroach',
+    
+    
     # clothing items
     'ascot',
     'ball gown',

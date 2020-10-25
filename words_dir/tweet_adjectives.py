@@ -15,6 +15,8 @@ adjectives = [
     'ambidextrous',
     'angelic',
     'animated',
+    'bad',
+    'beautiful',
     'brittle',
     'cautious',
     'clever',
