@@ -9,7 +9,6 @@
 -
 
 ## Did you...
-- [ ] add your name to the `Who Has Contibuted?` in the `readme.md`?
 - [ ] follow examples in the issue (if applicable)?
 - [ ] follow the bot on twitter?
 - [ ] learn new things?
