@@ -460,6 +460,7 @@ nouns = [
     'water bottle',
 
     # rpg classes\skins
+    'assassin'
     'archer',
     'bard',
     'berserker',
@@ -536,10 +537,12 @@ nouns = [
     'animation movie',
     'comedy movie',
     'dramatic movie',
-    'family movie'
+    'family movie',
+    'fiction movie',
     'historical movie',
     'horror movie',
     'mystery movie',
+    'non-fiction movie'
     'romance movie',
     'romantic movie',
     'romcom movie',
@@ -587,6 +590,7 @@ nouns = [
     'cricket ball',
     'dartboard',
     'dodgeball',
+    'frisbee',
     'golf club',
     'handball',
     'hula hoop',
@@ -615,6 +619,7 @@ nouns = [
     'rolled pant legs',
     'folded shirt sleeves',
     'cuffed jeans',
+    'oversized jeans',
     'Oversized Victorian Sleeves',
     'Maxi Faux Leather Coats',
     'Ripped Stockings',
