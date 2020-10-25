@@ -105,6 +105,7 @@ events = {
     '2007-12-21': 'Homosexuality was legalized in Nepal in 2007. https://en.wikipedia.org/wiki/LGBT_rights_in_Nepal',
     '2008-05-15': 'The California Supreme Court rules in reMarriage Cases that limiting marriage to opposite-sex couples is unconstitutional. https://www.aclunc.org/our-work/legal-docket/re-marriage-cases',
     '2008-11-04': 'Voters approve Proposition 8 in California, which makes same-sex marriage illegal. The proposition is later found to be unconstitutional by a federal judge. https://en.wikipedia.org/wiki/2008_California_Proposition_8',
+    '2009-06-11': 'Lesbian, gay, bisexual, and transgender (LGBT) persons in Botswana face legal issues not experienced by non-LGBT citizens. Both female and male same-sex sexual acts have been legal in Botswana since 11 June 2019 after a unanimous ruling by the High Court of Botswana. https://en.m.wikipedia.org/wiki/LGBT_rights_in_Botswana',
     '2009-04-03': 'Same-sex marriage is legal in the state of Iowa. https://en.wikipedia.org/wiki/Same-sex_marriage_in_Iowa',
     '2009-05-16': 'The first monument dedicated to remembering the persecution of homosexuals during the Franco regime is inaugurated in Durango, Spain. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
     # 2010s
