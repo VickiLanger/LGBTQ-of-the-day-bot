@@ -31,37 +31,7 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 
 All contributions are greatly appreciated.
 
-| Name                   | Contribution                                                                                                                                                                                  | GitHub                                | Twitter                                                  |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------------- |
-| Vicki Langer           | the creator/maintainer                                                                                                                                                                        | https://github.com/VickiLanger        | https://twitter.com/Vicki_Langer                         |
-| Ayush Modi             | [A vs An article determiner](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/9)                                                                                                      | https://github.com/hot9cups           | https://www.linkedin.com/in/ayush-modi-17012000/         |
-| Franciélly Ferreira    | [Add new nouns to tweet](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/10)                                                                                                         | https://github.com/franciellyferreira | https://www.linkedin.com/in/franciellyferreira/          |
-| Ayush Modi             | [A vs An article determiner](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/9)                                                                                                      | https://github.com/hot9cups           | https://www.linkedin.com/in/ayush-modi-17012000          |
-| Stephen Bowers         | [Added nouns and adjectives](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/11)                                                                                                     | https://github.com/stephenbowers      | thatstephenbowers.com                                    |
-| Tim Peng               | [Added nouns](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/13)                                                                                                                    | https://github.com/typg93             |                                                          |
-| Renan Miranda          | Add new nouns to tweet                                                                                                                                                                        | https://github.com/renanlmiranda      | https://www.linkedin.com/in/renanlmiranda/               |
-| Gisela gdev12          | [Added more queer historical events](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/49)                                                                                             | https://github.com/gdev12             | https://twitter.com/giss1212                             |
-| Luísa Moura            | Add new nouns to tweet                                                                                                                                                                        | https://github.com/lusmoura           | https://www.linkedin.com/in/lusmoura                     |
-| Bhavesh Gandhi         | Added few nouns and deleted few repeating ones                                                                                                                                                | https://github.com/SeekerHub          |                                                          |
-| Linh Nguyen            | [fix: tweaked tweet_historicat_events()](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/47)]                                                                                        | https://github.com/bobsany16          | linhnguyen.dev                                           |
-| Christine Zierold      | [Add new nouns to tweet](https://github.com/VickiLanger/Queer-of-the-day-bot/pull/64)                                                                                                         | https://github.com/chriszie           | https://www.linkedin.com/in/chriszie/                    |
-| Ridhima Kohli          | Added nouns                                                                                                                                                                                   | https://github.com/RidhimaKohli       | https://www.linkedin.com/in/ridhima-kohli-127642190      |
-| Chantal Shirley        | Edited one type & added queer words                                                                                                                                                           | https://github.com/cShirley14         | https://www.linkedin.com/in/chantal-shirley-dartmouth14/ |
-| Nuttaphat Arunoprayoch | Added nouns                                                                                                                                                                                   | https://github.com/nat236919          | https://twitter.com/nat236919                            |
-| Jasir Mohammad Zaeem   | [Improved tweeting images](https://github.com/VickiLanger/LGBTQ-of-the-day-bot/pull/100) & [added reply with label definitions](https://github.com/VickiLanger/LGBTQ-of-the-day-bot/pull/101) | https://github.com/JasirZaeem         | https://zaeem.dev                                        |
-| Yechiel Kalmenson      | Added definitions for many of the labels                                                                                                                                                      | https://github.com/achasveachas       | [@YechielK](https://twitter.com/yechielk)                |
-| Ruthiel Trevisan       | Add some facts about LGBTI+                                                                                                                                                                   | https://github.com/ruthiel            | https://twitter.com/tofucru                              |
-| Hillary Nyakundi       | Add some nouns and emojis to existing nouns                                                                                                                                                   | https://github.com/larymak            | https://twitter.com/larymak1                             |
-
-If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
-
-```markdown
-| Your Name | What you did | GitHub link | social link |
-```
-
-#### Designers and Front Enders
-
-You're welcome to substitute dribbble, behance, Instagram, or your portfolio links in the GitHub and Twitter columns. The goal is for people to be able to find you.
+![image of contributors generated by https://contributors-img.web.app/ pulling from https://github.com/VickiLanger/LGBTQ-of-the-day-bot/graphs/contributors](https://contributors-img.web.app/image?repo=VickiLanger/LGBTQ-of-the-day-bot)
 
 ## Reference Stuff
 
