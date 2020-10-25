@@ -12,6 +12,7 @@ Vicki Langer (@vicki_langer)
 nouns = [
     # animals
     'aardvark',
+    'anteater',
     'antelope',
     'axolotl',
     'baboon',
@@ -143,6 +144,7 @@ nouns = [
     'party hat',
     'romper',
     'sari 🥻',
+    'scarf',
     'skinny jeans',
     'slipper',
     'sneaker',
