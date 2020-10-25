@@ -84,6 +84,7 @@ adjectives = [
     'prickly',
     'rough',
     'shaggy',
+    'silky',
     'slick',
     'slimy',
     'slippery',
@@ -95,8 +96,6 @@ adjectives = [
 
     # appearance
     'beautiful',
-    'beautiful',
-    'beautiful',
     'blushing',
     'bright',
     'butch',
@@ -105,6 +104,7 @@ adjectives = [
     'cracked',
     'dapper',
     'debonair',
+    'dreamy',
     'elegant',
     'ethereal',
     'exhausted',
@@ -153,8 +153,10 @@ adjectives = [
     'stout',
     'thick',
     'triangular',
+    'wonky',
 
     # tastes
+    'acrid',
     'bitter',
     'bland',
     'delicious',
@@ -173,6 +175,7 @@ adjectives = [
     'cacophonous',
     'crashing',
     'deafening',
+    'echoing',
     'euphonious',
     'faint',
     'hissing',
@@ -189,6 +192,7 @@ adjectives = [
     'purring',
     'raspy',
     'resonant',
+    'rumbling',
     'shrill',
     'soft',
     'tonal',
