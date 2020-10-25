@@ -192,6 +192,7 @@ adjectives = [
     # sizes
     'average',
     'colossal',
+    'chubby ',
     'enormous',
     'gigantic',
     'ginormous',
@@ -215,6 +216,7 @@ adjectives = [
     'azure',
     'azure',
     'burgundy',
+    'black ',
     'carmine',
     'cedar',
     'cerulean',
