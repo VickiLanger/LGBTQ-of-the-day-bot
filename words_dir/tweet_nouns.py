@@ -212,6 +212,7 @@ nouns = [
     'french fry 🍟',
     'fried chicken 🍗',
     'fried plantain',
+    'fried rice',
     'garlic bread',
     'gefilte fish',
     'grapes 🍇',
@@ -459,6 +460,7 @@ nouns = [
     'geometry box',
     'highlighter',
     'liquid paper',
+    'lunch box',
     'marker'
     'marker',
     'notebook',
