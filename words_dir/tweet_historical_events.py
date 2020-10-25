@@ -148,4 +148,5 @@ events = {
     '2020-06-15': 'The Supreme Court rules that federal law protects LGBTQ workers from discrimination. https://www.cnn.com/2020/06/15/politics/supreme-court-lgbtq-employment-case/index.html',
     '2020-07-16': 'Sudan abolished the death penalty and flogging for homosexuality. https://www.reuters.com/article/us-sudan-lgbt-rights-trfn/great-first-step-as-sudan-lifts-death-penalty-and-flogging-for-gay-sex-idUSKCN24H30J',
     '2020-09-15': 'India`s most populated state, Uttar Pradesh approves setting up of a transgender welfare board in the state. https://indianexpress.com/article/cities/lucknow/up-minister-shastri-approves-setting-up-of-transgender-welfare-board-in-state-6597718/',
+    '2020-10-21': 'Pope Francis expresses support for same-sex civil unions, marking one of the first occassions the Roman Catholic Church has spoken in recognition of LGBTQ people https://www.nytimes.com/2020/10/21/world/europe/pope-francis-same-sex-civil-unions.html'
 }
