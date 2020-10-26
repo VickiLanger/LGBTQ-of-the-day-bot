@@ -116,8 +116,10 @@ nouns = [
     
     #insect 
     'ant',
+    'bee',
+    'beetle',
+    'butterfly'
     'cockroach',
-    
     
     # clothing items
     'ascot',
