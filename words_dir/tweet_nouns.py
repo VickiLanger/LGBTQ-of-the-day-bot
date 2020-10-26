@@ -91,7 +91,7 @@ nouns = [
     'penguin 🐧',
     'pigeon',
     'platypus',
-    'pig 🐖,
+    'pig 🐖',
     'Polar Bear',
     'Pony',
     'puffin 🐧',
@@ -139,7 +139,7 @@ nouns = [
     'caftan',
     'cravat',
     'crop top',
-    'corset,
+    'corset',
     'dungaree',
     'dynamo',
     'earmuff',
@@ -331,11 +331,11 @@ nouns = [
     'dual-monitor desk setup',
     'ethernet cable',
     'external hard disk',
-    'graphics card'
+    'graphics card',
     'hard disk',
     'heat sink',
     'joystick',
-    'kernel'
+    'kernel',
     'keyboard',
     'laptop stand',
     'laptop',
@@ -382,10 +382,10 @@ nouns = [
     'PDA',
     'phonebook',
     'portable DVD player',
-    'radio'
+    'radio',
     'rotary telephone',
     'steno machine',
-    'telegraph'
+    'telegraph',
     'typewriter',
     'VCR',
     'VHS',
@@ -447,7 +447,7 @@ nouns = [
     'lake',
     'meadow',
     'moon 🌑',
-    'moonlit sky'
+    'moonlit sky',
     'mountain ⛰️',
     'oak tree',
     'ocean',
@@ -460,7 +460,7 @@ nouns = [
     'river',
     'rock',
     'sand',
-    'sea'
+    'sea',
     'seashell',
     'sleet',
     'snow',
@@ -510,7 +510,7 @@ nouns = [
     'water bottle',
 
     # rpg classes\skins
-    'assassin'
+    'assassin',
     'archer',
     'bard',
     'berserker',
@@ -595,7 +595,7 @@ nouns = [
     'historical movie',
     'horror movie',
     'mystery movie',
-    'non-fiction movie'
+    'non-fiction movie',
     'romance movie',
     'romantic movie',
     'romcom movie',
@@ -666,7 +666,7 @@ nouns = [
     'tug of war rope',
     'volley ball net',
     'water polo',
-    'wicket'
+    'wicket',
 
     # fashion trends
     'chelsea boot',
