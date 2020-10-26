@@ -124,11 +124,7 @@ nouns = [
     'wolverine',
     'zebra 🦓',
     
-    #insect 
-    'ant',
-    'cockroach',
-    
-    
+
     # clothing items
     'ascot',
     'ball gown',
@@ -327,6 +323,16 @@ nouns = [
     'watermelon 🍉',
     'yoghurt',
 
+
+     #insect 
+    'ant',
+    'bee',
+    'buttrefly',
+    'caterpillar',
+    'cockroach',
+    'ladybug',
+
+    
     # computer things
     'adapter',
     'antivirus software',
