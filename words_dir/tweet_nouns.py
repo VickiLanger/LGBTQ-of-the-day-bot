@@ -99,7 +99,7 @@ nouns = [
     'penguin 🐧',
     'pigeon',
     'platypus',
-    'pig 🐖,
+    'pig 🐖',
     'Polar Bear',
     'puffin 🐧',
     'quokka',
@@ -163,7 +163,7 @@ nouns = [
     'cap 🧢'
     'cravat',
     'crop top',
-    'corset,
+    'corset',
     'diving mask 🤿',
     'dungaree',
     'dynamo',
