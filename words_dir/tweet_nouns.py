@@ -122,6 +122,23 @@ nouns = [
     'cockroach',
     'ladybug',
     
+    #body organs
+    'chest',
+    'eye',
+    'foot',
+    'hair',
+    'hand',
+    'head',
+    'heart',
+    'knee',
+    'leg',
+    'nail',
+    'neck',
+    'nose',
+    'skin',
+    'stomach',
+    'tooth',
+
     # clothing items
     'ascot',
     'ball gown',
