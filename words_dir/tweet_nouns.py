@@ -124,6 +124,22 @@ nouns = [
     'wolverine',
     'zebra 🦓',
     
+    #body organs
+    'arm',
+    'eye',
+    'finger',
+    'foot',
+    'hair',
+    'hand',
+    'head',
+    'knee',
+    'leg',
+    'nail',
+    'neck',
+    'nose',
+    'toe',
+    'tooth',
+    
 
     # clothing items
     'ascot',
