@@ -444,7 +444,7 @@ nouns = [
     'geometry box',
     'highlighter',
     'liquid paper',
-    'marker'
+    'marker',
     'marker',
     'notebook',
     'paint',
@@ -458,9 +458,10 @@ nouns = [
     'stapler',
     'stencil',
     'water bottle',
+    'whiteboard',
 
     # rpg classes\skins
-    'assassin'
+    'assassin',
     'archer',
     'bard',
     'berserker',

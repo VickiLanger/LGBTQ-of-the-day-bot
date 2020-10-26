@@ -15,6 +15,7 @@ adjectives = [
     'ambidextrous',
     'angelic',
     'animated',
+    'bubbly'
     'brittle',
     'cautious',
     'clever',
@@ -83,6 +84,7 @@ adjectives = [
     'slick',
     'slimy',
     'slippery',
+    'smooth',
     'sticky',
     'tender',
     'tight',
