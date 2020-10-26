@@ -319,4 +319,14 @@ adjectives = [
     'very similar',
     'well aware',
     'fast asleep',
+    
+    # character traits
+    'decadent',
+    'dogmatic',
+    'fidgety',
+    'intimidating',
+    'irritable',
+    'sagacious',
+    'strict',
+    'strong'
     ]
