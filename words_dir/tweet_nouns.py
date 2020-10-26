@@ -89,7 +89,7 @@ nouns = [
     'penguin 🐧',
     'pigeon',
     'platypus',
-    'pig 🐖,
+    'pig 🐖',
     'Polar Bear',
     'puffin 🐧',
     'quokka',
