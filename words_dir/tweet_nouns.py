@@ -114,30 +114,6 @@ nouns = [
     'wolverine',
     'zebra 🦓',
     
-    #insect 
-    'ant',
-    'bee',
-    'buttrefly',
-    'caterpillar',
-    'cockroach',
-    'ladybug',
-    
-    #body organs
-    'chest',
-    'eye',
-    'foot',
-    'hair',
-    'hand',
-    'head',
-    'heart',
-    'knee',
-    'leg',
-    'nail',
-    'neck',
-    'nose',
-    'skin',
-    'stomach',
-    'tooth',
 
     # clothing items
     'ascot',
@@ -333,6 +309,16 @@ nouns = [
     'watermelon 🍉',
     'yoghurt',
 
+
+     #insect 
+    'ant',
+    'bee',
+    'buttrefly',
+    'caterpillar',
+    'cockroach',
+    'ladybug',
+
+    
     # computer things
     'adapter',
     'antivirus software',
