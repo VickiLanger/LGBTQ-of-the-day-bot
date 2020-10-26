@@ -36,7 +36,7 @@ labels = {
     'straight': 'Heterosexual, sexually and/or emotionally attracted to members of the opposite sex.',
     'aegosexual': 'lacking any desire to be a participant in the sexual activities therein',
     'abrosexual': 'Abrosexual refers to an individual whose sexuality is changing or fluid. For example, someone could be gay one day, then be asexual the next, then polysexual the next.',
-    'aromantic': 'An adjective used to describe the people who do not experience romantic attraction.',
+    'aromantic': 'the people who do not experience romantic attraction.',
     # gender orientation
     'demiboy': 'A person who identifies as partially, but not completely, male.',
     'demigirl': 'A person who identifies as partially, but not completely, female.',
