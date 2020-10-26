@@ -116,11 +116,10 @@ nouns = [
     'wolverine',
     'zebra 🦓',
     
-    #insect 
+    # insects
     'ant',
     'cockroach',
-    
-    
+
     # clothing items
     'ascot',
     'ball gown',
@@ -180,7 +179,6 @@ nouns = [
     'wallet',
     'windbreaker',
     'yeezy',
-
 
     # foods
     'almond',
@@ -423,6 +421,25 @@ nouns = [
     'Xbox 1',
     'Xbox X',
 
+    # space
+    'earth',
+    'Earth 🌎',
+    'europe',
+    'io',
+    'jupiter',
+    'mars',
+    'mercury',
+    'moon 🌑',
+    'nebula',
+    'neptune',
+    'rocket',
+    'satellite',
+    'saturn',
+    'shooting star',
+    'star',
+    'uranus',
+    'venus',
+
     # nature
     'archipelago',
     'aurora',
@@ -437,7 +454,6 @@ nouns = [
     'cloud',
     'coast',
     'desert',
-    'Earth 🌎',
     'flower 🌹',
     'hill',
     'island 🏝️',
@@ -464,7 +480,6 @@ nouns = [
     'snow',
     'snowflake ❄',
     'some moss',
-    'star',
     'stone',
     'storm',
     'sunflower 🌻',
