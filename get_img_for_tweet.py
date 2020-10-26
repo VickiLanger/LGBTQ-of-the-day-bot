@@ -85,7 +85,4 @@ def get_img_for_tweet(tweet_text):
     new_image = write_on_image(tweet_text)
     new_image_path = f'{OUT_DIR}/post_{new_image[1]}'
     new_image[0].save(f'{new_image_path}')
-    print(new_image_path)
     return new_image_path
-
-get_img_for_tweet("Hello hello hellos")
