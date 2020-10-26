@@ -72,7 +72,8 @@ labels = {
     'polyromantic': 'Romantically attracted to multiple, but not all, genders.',
     'homoromantic': 'Romantically attracted to those of the same gender.',
     'heteroromantic': 'Romantically attracted to those of the opposite gender.',
-    'autoromantic': 'Romantically attracted to oneself',
+    'hyperromantic': 'One who is extremly romantic.',
+    'autoromantic': 'Romantically attracted to oneself.',
 
     # subculture labels?
     # NOTE: must make sense in "{adjective} {label} {noun}" (example: tiny [somelabel] book)
