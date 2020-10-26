@@ -20,7 +20,7 @@ labels = {
     'pansexual': 'Sexually attracted to people regardless of gender.',
     'polysexual': 'Sexually attracted to people of multiple genders.',
     'asexual': 'The lack of sexual attraction to others, or low or absent interest in or desire for sexual activity (also known as "Ace").',
-    'demisexual': 'Someone who only experiences sexual attra              ction to people they share an emotional bond with.',
+    'demisexual': 'Someone who only experiences sexual attraction to people they share an emotional bond with.',
     'heterosexual': 'Sexually and/or emotionally attracted to members of the opposite sex.',
     'heteroflexible': 'Sexually and/or emotionally attracted primarily to members of the opposite sex, but will experience attraction to members of other genders under certain circumstances.',
     'queer': 'Used as an umbrella term for someone who doesn\'t identify as heterosexual and/or cisgender.',
