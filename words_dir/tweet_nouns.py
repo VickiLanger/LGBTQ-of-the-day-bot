@@ -12,7 +12,7 @@ Vicki Langer (@vicki_langer)
 nouns = [
     # animals
     'aardvark',
-    'alligator 🐊'
+    'alligator 🐊',
     'anteater',
     'antelope',
     'axolotl',
@@ -23,7 +23,7 @@ nouns = [
     'bear 🐻',
     'betta fish',
     'Bird',
-    'boar 🐗'
+    'boar 🐗',
     'buffalo 🐃',
     'bunny rabbit 🐰',
     'butterfly',
@@ -33,13 +33,13 @@ nouns = [
     'cat 🐈',
     'cat',
     'cheetah',
-    'chicken 🐔'
+    'chicken 🐔',
     'cobra',
     'cow 🐄',
     'crab 🦀',
-    'crocodile 🐊'
+    'crocodile 🐊',
     'danger noodle 🐍',
-    'deer 🦌'
+    'deer 🦌',
     'dinosaur',
     'dodo',
     'Dog 🐶',
@@ -57,8 +57,8 @@ nouns = [
     'fox 🦊',
     'frog 🐸',
     'giraffe 🦒',
-    'goose'
-    'goat 🐐'
+    'goose',
+    'goat 🐐',
     'hamster 🐹',
     'hawk',
     'hedgehog 🦔',
@@ -88,7 +88,7 @@ nouns = [
     'narwhal 🦄',
     'octopus 🐙',
     'opossum',
-    'orangutan 🦧'
+    'orangutan 🦧',
     'otter 🦦',
     'owl 🦉',
     'oyster 🦪',
@@ -96,7 +96,7 @@ nouns = [
     'pangolin',
     'panther',
     'parrot 🦜',
-    'peacock 🦚'
+    'peacock 🦚',
     'penguin 🐧',
     'pigeon',
     'platypus',
@@ -108,7 +108,7 @@ nouns = [
     'raccoon 🦝',
     'rat 🐀',
     'rhino 🦏',
-    'rooster 🐓'
+    'rooster 🐓',
     'salamander',
     'scorpion 🦂',
     'seal',
@@ -119,32 +119,32 @@ nouns = [
     'sloth 🦥',
     'snake 🐍',
     'spider',
-    'squid 🦑'
+    'squid 🦑',
     'swan 🦢',
-    'tern'
+    'tern',
     'tiger 🐅',
     'tortoise',
     'toucan',
     'trilobite',
-    'turkey 🦃'
+    'turkey 🦃',
     'turtle 🐢',
     'velociraptor',
     'viper🐍',
     'vulture',
     'warthog',
-    'whale 🐋'
+    'whale 🐋',
     'wolf',
     'wolverine',
     'zebra 🦓',
     
     #insect 
     'ant 🐜',
-    'caterpillar 🐛'
+    'caterpillar 🐛',
     'cockroach',
     'cricket 🦗',
     'honeybee 🐝',
     'ladybug 🐞',
-    'mosquito 🦟'
+    'mosquito 🦟',
     'spider 🕷',
     
     
@@ -152,7 +152,7 @@ nouns = [
     'ascot',
     'ball gown',
     'bandana',
-    'beanie'
+    'beanie',
     'bell-bottoms',
     'belt',
     'beret',
@@ -163,7 +163,7 @@ nouns = [
     'blue jeans 👖',
     'boot 🥾',
     'caftan',
-    'cap 🧢'
+    'cap 🧢',
     'cravat',
     'crop top',
     'corset',
@@ -256,7 +256,7 @@ nouns = [
     'chole bhature',
     'chowmin',
     'chutney',
-    'coconut 🥥'
+    'coconut 🥥',
     'cookie',
     'coffee',
     'congee',
@@ -359,14 +359,14 @@ nouns = [
     'ramen',
     'rasogulla',
     'ratatouille',
-    'rice'
+    'rice',
     'rice Ball 🍙',
     'roti',
     'salad',
     'salmon',
     'salsa',
     'samosa',
-    'sandwich'
+    'sandwich',
     'sausage',
     'spaghetti 🍝',
     'spam',
@@ -401,7 +401,7 @@ nouns = [
     'ethernet cable',
     'external hard disk',
     'firewall',
-    'graphics card'
+    'graphics card',
     'hard disk',
     'HDMI',
     'heat sink',
