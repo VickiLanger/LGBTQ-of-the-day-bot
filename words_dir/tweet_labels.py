@@ -81,4 +81,6 @@ labels = {
     'bear': 'A gay man who presents in a very masculine way.',
     'polyamorous': 'Polyamory is the ability and/or desire to be in a relationship with more than one person at a time.',
     'baby dyke': 'A young, sometimes inexperienced lesbian.',
+    'top': 'Top is a term in the gay subculture to describe a gay man who preffers sexual engagement with either a bottom or a more passive man.',
+    'bottom': 'Bottom is a term in the gay subculture to describe a gay man who preffers sexual engagement with either a top or a more dominant man.',
 }
