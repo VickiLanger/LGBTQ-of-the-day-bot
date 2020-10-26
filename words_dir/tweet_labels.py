@@ -20,7 +20,7 @@ labels = {
     'pansexual': 'Sexually attracted to people regardless of gender.',
     'polysexual': 'Sexually attracted to people of multiple genders.',
     'asexual': 'The lack of sexual attraction to others, or low or absent interest in or desire for sexual activity (also known as "Ace").',
-    'demisexual': 'Someone who only experiences sexual attraction to people they share an emotional bond with.',
+    'demisexual': 'Someone who only experiences sexual attra              ction to people they share an emotional bond with.',
     'heterosexual': 'Sexually and/or emotionally attracted to members of the opposite sex.',
     'heteroflexible': 'Sexually and/or emotionally attracted primarily to members of the opposite sex, but will experience attraction to members of other genders under certain circumstances.',
     'queer': 'Used as an umbrella term for someone who doesn\'t identify as heterosexual and/or cisgender.',
@@ -36,7 +36,7 @@ labels = {
     'straight': 'Heterosexual, sexually and/or emotionally attracted to members of the opposite sex.',
     'aegosexual': 'lacking any desire to be a participant in the sexual activities therein',
     'abrosexual': 'Abrosexual refers to an individual whose sexuality is changing or fluid. For example, someone could be gay one day, then be asexual the next, then polysexual the next.',
-
+    'aromatic' : 'An adjective used to describe the people who do not experience romantic attraction.',
     # gender orientation
     'demiboy': 'A person who identifies as partially, but not completely, male.',
     'demigirl': 'A person who identifies as partially, but not completely, female.',
@@ -62,6 +62,7 @@ labels = {
     'trigender': 'Trigender people experience three genders, at the same time, or moving between the three at different times. These three genders can be any gender, either binary or nonbinary.',
 
     # romantic orientation
+    'androromantic': 'One who is romantically attracted to masculinity, the male sex and male identifying/presenting people.',
     'demiromantic': 'Romantically attracted to people only after forming deep emotional bonds.',
     'aromantic': 'One who does not experience romantic attraction to others.',
     'biromantic': 'Romantically attracted to both males and females.',
