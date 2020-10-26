@@ -75,7 +75,7 @@ nouns = [
     'lizard 🦎',
     'lynx',
     'meerkat',
-    'mockingbird',
+    'mockingbird,
     'mole',
     'monkey 🐒',
     'mousey 🐭',
@@ -93,7 +93,7 @@ nouns = [
     'penguin 🐧',
     'pigeon',
     'platypus',
-    'pig 🐖',
+    'pig 🐖,
     'Polar Bear',
     'Pony',
     'puffin 🐧',
@@ -123,10 +123,11 @@ nouns = [
     'wolverine',
     'zebra 🦓',
     
-    # insects
+    #insect 
     'ant',
     'cockroach',
-
+    
+    
     # clothing items
     'ascot',
     'ball gown',
@@ -143,7 +144,7 @@ nouns = [
     'caftan',
     'cravat',
     'crop top',
-    'corset',
+    'corset,
     'dungaree',
     'dynamo',
     'earmuff',
@@ -186,6 +187,7 @@ nouns = [
     'wallet',
     'windbreaker',
     'yeezy',
+
 
     # foods
     'almond',
@@ -430,25 +432,6 @@ nouns = [
     'Xbox 1',
     'Xbox X',
 
-    # space
-    'earth',
-    'Earth 🌎',
-    'europe',
-    'io',
-    'jupiter',
-    'mars',
-    'mercury',
-    'moon 🌑',
-    'nebula',
-    'neptune',
-    'rocket',
-    'satellite',
-    'saturn',
-    'shooting star',
-    'star',
-    'uranus',
-    'venus',
-
     # nature
     'archipelago',
     'aurora',
@@ -463,6 +446,7 @@ nouns = [
     'cloud',
     'coast',
     'desert',
+    'Earth 🌎',
     'drizzle',
     'flower 🌹',
     'forest',
@@ -492,6 +476,7 @@ nouns = [
     'snow',
     'snowflake ❄',
     'some moss',
+    'star',
     'stone',
     'storm',
     'sunflower 🌻',
