@@ -79,6 +79,7 @@ nouns = [
     'mole',
     'monkey 🐒',
     'mousey 🐭',
+    'mockingbird',
     'narwhal 🦄',
     'octopus 🐙',
     'opossum',
