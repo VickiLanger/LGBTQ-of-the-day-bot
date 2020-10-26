@@ -83,6 +83,7 @@ events = {
     '1979-01-11': 'The law that decriminalizes homosexuality in Spain comes into force. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
 
     # 1980s
+    '1981-02-05': 'Toronto police execute Operation Soap, raiding four gay bath houses. Community response regarded as Canadian equivalent of the 1969 Stonewall riots, evolving into Toronto Pride Week  https://en.wikipedia.org/wiki/Operation_Soap',
     '1982-03-02': 'Wisconsin becomes the first U.S. state to outlaw discrimination on the basis of sexual orientation. https://en.wikipedia.org/wiki/LGBT_rights_in_Wisconsin',
     '1988-12-01': 'The World Health Organization organizes the first World AIDS Day to raise awareness of the spreading pandemic. https://www.verywellhealth.com/the-history-of-world-aids-day-48717',
 
@@ -96,8 +97,10 @@ events = {
     '1998-04-01': 'Martin Luther King Jr.`s widow, Coretta Scott King, asks the civil rights community to help in the effort to extinguish homophobia. https://www.cnn.com/2013/08/23/us/coretta-scott-king-fast-facts/index.html',
 
     # 2000s
+    '2000-12-08': 'The Bundestag officially apologizes to gays and lesbians persecuted under the Nazi regime, and for "harm done to homosexual citizens up to 1969". https://en.wikipedia.org/wiki/LGBT_history_in_Germany',
     '2001-04-01': 'The Netherlands became the first country to legalize same-sex marriages. https://en.wikipedia.org/wiki/Same-sex_marriage_in_the_Netherlands',
     '2004-05-17': 'The first legal same-sex marriage in the United States takes place in Massachusetts. https://www.npr.org/2019/05/17/723649385/the-1st-legally-married-same-sex-couple-wanted-to-lead-by-example',
+    '2004-07-20': 'Guido Westerwelle, leader of the FDP, becomes the first leader of a major party to come out. https://en.wikipedia.org/wiki/LGBT_history_in_Germany',
     '2005-07-03': 'Same-sex marriage becomes legal in Spain. https://es.wikipedia.org/wiki/Matrimonio_entre_personas_del_mismo_sexo_en_Espa%C3%B1a',
     '2005-07-20': 'The enactment of the Civil Marriage Act allows same-sex couples to be married anywhere in Canada. http://laws-lois.justice.gc.ca/eng/acts/c-31.5/page-1.html',
     '2005-09-06': 'The California legislature becomes the first to pass a bill allowing marriage between same-sex couples. Governor Arnold Schwarzenegger vetoes the bill. https://www.nytimes.com/2005/09/06/national/california-legislature-approves-samesex-marriage-bill.html',
@@ -108,7 +111,9 @@ events = {
     '2008-11-04': 'Voters approve Proposition 8 in California, which makes same-sex marriage illegal. The proposition is later found to be unconstitutional by a federal judge. https://en.wikipedia.org/wiki/2008_California_Proposition_8',
     '2009-06-11': 'Lesbian, gay, bisexual, and transgender (LGBT) persons in Botswana face legal issues not experienced by non-LGBT citizens. Both female and male same-sex sexual acts have been legal in Botswana since 11 June 2019 after a unanimous ruling by the High Court of Botswana. https://en.m.wikipedia.org/wiki/LGBT_rights_in_Botswana',
     '2009-04-03': 'Same-sex marriage is legal in the state of Iowa. https://en.wikipedia.org/wiki/Same-sex_marriage_in_Iowa',
+    '2009-05-15': 'Westerwelle becomes the first openly gay member of the Federal Cabinet (Vice Chancellor and Foreign Minister under Angela Merkel coalition government). https://en.wikipedia.org/wiki/LGBT_history_in_Germany',
     '2009-05-16': 'The first monument dedicated to remembering the persecution of homosexuals during the Franco regime is inaugurated in Durango, Spain. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
+
     # 2010s
     '2010-07-15': 'Argentina legalises gay marriage. https://www.thehindu.com/news/international/Argentina-legalises-gay-marriage/article16197744.ece',
     '2011-05-05': 'Same-sex stable union is now legal in Brazil. https://en.wikipedia.org/wiki/LGBT_rights_in_Brazil',
@@ -148,6 +153,7 @@ events = {
     '2019-06-13': 'Discrimination on the basis of sexual orientation and gender identity became a crime in Brazil. https://en.wikipedia.org/wiki/LGBT_rights_in_Brazil',
     '2019-09-22': 'Billy Porter becomes the first openly gay black man to win the Emmy for best lead actor in a drama series. https://www.cnn.com/2019/09/22/entertainment/billy-porter-first-openly-gay-black-actor-emmy/index.html',
     '2019-09-25': 'Angelica Ross became the first openly transgender person to host an American presidential forum. https://en.wikipedia.org/wiki/Angelica_Ross',
+    '2019-12-18': 'Conversion therapy is completely banned for minors and partially banned for adults in December 2019. https://en.wikipedia.org/wiki/LGBT_history_in_Germany',
 
     # 2020s
     '2020-02-12': 'New Jersey residents can now change the gender marker on a driver`s license without a note from a doctor. https://www.northjersey.com/story/news/new-jersey/2020/02/12/nj-mvc-allow-gender-designation-changes-without-doctors-note/4738926002/',

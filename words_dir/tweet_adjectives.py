@@ -10,13 +10,14 @@ Vicki Langer (@vicki_langer)
 
 adjectives = [
     'adorable ',
+    'aesthetical',
     'aggressive',
     'alcoholic',
     'ambidextrous',
     'angelic',
     'animated',
+    'bubbly',
     'bad',
-    'beautiful',
     'brittle',
     'cautious',
     'clever',
@@ -88,6 +89,7 @@ adjectives = [
     'slick',
     'slimy',
     'slippery',
+    'smooth',
     'sticky',
     'tender',
     'tight',
@@ -319,4 +321,14 @@ adjectives = [
     'very similar',
     'well aware',
     'fast asleep',
+    
+    # character traits
+    'decadent',
+    'dogmatic',
+    'fidgety',
+    'intimidating',
+    'irritable',
+    'sagacious',
+    'strict',
+    'strong'
     ]
