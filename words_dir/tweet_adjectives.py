@@ -15,7 +15,9 @@ adjectives = [
     'ambidextrous',
     'angelic',
     'animated',
-    'bubbly'
+    'bubbly',
+    'bad',
+    'beautiful',
     'brittle',
     'cautious',
     'clever',
@@ -24,6 +26,7 @@ adjectives = [
     'dead',
     'diligent',
     'exuberant',
+    'fabulous',
     'fantastic',
     'fertile',
     'fragile',
@@ -47,6 +50,7 @@ adjectives = [
     'quizzical',
     'rustic',
     'ruthless',
+    'salty',
     'sassy',
     'sly',
     'smelly',
@@ -81,6 +85,7 @@ adjectives = [
     'prickly',
     'rough',
     'shaggy',
+    'silky',
     'slick',
     'slimy',
     'slippery',
@@ -93,8 +98,6 @@ adjectives = [
 
     # appearance
     'beautiful',
-    'beautiful',
-    'beautiful',
     'blushing',
     'bright',
     'butch',
@@ -103,6 +106,7 @@ adjectives = [
     'cracked',
     'dapper',
     'debonair',
+    'dreamy',
     'elegant',
     'ethereal',
     'exhausted',
@@ -133,6 +137,7 @@ adjectives = [
     # shapes
     'blobby',
     'broad',
+    'chubby',
     'circular',
     'crooked',
     'curved',
@@ -147,10 +152,13 @@ adjectives = [
     'shallow',
     'skinny',
     'steep',
+    'stout',
     'thick',
     'triangular',
+    'wonky',
 
     # tastes
+    'acrid',
     'bitter',
     'bland',
     'delicious',
@@ -169,6 +177,7 @@ adjectives = [
     'cacophonous',
     'crashing',
     'deafening',
+    'echoing',
     'euphonious',
     'faint',
     'hissing',
@@ -185,6 +194,7 @@ adjectives = [
     'purring',
     'raspy',
     'resonant',
+    'rumbling',
     'shrill',
     'soft',
     'tonal',
@@ -194,6 +204,7 @@ adjectives = [
     # sizes
     'average',
     'colossal',
+    'chubby ',
     'enormous',
     'gigantic',
     'ginormous',
@@ -217,6 +228,7 @@ adjectives = [
     'azure',
     'azure',
     'burgundy',
+    'black ',
     'carmine',
     'cedar',
     'cerulean',
@@ -307,4 +319,6 @@ adjectives = [
     # adverb and adjective pairs
     'perfectly splendid',
     'very similar',
+    'well aware',
+    'fast asleep',
     ]
