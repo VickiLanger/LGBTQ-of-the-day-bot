@@ -33,7 +33,6 @@ nouns = [
     'cat',
     'cheetah',
     'chicken 🐔'
-    'chipmunk 🐿',
     'cobra',
     'cow 🐄',
     'crab 🦀',
