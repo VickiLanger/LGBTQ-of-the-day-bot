@@ -72,7 +72,7 @@ nouns = [
     'lizard 🦎',
     'lynx',
     'meerkat',
-    'mockingbird,
+    'mockingbird',
     'mole',
     'monkey 🐒',
     'mousey 🐭',
@@ -89,7 +89,7 @@ nouns = [
     'penguin 🐧',
     'pigeon',
     'platypus',
-    'pig 🐖,
+    'pig 🐖',
     'Polar Bear',
     'puffin 🐧',
     'quokka',
@@ -116,6 +116,7 @@ nouns = [
     
     #insect 
     'ant',
+    'bee',
     'cockroach',
     
     
@@ -135,7 +136,7 @@ nouns = [
     'caftan',
     'cravat',
     'crop top',
-    'corset,
+    'corset',
     'dungaree',
     'dynamo',
     'earmuff',
