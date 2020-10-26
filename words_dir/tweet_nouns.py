@@ -96,6 +96,7 @@ nouns = [
     'raccoon 🦝',
     'rhino 🦏',
     'salamander',
+    'salmon',
     'seal',
     'shark 🦈',
     'sheep 🐑',
@@ -109,6 +110,7 @@ nouns = [
     'turtle',
     'velociraptor',
     'viper🐍',
+    'vulture',
     'warthog',
     'wolf',
     'wolverine',
@@ -181,6 +183,7 @@ nouns = [
     # foods
     'almond',
     'ambrosia salad',
+    'apple',
     'apple pie 🥧',
     'applesauce',
     'arroz con pollo',
@@ -295,6 +298,7 @@ nouns = [
     'roti',
     'salmon',
     'samosa',
+    'sashimi',
     'spam',
     'stroganoff',
     'sushi 🍣',
@@ -325,9 +329,10 @@ nouns = [
     'external hard disk',
     'graphics card'
     'hard disk',
+    'HDMI',
     'heat sink',
     'joystick',
-    'kernel'
+    'kernel',
     'keyboard',
     'laptop stand',
     'laptop',
@@ -374,10 +379,10 @@ nouns = [
     'PDA',
     'phonebook',
     'portable DVD player',
-    'radio'
+    'radio',
     'rotary telephone',
     'steno machine',
-    'telegraph'
+    'telegraph',
     'typewriter',
     'VCR',
     'VHS',
@@ -453,8 +458,10 @@ nouns = [
     'hill',
     'island 🏝️',
     'lake',
+    'logs',
     'meadow',
-    'moonlit sky'
+    'moon 🌑',
+    'moonlit sky',
     'mountain ⛰️',
     'oak tree',
     'pebble',
@@ -466,8 +473,9 @@ nouns = [
     'river',
     'rock',
     'sand',
-    'sea'
+    'sea',
     'seashell',
+    'sky',
     'sleet',
     'snow',
     'snowflake ❄',
@@ -475,6 +483,7 @@ nouns = [
     'stone',
     'storm',
     'sunflower 🌻',
+    'sunset',
     'swamp',
     'spring',
     'the swamp creature',
@@ -500,7 +509,6 @@ nouns = [
     'highlighter',
     'liquid paper',
     'lunch box',
-    'marker'
     'marker',
     'notebook',
     'paint',
@@ -514,9 +522,10 @@ nouns = [
     'stapler',
     'stencil',
     'water bottle',
+    'whiteboard',
 
     # rpg classes\skins
-    'assassin'
+    'assassin',
     'archer',
     'bard',
     'berserker',
@@ -599,7 +608,7 @@ nouns = [
     'historical movie',
     'horror movie',
     'mystery movie',
-    'non-fiction movie'
+    'non-fiction movie',
     'romance movie',
     'romantic movie',
     'romcom movie',
