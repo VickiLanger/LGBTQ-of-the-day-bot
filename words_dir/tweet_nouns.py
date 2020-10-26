@@ -605,9 +605,11 @@ nouns = [
 
     # types of movies
     'action movie',
+    'anime movie',
     'adventure movie',
     'animation movie',
     'comedy movie',
+    'cartoon movie',
     'dramatic movie',
     'family movie',
     'fiction movie',
@@ -618,6 +620,7 @@ nouns = [
     'romance movie',
     'romantic movie',
     'romcom movie',
+    'suspense movie',
     'sci-fi movie',
     'thriller movie',
 
@@ -704,6 +707,7 @@ nouns = [
     'Bucket Hats',
     'Shrunken Bags',
     'baggy trousers',
+    'poofy shoulders',
 
     # queer things
     '@autostraddle article',
