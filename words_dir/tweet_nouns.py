@@ -72,7 +72,7 @@ nouns = [
     'lizard 🦎',
     'lynx',
     'meerkat',
-    'mockingbird,
+    'mockingbird',
     'mole',
     'monkey 🐒',
     'mousey 🐭',
