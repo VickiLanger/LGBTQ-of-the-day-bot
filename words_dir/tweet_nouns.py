@@ -89,7 +89,7 @@ nouns = [
     'penguin 🐧',
     'pigeon',
     'platypus',
-    'pig 🐖,
+    'pig 🐖',
     'Polar Bear',
     'puffin 🐧',
     'quokka',
@@ -116,6 +116,7 @@ nouns = [
     
     #insect 
     'ant',
+    'bee',
     'cockroach',
     
     
