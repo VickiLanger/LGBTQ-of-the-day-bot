@@ -135,7 +135,7 @@ nouns = [
     'caftan',
     'cravat',
     'crop top',
-    'corset,
+    'corset',
     'dungaree',
     'dynamo',
     'earmuff',
