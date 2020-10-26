@@ -487,7 +487,6 @@ nouns = [
     'liquid paper',
     'lunch box',
     'marker'
-    'marker',
     'notebook',
     'paint',
     'pen',
@@ -500,9 +499,10 @@ nouns = [
     'stapler',
     'stencil',
     'water bottle',
+    'whiteboard',
 
     # rpg classes\skins
-    'assassin'
+    'assassin',
     'archer',
     'bard',
     'berserker',
