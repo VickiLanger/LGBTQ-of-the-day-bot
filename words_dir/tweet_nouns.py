@@ -96,6 +96,7 @@ nouns = [
     'raccoon 🦝',
     'rhino 🦏',
     'salamander',
+    'salmon',
     'seal',
     'shark 🦈',
     'sheep 🐑',
@@ -109,6 +110,7 @@ nouns = [
     'turtle',
     'velociraptor',
     'viper🐍',
+    'vulture',
     'warthog',
     'wolf',
     'wolverine',
@@ -183,6 +185,7 @@ nouns = [
     # foods
     'almond',
     'ambrosia salad',
+    'apple',
     'apple pie 🥧',
     'applesauce',
     'arroz con pollo',
@@ -297,6 +300,7 @@ nouns = [
     'roti',
     'salmon',
     'samosa',
+    'sashimi',
     'spam',
     'stroganoff',
     'sushi 🍣',
@@ -327,6 +331,7 @@ nouns = [
     'external hard disk',
     'graphics card'
     'hard disk',
+    'HDMI',
     'heat sink',
     'joystick',
     'kernel'
@@ -376,10 +381,10 @@ nouns = [
     'PDA',
     'phonebook',
     'portable DVD player',
-    'radio'
+    'radio',
     'rotary telephone',
     'steno machine',
-    'telegraph'
+    'telegraph',
     'typewriter',
     'VCR',
     'VHS',
@@ -437,6 +442,7 @@ nouns = [
     'hill',
     'island 🏝️',
     'lake',
+    'logs',
     'meadow',
     'moon 🌑',
     'moonlit sky'
@@ -451,8 +457,9 @@ nouns = [
     'river',
     'rock',
     'sand',
-    'sea'
+    'sea',
     'seashell',
+    'sky',
     'sleet',
     'snow',
     'snowflake ❄',
@@ -461,6 +468,7 @@ nouns = [
     'stone',
     'storm',
     'sunflower 🌻',
+    'sunset',
     'swamp',
     'spring',
     'the swamp creature',
