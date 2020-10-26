@@ -10,6 +10,7 @@ Vicki Langer (@vicki_langer)
 
 adjectives = [
     'adorable ',
+    'aesthetical',
     'aggressive',
     'alcoholic',
     'ambidextrous',
