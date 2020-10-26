@@ -22,6 +22,7 @@ nouns = [
     'bear 🐻',
     'betta fish',
     'Bird',
+    'boar 🐗'
     'buffalo 🐃',
     'bunny rabbit 🐰',
     'California condor',
@@ -30,10 +31,13 @@ nouns = [
     'cat 🐈',
     'cat',
     'cheetah',
+    'chicken 🐔'
+    'chipmunk 🐿',
     'cobra',
     'cow 🐄',
-    'Cow',
+    'crab 🦀',
     'danger noodle 🐍',
+    'deer 🦌'
     'dinosaur',
     'dodo',
     'Dog 🐶',
@@ -41,8 +45,9 @@ nouns = [
     'doggo 🐶',
     'dolphin 🐬',
     'donkey',
+    'dove 🕊️',
     'duck 🦆',
-    'eagle',
+    'eagle 🦅',
     'elephant 🐘',
     'elephant',
     'emu',
@@ -50,7 +55,8 @@ nouns = [
     'fox 🦊',
     'frog 🐸',
     'giraffe 🦒',
-    'Giraffe 🦒',
+    'goose'
+    'goat 🐐'
     'hamster 🐹',
     'hawk',
     'hedgehog 🦔',
@@ -70,22 +76,26 @@ nouns = [
     'leopard',
     'lion 🦁',
     'lizard 🦎',
+    'lobster 🦞',
     'lynx',
     'meerkat',
-    'mockingbird,
+    'mockingbird',
     'mole',
     'monkey 🐒',
-    'mousey 🐭',
+    'mouse 🐭',
     'narwhal 🦄',
     'octopus 🐙',
     'opossum',
+    'orangutan 🦧'
     'otter 🦦',
     'otter',
     'owl 🦉',
+    'oyster 🦪',
     'panda 🐼',
     'pangolin',
     'panther',
     'parrot 🦜',
+    'peacock 🦚'
     'penguin 🐧',
     'pigeon',
     'platypus',
@@ -94,29 +104,45 @@ nouns = [
     'puffin 🐧',
     'quokka',
     'raccoon 🦝',
+    'rat 🐀',
     'rhino 🦏',
+    'rooster 🐓'
     'salamander',
+    'scorpion 🦂',
     'seal',
     'shark 🦈',
+    'shrimp 🦐',
     'sheep 🐑',
+    'skunk 🦨',
     'sloth 🦥',
     'snake 🐍',
     'spider',
+    'squid 🦑'
     'swan 🦢',
-    'tiger',
+    'tern'
+    'tiger 🐅',
     'tortoise',
+    'toucan',
     'trilobite',
-    'turtle',
+    'turkey 🦃'
+    'turtle 🐢',
     'velociraptor',
     'viper🐍',
     'warthog',
+    'whale 🐋'
     'wolf',
     'wolverine',
     'zebra 🦓',
     
     #insect 
-    'ant',
+    'ant 🐜',
+    'caterpillar 🐛'
     'cockroach',
+    'cricket 🦗',
+    'honeybee 🐝',
+    'ladybug 🐞',
+    'mosquito 🦟'
+    'spider 🕷',
     
     
     # clothing items
