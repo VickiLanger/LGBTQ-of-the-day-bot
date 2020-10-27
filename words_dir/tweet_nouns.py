@@ -137,6 +137,22 @@ nouns = [
     'wolverine',
     'zebra 🦓',
     
+    #body organs
+    'arm',
+    'eye',
+    'finger',
+    'foot',
+    'hair',
+    'hand',
+    'head',
+    'knee',
+    'leg',
+    'nail',
+    'neck',
+    'nose',
+    'toe',
+    'tooth',
+
     #insect 
     'ant 🐜',
     'caterpillar 🐛',
@@ -267,6 +283,7 @@ nouns = [
     'cupcake',
     'currywurst',
     'Custard 🍮',
+    'cutlet',
     'dahi',
     'dosa',
     'doughnut 🍩',
@@ -298,6 +315,7 @@ nouns = [
     'jackfruit',
     'jalebi',
     'kachori',
+    'kebab',
     'kefir',
     'kheer',
     'Khia sangia',
