@@ -115,6 +115,7 @@ events = {
     '2009-04-03': 'Same-sex marriage is legal in the state of Iowa. https://en.wikipedia.org/wiki/Same-sex_marriage_in_Iowa',
     '2009-05-15': 'Westerwelle becomes the first openly gay member of the Federal Cabinet (Vice Chancellor and Foreign Minister under Angela Merkel coalition government). https://en.wikipedia.org/wiki/LGBT_history_in_Germany',
     '2009-05-16': 'The first monument dedicated to remembering the persecution of homosexuals during the Franco regime is inaugurated in Durango, Spain. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
+    '2009-10-17': 'Changing legal gender assignment in Brazil is legal according to the Superior Court of Justice of Brazil. https://en.wikipedia.org/wiki/Transgender_rights_in_Brazil#:~:text=The%20Supreme%20Federal%20Court%20ruled,declaration%20of%20their%20psychosocial%20identity.',
 
     # 2010s
     '2010-07-15': 'Argentina legalises gay marriage. https://www.thehindu.com/news/international/Argentina-legalises-gay-marriage/article16197744.ece',
@@ -148,6 +149,7 @@ events = {
     '2017-11-07': 'Virginia voters elect the state`s first openly transgender candidate to the Virginia House of Delegates. Danica Roem unseats incumbent delegate Bob Marshall, who had been elected 13 times over 26 years. https://www.cnn.com/2017/11/07/politics/danica-roem-virginia-transgender/index.html',
     '2017-12-09': 'On this day Australia legalised same-sex marriage. https://en.wikipedia.org/wiki/LGBT_rights_in_Australia',
     '2018-02-26': 'The Pentagon confirms that the first transgender person has signed a contract to join the US military. https://www.cnn.com/2018/02/26/politics/first-transgender-recruit-join-us-military/index.html',
+    '2018-03-01': 'Transgender person has the right to change their official name and sex without the need of surgery or professional evaluation in Brazil, just by self-declaration of their psychosocial identity. https://en.wikipedia.org/wiki/Transgender_rights_in_Brazil#:~:text=The%20Supreme%20Federal%20Court%20ruled,declaration%20of%20their%20psychosocial%20identity.',
     '2018-03-23': 'The Trump administration announces a new policy that bans most transgender people from serving in the military. After several court battles, the Supreme Court allows the ban to go into effect in January 2019 https://www.cnn.com/2018/03/23/politics/transgender-white-house/index.html',
     '2018-09-06': 'The Supreme Court of India decriminalized Section 377 making gay sex legal. https://timesofindia.indiatimes.com/topic/same-sex-marriage',
     '2018-11-06': 'Democratic US Representative Jared Polis wins the Colorado governor`s race, becoming the nation`s first openly gay man to be elected governor. https://www.cnn.com/2018/11/06/politics/jared-polis-colorado-gay-governor/index.html',
