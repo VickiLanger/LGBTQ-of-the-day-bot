@@ -291,13 +291,26 @@ nouns = [
 
     #insect 
     'ant 🐜',
+    'bee 🐝',
+    'beetle',
+    'butterfly 🦋',
     'caterpillar 🐛',
     'cockroach',
     'cricket 🦗',
+    'damselfly',
+    'dragonfly',
+    'flea',
+    'fly',
+    'grasshopper',
     'honeybee 🐝',
     'ladybug 🐞',
     'mosquito 🦟',
+    'moth'
+    'praying mantis',
+    'stick bug',
     'spider 🕷',
+    'termite',
+    'wasp'
     
     # clothing items
     'ascot',
