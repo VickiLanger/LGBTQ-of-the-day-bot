@@ -155,6 +155,7 @@ nouns = [
 
     #insect 
     'ant 🐜',
+    'bee 🐝',
     'caterpillar 🐛',
     'cockroach',
     'cricket 🦗',
@@ -209,6 +210,7 @@ nouns = [
     'kimono 👘',
     'kippah',
     'murse',
+    'muffler',
     'neon fanny pack',
     'party hat',
     'romper',
@@ -346,6 +348,7 @@ nouns = [
     'noodle',
     'omlette',
     'onion soup',
+    'oreo 🍪',
     'oxtail',
     'pancake',
     'paneer',
