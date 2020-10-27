@@ -16,6 +16,7 @@ adjectives = [
     'ambidextrous',
     'angelic',
     'animated',
+    'austere',
     'bubbly',
     'bad',
     'breathtaking',
