@@ -647,15 +647,6 @@ nouns = [
     'zucchini',
 
 
-     #insect 
-    'ant',
-    'bee',
-    'buttrefly',
-    'caterpillar',
-    'cockroach',
-    'ladybug',
-
-    
     # computer things
     'adapter',
     'antivirus software',
