@@ -80,7 +80,7 @@ events = {
     '1977-07-08': 'João W. Nery became the first Brazilian transgender to have undergone sex-change surgery in Brazil. https://en.wikipedia.org/wiki/Jo%C3%A3o_W._Nery',
     '1978-01-09': 'Harvey Milk is inaugurated as San Francisco city supervisor and is the first openly gay man to be elected to a political office in California. http://milkfoundation.org/about/harvey-milk-biography/',
     '1978-06-25': 'The rainbow flag becomes a universal symbol of hope for LGBTQ people around the world. https://www.cnn.com/style/article/pride-rainbow-flag-design-history/index.html#:~:text=The%20rainbow%20flag%2C%20which%20has,openly%20gay%20artist%20and%20activist.',
-    '1979-05-21': 'Riots occur after Dan White receives lenient sentencing for murdering Harvey Milk and George Moscone. https://en.wikipedia.org/wiki/White_Night_riots'
+    '1979-05-21': 'Riots occur after Dan White receives lenient sentencing for murdering Harvey Milk and George Moscone. https://en.wikipedia.org/wiki/White_Night_riots',
     '1979-10-14': 'An estimated 75,000 people participate in the National March on Washington for Lesbian and Gay Rights. https://en.wikipedia.org/wiki/National_March_on_Washington_for_Lesbian_and_Gay_Rights',
     '1979-01-11': 'The law that decriminalizes homosexuality in Spain comes into force. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
 
