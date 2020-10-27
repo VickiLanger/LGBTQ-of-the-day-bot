@@ -47,6 +47,7 @@ events = {
     '1950-11-11': 'The Mattachine Society was founded. https://en.wikipedia.org/wiki/Mattachine_Society',
     '1951-01-01': 'Roberta Cowell is the first known British trans woman to undergo reassignment surgery. https://en.wikipedia.org/wiki/Roberta_Cowell',
     '1952-01-12': 'Alan Turing was charged, trialed, and convicted with "gross indecency" for having a homosexual relationship with his partner, Arnold Murray. https://en.wikipedia.org/wiki/Alan_Turing#Conviction_for_indecency',
+    '1952-12-01': 'Christine Jorgensen is the first trans American to undergo reassignment surgery. https://en.wikipedia.org/wiki/Christine_Jorgensen',
     '1955-09-21': 'The Daughters of Bilitis becomes the first lesbian rights organization in the United States. https://en.wikipedia.org/wiki/Daughters_of_Bilitis',
     '1955-12-20': 'Frank Kameny is fired from his job as an astronomer in the United States Army’s Map Service in Washington, DC because of his homosexuality. A few days later, he is denied from seeking federal employment. http://www.thelavendereffect.org/2013/12/20/december-20-in-lgbtq-history-2/',
     '1958-01-13': 'United States Supreme Court rules in favor of the First Amendment rights of the lesbian, gay, bisexual and transgender (LGBT) magazine One: The Homosexual Magazine. https://en.wikipedia.org/wiki/One,_Inc._v._Olesen',
@@ -79,6 +80,7 @@ events = {
     '1977-07-08': 'João W. Nery became the first Brazilian transgender to have undergone sex-change surgery in Brazil. https://en.wikipedia.org/wiki/Jo%C3%A3o_W._Nery',
     '1978-01-09': 'Harvey Milk is inaugurated as San Francisco city supervisor and is the first openly gay man to be elected to a political office in California. http://milkfoundation.org/about/harvey-milk-biography/',
     '1978-06-25': 'The rainbow flag becomes a universal symbol of hope for LGBTQ people around the world. https://www.cnn.com/style/article/pride-rainbow-flag-design-history/index.html#:~:text=The%20rainbow%20flag%2C%20which%20has,openly%20gay%20artist%20and%20activist.',
+    '1979-05-21': 'Riots occur after Dan White receives lenient sentencing for murdering Harvey Milk and George Moscone. https://en.wikipedia.org/wiki/White_Night_riots',
     '1979-10-14': 'An estimated 75,000 people participate in the National March on Washington for Lesbian and Gay Rights. https://en.wikipedia.org/wiki/National_March_on_Washington_for_Lesbian_and_Gay_Rights',
     '1979-01-11': 'The law that decriminalizes homosexuality in Spain comes into force. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
 
