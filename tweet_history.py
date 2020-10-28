@@ -26,7 +26,7 @@ def tweet_historicat_event():
     today = str(date.today())
 
     # extract month and day
-    month_and_day = today[5:]
+    month_and_day = today[5:]  # slice off the first 5 characters
 
     # make a list of the events that match month_and_day
     list_of_history_tweets = [key + ": " + val for key, val in events.items() if month_and_day in key]
