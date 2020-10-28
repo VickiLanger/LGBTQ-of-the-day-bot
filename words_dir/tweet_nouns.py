@@ -302,11 +302,13 @@ nouns = [
     'cricket 🦗',
     'damselfly',
     'dragonfly',
+    'firefly',
     'flea',
     'fly',
     'grasshopper',
     'honeybee 🐝',
     'ladybug 🐞',
+    'millipede',
     'mosquito 🦟',
     'moth'
     'praying mantis',
