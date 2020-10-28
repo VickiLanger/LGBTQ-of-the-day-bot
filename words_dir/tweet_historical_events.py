@@ -11,7 +11,7 @@ Vicki Langer (@vicki_langer)
 # NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 events = {
-    #1600s
+    # 1600s
     '1610-05-24': 'The Virginia Colony formally outlawed "Sodomie." http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1610s/sodomy-law-virginia-may-24-161',
     '1629-01-01': 'In 1629, the General Court of Colonial Virginia met to decide if a certain settler was male or female. https://www.history.com/news/intersex-people-casimir-pulaski-thomasine-hall',
     '1636-11-13': 'The Plymouth, America colony listed sodomy as one of 8 offenses punishable by death. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1630s/sodomy-law-plymouth-november-1',
@@ -21,8 +21,8 @@ events = {
     '1642-12-05': 'Elizabeth Johnson was sentenced to be whipped and fined for "unseemly practices betwixt her and another maid" as well as being stubborn and plugging her ears. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/legal-case-elizabeth-johnson-m',
     '1646-03-25': 'Jan Creoli, a black man in the New Netherland Colony (now New York) was brutally and publicly executed after being accused of sodomy. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/sodomy-case-creoli-executed-ne',
     '1649-03-06': 'Sara Norman and Mary Hammon were publicly shamed for participating in "unchaste behavior" together. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/legal-case-norman-and-hammon-p',
-    
-    #1700s
+
+    # 1700s
     '1700-11-27': 'Pennsylvania replaced it\'s previous sodomy statute with two separate laws. Whites were sentenced to life imprisonment, while blacks were sentenced to death. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1700s/sodomy-law-pennsylvania-noveme',
 
     # 1800s
@@ -60,10 +60,10 @@ events = {
     '1952-01-12': 'Alan Turing was charged, trialed, and convicted with "gross indecency" for having a homosexual relationship with his partner, Arnold Murray. https://en.wikipedia.org/wiki/Alan_Turing#Conviction_for_indecency',
     '1952-12-01': 'Christine Jorgensen is the first trans American to undergo reassignment surgery. https://en.wikipedia.org/wiki/Christine_Jorgensen',
     '1955-09-21': 'The Daughters of Bilitis becomes the first lesbian rights organization in the United States. https://en.wikipedia.org/wiki/Daughters_of_Bilitis',
-    #'1955-12-20': 'Frank Kameny is fired from his job as an astronomer in the United States Army\'s Map Service in Washington, DC because of his homosexuality. A few days later, he is denied from seeking federal employment. http://www.thelavendereffect.org/2013/12/20/december-20-in-lgbtq-history-2/',
+    '1955-12-20': 'Frank Kameny is fired from his job as an astronomer in the United States Army\'s Map Service in Washington, DC because of his homosexuality. Days later, he is denied from seeking federal employment. thelavendereffect.org/2013/12/20/december-20-in-lgbtq-history-2/',
     '1958-01-13': 'United States Supreme Court rules in favor of the First Amendment rights of the lesbian, gay, bisexual and transgender (LGBT) magazine One: The Homosexual Magazine. https://en.wikipedia.org/wiki/One,_Inc._v._Olesen',
     '1958-03-05': 'Tony Dyson writes a letter to the Times leading to the formation of the Homosexual Law Reform Society. A society that campaigned for the legalisation of same-sex relationships in the UK. https://en.wikipedia.org/wiki/Homosexual_Law_Reform_Society',
-    
+
     # 1960s
     '1961-09-11': 'The first US-televised documentary about homosexuality airs on a local station in California. https://en.wikipedia.org/wiki/The_Rejected',
     '1962-01-01': 'Illinois repeals its sodomy laws, becoming the first U.S. state to decriminalize homosexuality. https://en.wikipedia.org/wiki/LGBT_rights_in_Illinois',
@@ -76,7 +76,7 @@ events = {
     # 1970s
     '1970-06-28': 'Community members in New York City march through the streets to recognize the 1-yr anniversary of the Stonewall riots. This event is now considered the 1st gay pride parade. http://www.pbs.org/wgbh/americanexperience/features/timeline/stonewall/',
     '1972-01-01': 'In 1972, The Men with the Pink Triangle, the first autobiography of a gay concentration camp survivor, was published. https://www.history.com/news/pink-triangle-nazi-concentration-camps',
-    #'1973-01-01': 'In 1973, post-war Germany\'s first gay rights organization, Homosexuelle Aktion Westberlin (HAW), reclaimed the pink triangle as a symbol of liberation. https://nursingclio.org/2017/04/20/pink-triangle-legacies-holocaust-memory-and-international-gay-rights-activism/#footnoteref2',
+    '1973-01-01': 'Post-war Germany\'s first gay rights organization, Homosexuelle Aktion Westberlin (HAW), reclaimed the pink triangle as a symbol of liberation. nursingclio.org/2017/04/20/pink-triangle-legacies-holocaust-memory-and-international-gay-rights-activism/',
     '1972-07-01': 'The first Pride march is held in London, attracting around 2000 participants. https://www.bbc.com/news/uk-england-40533612',
     '1973-01-01': 'Maryland becomes the first state to statutorily ban same-sex marriage. https://www.npr.org/templates/story/story.php?storyId=5164355#:~:text=Maryland%20Judge%20Rejects%20Gay%2DMarriage%20Ban%20A%20Maryland%20circuit%20court,court%20has%20affirmed%20the%20decision.',
     '1973-03-11': 'First meeting of Parents and Friends of Gays. https://pflag.org/our-story#:~:text=The%20first%20formal%20meeting%20took,Approximately%2020%20people%20attended.',
@@ -104,7 +104,7 @@ events = {
     # 1990s
     '1993-11-30': 'President Bill Clinton signs a military policy directive that prohibits openly gay and lesbian Americans from serving in the military but also prohibits the harassment of closeted homosexuals. https://www.cnn.com/2013/02/01/us/bill-clinton-fast-facts/index.html',
     '1996-01-01': 'A landmark case rules an employee who was about to transition was wrongfully dismissed. https://en.wikipedia.org/wiki/P_v_S_and_Cornwall_County_Council',
-    #'1996-03-12': "Hawaii's Judge rules the state does not have a legal right to deprive same-sex couples of the right to marry, making Hawaii the first state to recognize that gay and lesbian couples are entitled to the same privileges as heterosexual married couples. https://web.archive.org/web/19990203044430/http://www.cnn.com/US/9612/03/same.sex.marriage/",
+    '1996-03-12': "Five years after a gay couple filed suit against Hawaii for denying them a marriage license, Hawaiian state court upheld the right of same-sex couples to be legally wed. This made Hawaii the first state to legalize gay marriage cnn.com/US/9612/03/same.sex.marriage",
     '1997-04-14': 'Comedian Ellen DeGeneres comes out as a lesbian on the cover of Time magazine. http://content.time.com/time/covers/0,16641,19970414,00.html',
     '1997-04-30': "DeGeneres' character, Ellen Morgan, on her self-titled TV series 'Ellen' becomes the first leading character to come out on a prime-time network television show. https://en.wikipedia.org/wiki/Ellen_(TV_series)",
     '1997-12-18': 'In New Jersey, same-sex couples are given the right to jointly adopt children. https://www.washingtonpost.com/archive/politics/1997/12/18/nj-allows-gays-to-adopt-jointly/7b031fcd-1338-4dff-b548-1e54eb196f12/',
@@ -136,7 +136,7 @@ events = {
     '2011-05-05': 'Same-sex stable union is now legal in Brazil. https://en.wikipedia.org/wiki/LGBT_rights_in_Brazil',
     '2011-09-20': 'Repeal of DADT. https://www.americanprogress.org/issues/lgbtq-rights/reports/2012/09/20/38764/the-repeal-of-dont-ask-dont-tell-1-year-later/',
     '2012-05-09': 'In an ABC interview, Obama becomes the first sitting US president to publicly support the freedom for LGBTQ couples to marry. https://www.cnn.com/2012/05/09/politics/obama-same-sex-marriage/',
-    '2012-06-15': 'Same-sex marriage is now legal in Denmark. https://en.wikipedia.org/wiki/LGBT_rights_in_Denmark#Recognition_of_same-sex_relationships',
+    '2012-06-15': 'Same-sex marriage became legal in Denmark. https://en.wikipedia.org/wiki/LGBT_rights_in_Denmark#Recognition_of_same-sex_relationships',
     '2012-09-30': 'California bans gay "conversion" therapy for minors. https://www.reuters.com/article/us-california-gaytherapy-idUSBRE88T0DR20120930',
     '2012-11-06': 'Tammy Baldwin becomes the first openly gay politician and the first Wisconsin woman to be elected to the US Senate. https://www.cnn.com/2012/11/07/politics/wisconsin-tammy-baldwin-senate/',
     '2013-05-16': 'Although same-sex unions have been legalized since 2004 in Brazil, only since 2013 is same-sex marriage legal. https://en.wikipedia.org/wiki/Same-sex_marriage_in_Brazil',
@@ -156,16 +156,16 @@ events = {
     '2016-05-17': 'The Senate confirms Eric Fanning to be secretary of the Army, making him the first openly gay secretary of a US military branch. https://www.cnn.com/2016/05/17/politics/eric-fanning-secretary-of-the-army/',
     '2016-06-24': 'Obama announces the designation of the first national monument to lesbian, gay, bisexual and transgender LGBTQ rights. https://obamawhitehouse.archives.gov/blog/2016/06/24/president-obama-designates-stonewall-national-monument',
     '2016-06-30': 'Secretary of Defense Carter announces that the Pentagon is lifting the ban on transgender people serving openly in the US military. https://www.cnn.com/2016/06/30/politics/transgender-ban-lifted-us-military/',
-    #'2016-08-05': 'A record number of "out" athletes compete in Summer Olympic Games in Rio de Janeiro. The @HRC estimates there were at least 41 openly lesbian, gay and bisexual Olympians -- up from 23 that participated in London 2012. https://edition.cnn.com/2016/08/11/sport/rio-2016-lgbt-olympians/',
+    #'2016-08-05': 'A record number of "out" athletes compete in Summer Olympic Games in Rio de Janeiro. The @HRC estimates there were at least 41 openly lesbian, gay and bisexual Olympians -- up from 23 that participated in London 2012. edition.cnn.com/2016/08/11/sport/rio-2016-lgbt-olympians',
     '2016-09-16': 'Lilly Singh became the first late-night host to ever publicly identify as bisexual. https://en.wikipedia.org/wiki/A_Little_Late_with_Lilly_Singh',
-    #'2016-11-09': 'Kate Brown is sworn in as governor of Oregon, a day after she was officially elected to the office. Brown becomes the highest-ranking LGBTQ person elected to office in the United States. https://www.npr.org/sections/thetwo-way/2016/11/09/501338927/for-first-time-openly-lgbt-governor-elected-oregons-kate-brown',
+    #'2016-11-09': 'Kate Brown is sworn in as governor of Oregon, a day after she was officially elected to the office. Brown becomes the highest-ranking LGBTQ person elected to office in the United States. npr.org/sections/thetwo-way/2016/11/09/501338927/for-first-time-openly-lgbt-governor-elected-oregons-kate-brown',
     '2016-12-30': 'India opens first school for transgender pupils in the city of Kochi. https://www.bbc.com/news/world-asia-india-38470192',
     '2017-06-27': 'District of Columbia residents can now choose a gender-neutral option on their driver\'s license. https://www.cnn.com/2017/06/27/health/washington-gender-neutral-drivers-license/index.html',
-    #'2017-11-07': 'Virginia voters elect the state\'s first openly transgender candidate to the Virginia House of Delegates. Danica Roem unseats incumbent delegate Bob Marshall, who had been elected 13 times over 26 years. https://www.cnn.com/2017/11/07/politics/danica-roem-virginia-transgender/index.html',
+    #'2017-11-07': 'Virginia voters elect the state\'s first openly transgender candidate to the Virginia House of Delegates. Danica Roem unseats incumbent delegate Bob Marshall, who had been elected 13 times over 26 years. cnn.com/2017/11/07/politics/danica-roem-virginia-transgender/index.html',
     '2017-12-09': 'On this day Australia legalised same-sex marriage. https://en.wikipedia.org/wiki/LGBT_rights_in_Australia',
     '2018-02-26': 'The Pentagon confirms that the first transgender person has signed a contract to join the US military. https://www.cnn.com/2018/02/26/politics/first-transgender-recruit-join-us-military/index.html',
-    #'2018-03-01': 'Transgender person has the right to change their official name and sex without the need of surgery or professional evaluation in Brazil, just by self-declaration of their psychosocial identity. https://en.wikipedia.org/wiki/Transgender_rights_in_Brazil#:~:text=The%20Supreme%20Federal%20Court%20ruled,declaration%20of%20their%20psychosocial%20identity.',
-    #'2018-03-23': 'The Trump administration announces a new policy that bans transgender people from serving in the military. After several court battles, the Supreme Court allows the ban to go into effect in January 2019 https://www.cnn.com/2018/03/23/politics/transgender-white-house/index.html',
+    '2018-03-01': 'Transgender folks have the right to change their official name & sex without the need of surgery or professional evaluation in Brazil. en.wikipedia.org/wiki/Transgender_rights_in_Brazil',
+    '2018-03-23': 'The Trump administration announces a new policy that bans transgender people from serving in the military. After several court battles, the Supreme Court allows the ban to go into effect in January 2019 cnn.com/2018/03/23/politics/transgender-white-house/index.html',
     '2018-09-06': 'The Supreme Court of India decriminalized Section 377 making gay sex legal. https://timesofindia.indiatimes.com/topic/same-sex-marriage',
     '2018-11-06': 'Democratic US Representative Jared Polis wins the Colorado governor\'s race, becoming the nation\'s first openly gay man to be elected governor. https://www.cnn.com/2018/11/06/politics/jared-polis-colorado-gay-governor/index.html',
     '2019-02-16': 'Nyla Rose became the first openly transgender wrestler in history to sign with a major American promotion. https://en.wikipedia.org/wiki/Nyla_Rose',
