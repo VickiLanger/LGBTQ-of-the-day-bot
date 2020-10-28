@@ -304,6 +304,7 @@ nouns = [
     'grasshopper',
     'honeybee 🐝',
     'ladybug 🐞',
+    'millipede',
     'mosquito 🦟',
     'moth'
     'praying mantis',
