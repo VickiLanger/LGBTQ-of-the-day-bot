@@ -238,6 +238,7 @@ nouns = [
     'stork',
     'sugar glider',
     'sunbird',
+    'sunfish',
     'swan 🦢',
     'tapir',
     'tarantula',
