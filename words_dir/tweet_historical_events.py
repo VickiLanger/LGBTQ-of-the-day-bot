@@ -111,6 +111,7 @@ events = {
     '2005-12-05': 'The Civil Partnership Act passes, granting civil partnership in the UK. https://en.wikipedia.org/wiki/Civil_Partnership_Act_2004',
     '2006-10-25': 'The New Jersey Supreme Court rules that state lawmakers must provide the rights and benefits of marriage to gay and lesbian couples. https://www.cnn.com/2006/US/10/25/gay.marriage/',
     '2007-12-21': 'Homosexuality was legalized in Nepal in 2007. https://en.wikipedia.org/wiki/LGBT_rights_in_Nepal',
+    '2008-01-20': 'Uruguay became the first Latin American country to enact a national same-sex civil union law. https://en.wikipedia.org/wiki/Same-sex_marriage_in_Uruguay',
     '2008-05-15': 'The California Supreme Court rules in reMarriage Cases that limiting marriage to opposite-sex couples is unconstitutional. https://www.aclunc.org/our-work/legal-docket/re-marriage-cases',
     '2008-11-04': 'Voters approve Proposition 8 in California, which makes same-sex marriage illegal. The proposition is later found to be unconstitutional by a federal judge. https://en.wikipedia.org/wiki/2008_California_Proposition_8',
     '2009-06-11': 'Lesbian, gay, bisexual, and transgender (LGBT) persons in Botswana face legal issues not experienced by non-LGBT citizens. Both female and male same-sex sexual acts have been legal in Botswana since 11 June 2019 after a unanimous ruling by the High Court of Botswana. https://en.m.wikipedia.org/wiki/LGBT_rights_in_Botswana',
@@ -129,6 +130,7 @@ events = {
     '2012-11-06': 'Tammy Baldwin becomes the first openly gay politician and the first Wisconsin woman to be elected to the US Senate. https://www.cnn.com/2012/11/07/politics/wisconsin-tammy-baldwin-senate/',
     '2013-05-16': 'Although same-sex unions have been legalized since 2004 in Brazil, only since 2013 is same-sex marriage legal. https://en.wikipedia.org/wiki/Same-sex_marriage_in_Brazil',
     '2013-06-26': 'Repeal of DOMA. https://www.americanprogress.org/issues/immigration/news/2013/06/26/68033/what-the-doma-decision-means-for-lgbt-binational-couples/',
+    '2013-08-05': 'Uruguay became the twelfth country in the world to legalize gay marriage and the second Latin American country, after Argentina. https://www.bbc.com/news/world-latin-america-23571197',
     '2013-10-24': 'As a less exclusive alternative to "LGBT," "LGBTQ," and "LGBTQIA+," the acronym "GSRM," which stands for "Gender, Sexual, and Romantic Minorities", has been added to Urban Dictionary. ',
     '2014-02-09': 'Michael Sam becomes the first openly gay football player in the NFL. https://www.espn.com/espn/otl/story/_/id/10429030/michael-sam-missouri-tigers-says-gay',
     '2014-03-13': 'The Marriage (Same Sex Couples) Act 2013 (c. 30) introduced same-sex marriage in England and Wales. https://en.wikipedia.org/wiki/Marriage_(Same_Sex_Couples)_Act_2013#13_March_2014:_Same-Sex_Marriage',
@@ -167,6 +169,7 @@ events = {
 
     # 2020s
     '2020-02-12': 'New Jersey residents can now change the gender marker on a driver`s license without a note from a doctor. https://www.northjersey.com/story/news/new-jersey/2020/02/12/nj-mvc-allow-gender-designation-changes-without-doctors-note/4738926002/',
+    '2020-05-26': 'Costa Rica becomes the first country in Central America to legalize same-sex marriage. https://www.cnn.com/2020/05/26/americas/costa-rica-legalizes-same-sex-marriage-trnd/index.html',
     '2020-06-15': 'The Supreme Court rules that federal law protects LGBTQ workers from discrimination. https://www.cnn.com/2020/06/15/politics/supreme-court-lgbtq-employment-case/index.html',
     '2020-07-16': 'Sudan abolished the death penalty and flogging for homosexuality. https://www.reuters.com/article/us-sudan-lgbt-rights-trfn/great-first-step-as-sudan-lifts-death-penalty-and-flogging-for-gay-sex-idUSKCN24H30J',
     '2020-09-15': 'India`s most populated state, Uttar Pradesh approves setting up of a transgender welfare board in the state. https://indianexpress.com/article/cities/lucknow/up-minister-shastri-approves-setting-up-of-transgender-welfare-board-in-state-6597718/',
