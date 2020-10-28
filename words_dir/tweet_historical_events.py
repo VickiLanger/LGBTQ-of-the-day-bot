@@ -12,7 +12,21 @@ Vicki Langer (@vicki_langer)
 
 events = {
     #1600s
+    '1610-05-24': 'The Virginia Colony formally outlawed "Sodomie." http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1610s/sodomy-law-virginia-may-24-161',
     '1629-01-01': 'In 1629, the General Court of Colonial Virginia met to decide if a certain settler was male or female. https://www.history.com/news/intersex-people-casimir-pulaski-thomasine-hall',
+    '1636-11-13': 'The Plymouth, America colony listed sodomy as one of 8 offenses punishable by death. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1630s/sodomy-law-plymouth-november-1',
+    '1637-08-06': 'John Allexander and Thomas Roberts were found guilty by the Plymouth court for "lewd behavior and unclean carriage one with another." http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1630s/legal-case-allexander-roberts-',
+    '1642-03-01': 'Edward Michell and Edward Preston were cited by the Plymouth court for "lewd & sodomitical practices" with one another. They were both whipped as punishment. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/legal-case-michell-and-preston', 
+    '1642-12-01': 'The General Court of Connecticut listed "man lying with man" as one of 12 capital crimes, along with witchcraft and blasphemy. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/sodomy-law-connecticut-decembe',
+    '1642-12-05': 'Elizabeth Johnson was sentenced to be whipped and fined for "unseemly practices betwixt her and another maid" as well as being stubborn and plugging her ears. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/legal-case-elizabeth-johnson-m',
+    '1646-03-25': 'Jan Creoli, a black man in the New Netherland Colony (now New York) was brutally and publicly executed after being accused of sodomy. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/sodomy-case-creoli-executed-ne',
+    '1649-03-06': 'Sara Norman and Mary Hammon were publicly shamed for participating in "unchaste behavior" together. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/legal-case-norman-and-hammon-p',
+    
+    #1700s
+    '1700-11-27': 'Pennsylvania replaced it\'s previous sodomy statute with two separate laws. Whites were sentenced to life imprisonment, while blacks were sentenced to death. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1700s/sodomy-law-pennsylvania-noveme',
+    
+    
+    
 
     # 1800s
     '1871-01-01': 'Homosexuality was technically made illegal in Germany in 1871, but it was rarely enforced until the Nazi Party took power in 1933. https://www.history.com/news/pink-triangle-nazi-concentration-camps',
@@ -163,6 +177,7 @@ events = {
 
     # 2020s
     '2020-02-12': 'New Jersey residents can now change the gender marker on a driver`s license without a note from a doctor. https://www.northjersey.com/story/news/new-jersey/2020/02/12/nj-mvc-allow-gender-designation-changes-without-doctors-note/4738926002/',
+    '2020-05-08': 'Maryland repealed it\'s sodomy law. https://www.billtrack50.com/BillDetail/1166637',
     '2020-06-15': 'The Supreme Court rules that federal law protects LGBTQ workers from discrimination. https://www.cnn.com/2020/06/15/politics/supreme-court-lgbtq-employment-case/index.html',
     '2020-07-16': 'Sudan abolished the death penalty and flogging for homosexuality. https://www.reuters.com/article/us-sudan-lgbt-rights-trfn/great-first-step-as-sudan-lifts-death-penalty-and-flogging-for-gay-sex-idUSKCN24H30J',
     '2020-09-15': 'India`s most populated state, Uttar Pradesh approves setting up of a transgender welfare board in the state. https://indianexpress.com/article/cities/lucknow/up-minister-shastri-approves-setting-up-of-transgender-welfare-board-in-state-6597718/',
