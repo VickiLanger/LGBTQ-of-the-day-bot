@@ -299,6 +299,7 @@ nouns = [
     'cricket 🦗',
     'damselfly',
     'dragonfly',
+    'firefly',
     'flea',
     'fly',
     'grasshopper',
