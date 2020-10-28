@@ -34,7 +34,7 @@ labels = {
     'autosexual': 'Someone who primarily feels sexual attraction to themself, but not toward others.',
     'aegosexual': 'lacking any desire to be a participant in the sexual activities therein',
     'abrosexual': 'Abrosexual refers to an individual whose sexuality is changing or fluid. For example, someone could be gay one day, then be asexual the next, then polysexual the next.',
-
+    'aromantic': 'the people who do not experience romantic attraction.',
     # gender orientation
     'demiboy': 'A person who identifies as partially, but not completely, male.',
     'demigirl': 'A person who identifies as partially, but not completely, female.',
@@ -60,6 +60,7 @@ labels = {
     'trigender': 'Trigender people experience three genders, at the same time, or moving between the three at different times. These three genders can be any gender, either binary or nonbinary.',
 
     # romantic orientation
+    'androromantic': 'One who is romantically attracted to masculinity, the male sex and male identifying/presenting people.',
     'demiromantic': 'Romantically attracted to people only after forming deep emotional bonds.',
     'aromantic': 'One who does not experience romantic attraction to others.',
     'biromantic': 'Romantically attracted to both males and females.',
@@ -69,7 +70,8 @@ labels = {
     'polyromantic': 'Romantically attracted to multiple, but not all, genders.',
     'homoromantic': 'Romantically attracted to those of the same gender.',
     'heteroromantic': 'Romantically attracted to those of the opposite gender.',
-    'autoromantic': 'Romantically attracted to oneself',
+    'hyperromantic': 'One who is extremly romantic.',
+    'autoromantic': 'Romantically attracted to oneself.',
 
     # subculture labels?
     # NOTE: must make sense in "{adjective} {label} {noun}" (example: tiny [somelabel] book)
@@ -79,4 +81,6 @@ labels = {
     'bear': 'A gay man who presents in a very masculine way.',
     'polyamorous': 'Polyamory is the ability and/or desire to be in a relationship with more than one person at a time.',
     'baby dyke': 'A young, sometimes inexperienced lesbian.',
+    'top': 'Top is a term in the gay subculture to describe a gay man who preffers sexual engagement with either a bottom or a more passive man.',
+    'bottom': 'Bottom is a term in the gay subculture to describe a gay man who preffers sexual engagement with either a top or a more dominant man.',
 }
