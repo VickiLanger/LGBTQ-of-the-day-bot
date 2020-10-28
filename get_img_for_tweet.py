@@ -74,14 +74,15 @@ DIR = 'img_bg'
 OUT_DIR = 'img_post'
 
 images = images_list(DIR)
-font_type = ImageFont.truetype('assets/Nunito-Regular.ttf', 80)
-font_type2 = ImageFont.truetype('assets/Nunito-Regular.ttf', 80*2)
 
+fonts = (os.listdir('assets')) #list of all fonts in asset folder
+
+font_type = ImageFont.truetype('assets/'+random.choice(fonts), 80)
+font_type2 = ImageFont.truetype('assets/'+random.choice(fonts), 80*2)
 
 def get_img_for_tweet(tweet_text):
     image = Image.open(f'{DIR}/{random_image(images)}')
     new_image = write_on_image(tweet_text)
     new_image_path = f'{OUT_DIR}/post_{new_image[1]}'
     new_image[0].save(f'{new_image_path}')
-
     return new_image_path
