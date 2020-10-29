@@ -58,7 +58,6 @@ events = {
     '10-20': 'Intersex Awareness Day',  # http://intersexday.org/en/intersex-awareness-day/
     '10-27': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-28': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
-    '10-29': 'not #IntersexSolidarityDay, but the 8th of November is!',  # this is a test tweet to make sure tweet_annual_days.py works
     
 
     # November
