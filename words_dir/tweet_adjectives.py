@@ -23,11 +23,14 @@ adjectives = [
     'breathtaking',
     'brittle',
     'cautious',
+    'celestial',
     'clever',
+    'comforting',
     'comical',
     'curious',
     'dead',
     'different',
+    'divine',
     'dumb',
     'diligent',
     'exuberant',
@@ -49,9 +52,19 @@ adjectives = [
     'jocular',
     'laughable',
     'lively',
+    'lovely',
     'ludicrous',
     'mushy',
+    'nationwide',
+    'native',
     'naughty',
+    'neat',
+    'neighborly',
+    'new',
+    'newborn',
+    'notable',
+    'noted',
+    'noteworthy',
     'obsolete',
     'puffy',
     'puzzled',
@@ -59,6 +72,7 @@ adjectives = [
     'rustic',
     'ruthless',
     'sad',
+    'salacious',
     'salty',
     'sassy',
     'sly',
@@ -66,8 +80,10 @@ adjectives = [
     'smart',
     'sober',
     'somber',
+    'sordid',
     'stingy',
     'swanky',
+    'squalid',
     'terrific',
     'testy',
     'tragic',
@@ -134,6 +150,7 @@ adjectives = [
     'murky',
     'muscular',
     'plump',
+    'poignant',
     'quaint',
     'sexy',
     'shiny',
@@ -300,6 +317,7 @@ adjectives = [
     'skeletal',
     'skimpy',
     'slender',
+    'stately',
     'stocky',
     'sturdy',
     'tall',
@@ -388,8 +406,10 @@ adjectives = [
 
     # warm adjectives
     'agreeable',
+    'balanced',
     'balmy',
     'blood-warm',
+    'calm',
     'clement',
     'homey',
     'lukewarm',
@@ -397,6 +417,7 @@ adjectives = [
     'mild',
     'moderate',
     'pleasant',
+    'even-keel'
 
     # weather and temperature
     'cloudy',
@@ -418,7 +439,7 @@ adjectives = [
     'very similar',
     'well aware',
     'fast asleep',
-    
+
     # character traits
     'decadent',
     'dogmatic',
@@ -426,6 +447,7 @@ adjectives = [
     'intimidating',
     'irritable',
     'sagacious',
+    'stoic',
     'strict',
     'strong'
-    ]
+]
