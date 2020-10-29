@@ -979,7 +979,7 @@ nouns = [
     'strategy game',
     'sports game',
     'puzzle game',
-    'idle game'
+    'idle game',
 
     # grooming items
     'bodywash',
