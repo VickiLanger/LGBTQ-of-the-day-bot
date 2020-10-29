@@ -969,6 +969,17 @@ nouns = [
     'suspense movie',
     'sci-fi movie',
     'thriller movie',
+    
+    # types of video games
+    'action game',
+    'action-adventure game',
+    'adventure game',
+    'role playing game',
+    'simulation game',
+    'strategy game',
+    'sports game',
+    'puzzle game',
+    'idle game'
 
     # grooming items
     'bodywash',
