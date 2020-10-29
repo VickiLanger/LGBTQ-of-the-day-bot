@@ -5,6 +5,7 @@ Vicki Langer (@vicki_langer)
 '''
 
 from datetime import date
+from math import ceil
 from tweet import authenticate_api
 from words_dir.tweet_annual_events import events
 
@@ -20,11 +21,25 @@ def tweet_annual_event():
     
     # get today's month and day
     month_and_day = today[5:]
+
+    # get today's weekday - 0 = Monday
+    weekday_index = date.today().weekday()
     
-    # make a list of the events that match month_and_day
+    # convert to letter 
+    weekday_letters = "MTWRFSU"
+    weekday = weekday_letters[weekday_index]
+
+    # determine which week we are in
+    week = ceil(int(today[8:])/7)
+
+    # create the code to look up - format '2M' would be the 2nd Monday
+    nth_weekday = str(week) + weekday
+
+    # make a list of the events that match month_and_day or specific day of the month
     list_of_event_tweets = [val for key, val in events.items() if month_and_day in key]
+    list_of_event_tweets.append([val for key, val in events.items() if nth_weekday in key])
     length_list_event_tweets = len(list_of_event_tweets)
-    
+
     '''if list has multiple events for the same month and day,
     then pick random,
     else return the item then update api, if none, no update'''
@@ -39,6 +54,5 @@ def tweet_annual_event():
         print('annual event tweet accomplished')
     else:
         print('no annual event tweet today')
-
 
 tweet_annual_event()
