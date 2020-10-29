@@ -748,6 +748,10 @@ nouns = [
     'VHS',
     'walkman',
     'floppy disk',
+    'keypad phone',
+    'ink quil',
+    'post card',
+    'TV guide',
 
     # video game consoles
     'Adventure Vision',
@@ -969,6 +973,17 @@ nouns = [
     'suspense movie',
     'sci-fi movie',
     'thriller movie',
+    
+    # types of video games
+    'action game',
+    'action-adventure game',
+    'adventure game',
+    'role playing game',
+    'simulation game',
+    'strategy game',
+    'sports game',
+    'puzzle game',
+    'idle game',
 
     # grooming items
     'bodywash',

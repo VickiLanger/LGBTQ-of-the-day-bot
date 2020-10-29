@@ -36,9 +36,9 @@ def tweet_annual_event():
         else:
             event_tweet = tweet_template + list_of_event_tweets[0]
         api.update_status(event_tweet)
-        print('tweet accomplished')
+        print('annual event tweet accomplished')
     else:
-        print('no tweet today')
+        print('no annual event tweet today')
 
 
-tweet_historicat_event()
+tweet_annual_event()
