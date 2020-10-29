@@ -58,6 +58,7 @@ events = {
     '10-20': 'Intersex Awareness Day',  # http://intersexday.org/en/intersex-awareness-day/
     '10-27': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-28': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
+    '10-29': 'the day for not so regularly scheduled testing in production. \n \nIf you see this, it was a success and we will soon see tweets for remembrance, (inter)national, & Visibility Days/weeks',
     
 
     # November
