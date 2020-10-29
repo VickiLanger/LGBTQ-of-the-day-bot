@@ -20,7 +20,7 @@ events = {
     '03-31': 'International Transgender Day of Vicibility',  # http://www.transstudent.org/tdov
 
     # April
-    '04-26': 'Lesbian Visibility Day,', # https://www.queerevents.ca/notable-lgbtq-dates#pansexualprideday
+    '04-26': 'Lesbian Visibility Day,', # https://www.queerevents.ca/notable-lgbtq-dates#lesbianvisibilityday
 
     # May
     '05-17': 'International Day Against Homophobia, Transphobia, and Biphobia', # https://may17.org/
