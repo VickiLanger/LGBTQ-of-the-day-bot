@@ -7,6 +7,7 @@ Vicki Langer (@vicki_langer)
 from datetime import date
 from tweet import authenticate_api
 from words_dir.tweet_annual_events import events
+from tweet_history import tweet_historicat_event
 
 def tweet_annual_event():
     api = authenticate_api()

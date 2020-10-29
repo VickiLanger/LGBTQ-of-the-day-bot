@@ -748,6 +748,10 @@ nouns = [
     'VHS',
     'walkman',
     'floppy disk',
+    'keypad phone',
+    'ink quil',
+    'post card',
+    'TV guide',
 
     # video game consoles
     'Adventure Vision',
