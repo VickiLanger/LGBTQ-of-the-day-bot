@@ -22,7 +22,7 @@ def tweet_annual_event():
     month_and_day = today[5:]
     
     # make a list of the events that match month_and_day
-    list_of_event_tweets = [key + ": " + val for key, val in events.items() if month_and_day in key]
+    list_of_event_tweets = [val for key, val in events.items() if month_and_day in key]
     length_list_event_tweets = len(list_of_event_tweets)
     
     '''if list has multiple events for the same month and day,
