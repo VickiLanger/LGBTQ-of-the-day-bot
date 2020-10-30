@@ -278,6 +278,7 @@ nouns = [
     
     #body organs
     'arm',
+    'brain',
     'eye',
     'finger',
     'foot',
@@ -479,6 +480,7 @@ nouns = [
     'chard',
     'cheese 🧀',
     'cheeseburger 🍔',
+    'cheesecake',
     'cherry 🍒',
     'chicken and dumpling',
     'chicken dinner',
@@ -603,6 +605,7 @@ nouns = [
     'paneer',
     'paratha',
     'pasta',
+    'passion fruit',
     'pav bhaji',
     'peach 🍑',
     'peanut butter',
