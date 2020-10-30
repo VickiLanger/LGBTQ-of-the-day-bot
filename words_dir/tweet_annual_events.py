@@ -39,6 +39,7 @@ events = {
     '07-14': 'International Non-Binary People\'s Day',  # https://en.wikipedia.org/wiki/International_Non-Binary_People%27s_Day
 
     # August
+    '08-2U': 'Gay Uncles Day',  # https://www.today.com/parents/gay-uncles-day-2020-how-being-guncle-changed-my-perception-t188917
 
     # September
     '09-16': 'Bisexual+ Awareness Week',  # https://en.wikipedia.org/wiki/Celebrate_Bisexuality_Day
@@ -53,7 +54,6 @@ events = {
     # October
     '10-08': 'International Lesbian Day',  # https://en.wikipedia.org/wiki/List_of_LGBT_awareness_periods
     '10-11': 'National Coming Out Day',  # http://www.hrc.org/resources/the-history-of-coming-out
-    '10-20': 'Spirit Day',  # https://www.glaad.org/spiritday
     '10-22': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-23': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-24': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
