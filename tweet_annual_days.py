@@ -11,21 +11,21 @@ from words_dir.tweet_annual_events import events
 
 def tweet_annual_event():
     api = authenticate_api()
-    
+
     # declare empty string
     annual_event_tweet = ""
     tweet_template = "Today is "
-    
+
     # get today's date
     today = str(date.today())
-    
+
     # get today's month and day
     month_and_day = today[5:]
 
     # get today's weekday - 0 = Monday
     weekday_index = date.today().weekday()
-    
-    # convert to letter 
+
+    # convert to letter
     weekday_letters = "MTWRFSU"
     weekday = weekday_letters[weekday_index]
 
