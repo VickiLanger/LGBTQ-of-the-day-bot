@@ -49,7 +49,7 @@ def tweet_annual_event():
         if length_list_event_tweets > 1:
             event_tweet = tweet_template + random.choice(list_of_event_tweets)
         else:
-            event_tweet = tweet_template + list_of_event_tweets[0]
+            event_tweet = tweet_template + str(list_of_event_tweets[0])
         api.update_status(event_tweet)
         print('annual event tweet accomplished')
     else:
