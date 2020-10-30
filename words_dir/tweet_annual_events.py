@@ -10,6 +10,10 @@ Vicki Langer (@vicki_langer)
 # NOTE: place events in order
 # NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+# NOTE: For events that are on a nth day of the month (like 2nd Tuesday of November), the syntax is 'MM-xY' where x is the week number and Y is the day of the week
+#       denoted by MTWRFSU - Monday, Tuesday, Wednesday, thuRsday, Friday, Saturday, sUnday
+#       Example - 2nd Tuesday of November would be listed as '11-2T'
+
 events = {
     # January
     
@@ -59,9 +63,10 @@ events = {
     '10-27': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-28': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-29': 'the day for not so regularly scheduled testing in production. \n \nIf you see this, it was a success and we will soon see tweets for remembrance, (inter)national, & Visibility Days/weeks',
-    
+    '10-5R': 'testing for 5th Thursday of October',    
 
     # November
+    '11-1U': 'Trans Parent Day', # http://transparentday.org/
     '11-08': 'Intersex Solidarity Day \n #IntersexSolidarityDay',
     '11-20': 'International Transgender Day of Remembrance',  # http://tdor.info/about-2/
     
