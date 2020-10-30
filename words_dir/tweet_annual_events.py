@@ -63,6 +63,7 @@ events = {
 
     # November
     '11-08': 'Intersex Solidarity Day \n #IntersexSolidarityDay',
+    '11-16': 'International Stand Up to Bullying Day', # https://en.wikipedia.org/wiki/International_Stand_Up_to_Bullying_Day
     '11-20': 'International Transgender Day of Remembrance',  # http://tdor.info/about-2/
     
     # December
