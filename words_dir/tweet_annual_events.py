@@ -51,7 +51,7 @@ events = {
     '09-23': 'Celebrate Bisexuality Day', # https://en.wikipedia.org/wiki/Celebrate_Bisexuality_Day
     
     # October
-    '10-08': 'International Lesbian Day', # https://en.wikipedia.org/wiki/List_of_LGBT_awareness_periods
+    '10-08': 'International Lesbian Day',  # https://en.wikipedia.org/wiki/List_of_LGBT_awareness_periods
     '10-11': 'National Coming Out Day',  # http://www.hrc.org/resources/the-history-of-coming-out
     '10-20': 'Spirit Day',  # https://www.glaad.org/spiritday
     '10-22': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
@@ -63,7 +63,7 @@ events = {
     '10-27': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-28': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-29': 'the day for not so regularly scheduled testing in production. \n \nIf you see this, it was a success and we will soon see tweets for remembrance, (inter)national, & Visibility Days/weeks',
-    '10-5R': 'testing for 5th Thursday of October',    
+    '10-5F': 'a good day for testing yet another feature in production. We now support annual events with variable dates like "5th Friday of October"',
 
     # November
     '11-1U': 'Trans Parent Day', # http://transparentday.org/
