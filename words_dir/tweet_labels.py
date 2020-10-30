@@ -34,7 +34,7 @@ labels = {
     'autosexual': 'Someone who primarily feels sexual attraction to themself, but not toward others.',
     'aegosexual': 'lacking any desire to be a participant in the sexual activities therein',
     'abrosexual': 'Abrosexual refers to an individual whose sexuality is changing or fluid. For example, someone could be gay one day, then be asexual the next, then polysexual the next.',
-    'aromantic': 'the people who do not experience romantic attraction.',
+
     # gender orientation
     'demiboy': 'A person who identifies as partially, but not completely, male.',
     'demigirl': 'A person who identifies as partially, but not completely, female.',
@@ -62,7 +62,7 @@ labels = {
     # romantic orientation
     'androromantic': 'One who is romantically attracted to masculinity, the male sex and male identifying/presenting people.',
     'demiromantic': 'Romantically attracted to people only after forming deep emotional bonds.',
-    'aromantic': 'One who does not experience romantic attraction to others.',
+    'aromantic': 'people who do not experience romantic attraction.',
     'biromantic': 'Romantically attracted to both males and females.',
     'panromantic': 'Romantically attracted to people regardless of sex or gender identity.',
     'grayromantic': 'Someone on the aromantic spectrum who experiences romantic attraction under certain circumstances.',
