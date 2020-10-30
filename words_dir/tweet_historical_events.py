@@ -35,6 +35,7 @@ events = {
     '1901-06-08': 'Post-Roman times, Marcela and Elisa became the first same-sex marriage in Spain. When it was out that they had deceived the priest, they fled the country. Yet, their marriage was never voided. https://en.wikipedia.org/wiki/First_same-sex_marriage_in_Spain',
 
     # 1910s
+    
 
     # 1920s
     '1924-12-10': 'The Society for Human Rights was founded. https://en.wikipedia.org/wiki/Society_for_Human_Rights',
@@ -45,6 +46,7 @@ events = {
     # 1930s
     '1932-01-01': '"Man into Woman: An Authentic Record of a Change of Sex," the story of the life of Lili Elbe published. https://en.wikipedia.org/wiki/Lili_Elbe',
     '1935-04-09': 'Sigmund Freud writes "Letter to an American Mother", urging compassion and tolerance for homosexuality. https://commons.wikimedia.org/wiki/File:A_Letter_from_Freud_to_a_mother_of_a_homosexual_-_1935_-_1.jpg',
+    '1934-07-14': 'The Caravan Club was opened in 81 Endell Street, London https://en.wikipedia.org/wiki/The_Caravan_Club_(Endell_Street)'
 
     # 1940s
     '1945-04-01': 'The United States Holocaust Memorial Museum estimates 100,000 gay men were arrested and between 5,000 and 15,000 were placed in concentration camps. https://www.history.com/news/pink-triangle-nazi-concentration-camps',
