@@ -12,6 +12,7 @@ Vicki Langer (@vicki_langer)
 nouns = [
     # animals
     'aardvark',
+    'aardwolf',
     'African wild dog',
     'agouti',
     'albatross',
@@ -25,6 +26,7 @@ nouns = [
     'badger',
     'bald eagle 🦅',
     'bandicoot',
+    'barbet',
     'bat 🦇',
     'bear 🐻',
     'betta fish',
@@ -45,6 +47,7 @@ nouns = [
     'cardinal',
     'caribou',
     'cat 🐈',
+    'catfish',
     'chameleon',
     'cheetah',
     'chickadee,'
@@ -75,6 +78,8 @@ nouns = [
     'donkey',
     'dove 🕊️',
     'downy woodpecker',
+    'dragon',
+    'dragonfly',
     'duck 🦆',
     'eagle 🦅',
     'echidna',
