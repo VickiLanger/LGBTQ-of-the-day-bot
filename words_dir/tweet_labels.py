@@ -34,6 +34,8 @@ labels = {
     'autosexual': 'Someone who primarily feels sexual attraction to themself, but not toward others.',
     'aegosexual': 'lacking any desire to be a participant in the sexual activities therein',
     'abrosexual': 'Abrosexual refers to an individual whose sexuality is changing or fluid. For example, someone could be gay one day, then be asexual the next, then polysexual the next.',
+    'bicurious': '',
+    'skoliosexual': '',
 
     # gender orientation
     'demiboy': 'A person who identifies as partially, but not completely, male.',
@@ -83,4 +85,11 @@ labels = {
     'baby dyke': 'A young, sometimes inexperienced lesbian.',
     'top': 'Top is a term in the gay subculture to describe a gay man who preffers sexual engagement with either a bottom or a more passive man.',
     'bottom': 'Bottom is a term in the gay subculture to describe a gay man who preffers sexual engagement with either a top or a more dominant man.',
+    'stone butch': '',
+    'soft butch': '',
+    'futch': '',
+    'baby queer': '',
+    'stem': '',
+    'stud': '',
+    'twink': '',
 }
