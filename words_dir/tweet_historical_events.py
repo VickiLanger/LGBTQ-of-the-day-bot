@@ -81,7 +81,7 @@ events = {
     '1973-01-01': 'Maryland becomes the first state to statutorily ban same-sex marriage. https://www.npr.org/templates/story/story.php?storyId=5164355#:~:text=Maryland%20Judge%20Rejects%20Gay%2DMarriage%20Ban%20A%20Maryland%20circuit%20court,court%20has%20affirmed%20the%20decision.',
     '1973-03-11': 'First meeting of Parents and Friends of Gays. https://pflag.org/our-story#:~:text=The%20first%20formal%20meeting%20took,Approximately%2020%20people%20attended.',
     '1973-03-26': 'First meeting of "Parents and Friends of Gays," which goes national as Parents, Families and Friends of Lesbians and Gays (PFLAG) in 1982. https://pflag.org/our-story',
-    '1973-10-31': 'Lambda Legal becomes the first legal organization established to fight for the equal rights of gays and lesbians.' 'https://www.lambdalegal.org/about-us/history',
+    '1973-10-31': '@LambdaLegal becomes the first legal organization established to fight for the equal rights of gays and lesbians.' 'https://www.lambdalegal.org/about-us/history',
     '1973-12-15': 'The board of the American Psychiatric Association votes to remove homosexuality from its list of mental illnesses. https://www.hrc.org/news/flashbackfriday-today-in-1973-the-apa-removed-homosexuality-from-list-of-me',
     '1974-04-02': 'Kathy Kozachenko becomes the first openly gay American elected to public office. https://www.nbcnews.com/feature/nbc-out/meet-lesbian-who-made-political-history-years-harvey-milk-n1174941',
     '1974-05-14': 'The Equality Act of 1974 prohibits discrimination "on the basis of sex, marital status, and sexual orientation, and for other purposes." https://ucsd.libguides.com/lgbtdocs/timeline',
