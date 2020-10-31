@@ -1110,4 +1110,5 @@ nouns = [
     'ace card',
     'agenda for human rights',
     'guncle',
+    '@freetompros stp prosthetic',
 ]
