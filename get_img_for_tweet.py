@@ -9,7 +9,7 @@ import textwrap
 
 from get_tweet import get_tweet
 
-from PIL import Image, ImageDraw, ImageFont # type: ignore
+from PIL import Image, ImageDraw, ImageFont  # type: ignore
 # This is a function returns a list of all images names
 # Args:DIR (directory which holds the images) rtype:lst, containing strings of files name.
 
@@ -32,8 +32,8 @@ def random_image(images):
 
 def write_centre(image, text):
     draw = ImageDraw.Draw(image)
-    #use the text size to determine the x and y axis
-    x,y=font_type2.getsize(text)
+    # use the text size to determine the x and y axis
+    x, y = font_type2.getsize(text)
     draw.text(((1600-x)/2, (900-y)/2), text=text, fill=(11, 60, 73), font=font_type2)
 
 
@@ -52,16 +52,16 @@ def write_on_image(text):
     elif(len(text) < 20):
         write_centre(image, text)
     else:
-        #use the python wrap text function to wrap text by words on maximum of 35 charaters.
+        # use the python wrap text function to wrap text by words on maximum of 35 charaters.
         wrapped_lines = textwrap.wrap(text, 35)
 
-        x,y=font_type.getsize(wrapped_lines[0])
+        x, y = font_type.getsize(wrapped_lines[0])
         # offset y for the number of lines in the list
-        y=y+len(wrapped_lines)*80
+        y = y + len(wrapped_lines)*80
         for line in wrapped_lines:
-            x,h=font_type.getsize(line)
+            x, h = font_type.getsize(line)
             write_line(image, line, x, y)
-            y-=160
+            y -= 160
     return [image, file]
 
 # Now we have an array contain an image object returned so we can pass it into a function to tweet or to save locally with
@@ -74,8 +74,11 @@ DIR = 'img_bg'
 OUT_DIR = 'img_post'
 
 images = images_list(DIR)
-font_type = ImageFont.truetype('assets/Nunito-Regular.ttf', 80)
-font_type2 = ImageFont.truetype('assets/Nunito-Regular.ttf', 80*2)
+
+fonts = (os.listdir('assets'))  # list of all fonts in asset folder
+
+font_type = ImageFont.truetype('assets/'+random.choice(fonts), 80)
+font_type2 = ImageFont.truetype('assets/'+random.choice(fonts), 80*2)
 
 
 def get_img_for_tweet(tweet_text):
@@ -83,5 +86,4 @@ def get_img_for_tweet(tweet_text):
     new_image = write_on_image(tweet_text)
     new_image_path = f'{OUT_DIR}/post_{new_image[1]}'
     new_image[0].save(f'{new_image_path}')
-
     return new_image_path

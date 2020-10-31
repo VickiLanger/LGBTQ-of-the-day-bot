@@ -21,7 +21,6 @@ labels = {
     'polysexual': 'Sexually attracted to people of multiple genders.',
     'asexual': 'The lack of sexual attraction to others, or low or absent interest in or desire for sexual activity (also known as "Ace").',
     'demisexual': 'Someone who only experiences sexual attraction to people they share an emotional bond with.',
-    'heterosexual': 'Sexually and/or emotionally attracted to members of the opposite sex.',
     'heteroflexible': 'Sexually and/or emotionally attracted primarily to members of the opposite sex, but will experience attraction to members of other genders under certain circumstances.',
     'queer': 'Used as an umbrella term for someone who doesn\'t identify as heterosexual and/or cisgender.',
     'apothisexual': 'A person who is repulsed by the idea of engaging in sexual activity (on the asexuality spectrum).',
@@ -33,9 +32,10 @@ labels = {
     'gynosexual': 'Sexually attracted toward women and/or femininity.',
     'homosexual': 'Possessing sexual and/or emotional attraction towards members of the same sex.',
     'autosexual': 'Someone who primarily feels sexual attraction to themself, but not toward others.',
-    'straight': 'Heterosexual, sexually and/or emotionally attracted to members of the opposite sex.',
     'aegosexual': 'lacking any desire to be a participant in the sexual activities therein',
     'abrosexual': 'Abrosexual refers to an individual whose sexuality is changing or fluid. For example, someone could be gay one day, then be asexual the next, then polysexual the next.',
+    'bicurious': '',
+    'skoliosexual': '',
 
     # gender orientation
     'demiboy': 'A person who identifies as partially, but not completely, male.',
@@ -62,8 +62,9 @@ labels = {
     'trigender': 'Trigender people experience three genders, at the same time, or moving between the three at different times. These three genders can be any gender, either binary or nonbinary.',
 
     # romantic orientation
+    'androromantic': 'One who is romantically attracted to masculinity, the male sex and male identifying/presenting people.',
     'demiromantic': 'Romantically attracted to people only after forming deep emotional bonds.',
-    'aromantic': 'One who does not experience romantic attraction to others.',
+    'aromantic': 'people who do not experience romantic attraction.',
     'biromantic': 'Romantically attracted to both males and females.',
     'panromantic': 'Romantically attracted to people regardless of sex or gender identity.',
     'grayromantic': 'Someone on the aromantic spectrum who experiences romantic attraction under certain circumstances.',
@@ -71,7 +72,8 @@ labels = {
     'polyromantic': 'Romantically attracted to multiple, but not all, genders.',
     'homoromantic': 'Romantically attracted to those of the same gender.',
     'heteroromantic': 'Romantically attracted to those of the opposite gender.',
-    'autoromantic': 'Romantically attracted to oneself',
+    'hyperromantic': 'One who is extremly romantic.',
+    'autoromantic': 'Romantically attracted to oneself.',
 
     # subculture labels?
     # NOTE: must make sense in "{adjective} {label} {noun}" (example: tiny [somelabel] book)
@@ -81,4 +83,13 @@ labels = {
     'bear': 'A gay man who presents in a very masculine way.',
     'polyamorous': 'Polyamory is the ability and/or desire to be in a relationship with more than one person at a time.',
     'baby dyke': 'A young, sometimes inexperienced lesbian.',
+    'top': 'Top is a term in the gay subculture to describe a gay man who preffers sexual engagement with either a bottom or a more passive man.',
+    'bottom': 'Bottom is a term in the gay subculture to describe a gay man who preffers sexual engagement with either a top or a more dominant man.',
+    'stone butch': '',
+    'soft butch': '',
+    'futch': '',
+    'baby queer': '',
+    'stem': '',
+    'stud': '',
+    'twink': '',
 }
