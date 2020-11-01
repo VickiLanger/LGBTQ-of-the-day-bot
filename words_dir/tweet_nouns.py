@@ -63,14 +63,11 @@ nouns = [
     'crab 🦀',
     'crane',
     'crocodile 🐊',
-    'danger noodle 🐍',
     'deer 🦌',
     'dingo',
     'dinosaur',
     'dodo',
     'Dog 🐶',
-    'Doggie 🐶',
-    'doggo 🐶',
     'dolphin 🐬',
     'donkey',
     'dove 🕊️',
@@ -280,8 +277,8 @@ nouns = [
     'x-ray tetra',
     'yak',
     'zebra 🦓',
-    
-    #body organs
+
+    # body organs
     'arm',
     'brain',
     'eye',
@@ -299,7 +296,7 @@ nouns = [
     'toe',
     'tooth',
 
-    #insect 
+    # insect
     'ant 🐜',
     'bee 🐝',
     'beetle',
@@ -323,7 +320,7 @@ nouns = [
     'spider 🕷',
     'termite',
     'wasp'
-    
+
     # clothing items
     'apron',
     'ascot',
@@ -504,7 +501,7 @@ nouns = [
     'cookie',
     'chow mein',
     'chutney',
-    'cinnamon,', 
+    'cinnamon,',
     'cinnamon roll',
     'clementine',
     'coconut 🥥',
@@ -943,7 +940,6 @@ nouns = [
     'witch',
     'witcher',
     'wizard',
-    
 
     # goofy things
     # NOTE: must make sense after "{adjective} {label}" (example: tiny queer [something])
@@ -1006,7 +1002,7 @@ nouns = [
     'suspense movie',
     'sci-fi movie',
     'thriller movie',
-    
+
     # types of video games
     'action game',
     'action-adventure game',
@@ -1113,6 +1109,16 @@ nouns = [
     'bucket hats',
     'shrunken bags',
     'baggy trousers',
+
+    # ridiculous purposefully misspelled aminals
+    'snek',   # snkae
+    'danger noodle',  # snake
+    'barkly loaf',  # corgi
+    'water sausage',  # otter
+    'kitteh',  # kitty
+    'speed sausage',  # corgi
+    'doggo 🐶',  # dog
+    'pupper 🐶',  # puppy
 
     # queer things
     '@autostraddle article',
