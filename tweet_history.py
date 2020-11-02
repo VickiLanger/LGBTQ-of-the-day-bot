@@ -20,7 +20,7 @@ def tweet_historicat_event():
 
     # declare empty string
     history_tweet = ""
-    tweet_template = "This day in LGBTQ history 📜\n\n"
+    tweet_template = "This day in LGBTQ history 🏳️‍🌈🏳️‍⚧️📜\n\n"
 
     # get today's date
     today = str(date.today())
