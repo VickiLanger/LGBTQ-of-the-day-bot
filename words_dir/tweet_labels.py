@@ -4,8 +4,7 @@ tweet_labels.py: list of labels used to build tweet.py
 Vicki Langer (@vicki_langer)
 '''
 
-# TODO: add more labels, in alphabetical order
-# TODO: add defintions
+# NOTE: when adding more labels, please add them with their definitions as well.
 # NOTE: must make sense in "{adjective} {label} {noun}" (example: tiny [somelabel] book)
 # NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
@@ -34,8 +33,8 @@ labels = {
     'autosexual': 'Someone who primarily feels sexual attraction to themself, but not toward others.',
     'aegosexual': 'lacking any desire to be a participant in the sexual activities therein',
     'abrosexual': 'Abrosexual refers to an individual whose sexuality is changing or fluid. For example, someone could be gay one day, then be asexual the next, then polysexual the next.',
-    'bicurious': '',
-    'skoliosexual': '',
+    'bicurious': 'a person, usually someone who is a heterosexual, who is curious or open about engaging in sexual activity with a person whose sex differs from that of their usual sexual partners.',
+    'skoliosexual': 'sexual attraction only towards those whose gender identity doesn\'t fall under the traditional gender binary.',
 
     # gender orientation
     'demiboy': 'A person who identifies as partially, but not completely, male.',
@@ -85,11 +84,11 @@ labels = {
     'baby dyke': 'A young, sometimes inexperienced lesbian.',
     'top': 'Top is a term in the gay subculture to describe a gay man who preffers sexual engagement with either a bottom or a more passive man.',
     'bottom': 'Bottom is a term in the gay subculture to describe a gay man who preffers sexual engagement with either a top or a more dominant man.',
-    'stone butch': '',
-    'soft butch': '',
-    'futch': '',
-    'baby queer': '',
-    'stem': '',
-    'stud': '',
-    'twink': '',
+    'stone butch': 'a lesbian who displays female butchness or traditional "masculinity", as opposed to a stone femme. Identification with the terms is not necessarily dependent upon the person\'s physical appearance or gender expression, or upon the identity of a partner.',
+    'soft butch': 'a woman who does show some of the stereotypical butch character traits, but not all of them, and still has a slight feminine look.',
+    'futch': 'A person who exhibits traits of both a femme and a butch.',
+    'baby queer': 'A young, sometimes inexperienced queer person.',
+    'stem': 'A person whose gender expression falls somewhere between a stud and a femme.',
+    'stud': 'a subset of butch subculture used to identify a Black butch.',
+    'twink': 'a term used by gay men, referring to a subset of men who defy traditional masculinity, embracing traits that are generally seen as gendered and feminine.',
 }
