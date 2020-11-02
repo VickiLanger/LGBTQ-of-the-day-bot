@@ -20,7 +20,7 @@ def tweet_historicat_event():
 
     # declare empty string
     history_tweet = ""
-    tweet_template = "This day in LGBTQ history: "
+    tweet_template = "This day in LGBTQ history 📜\n\n"
 
     # get today's date
     today = str(date.today())
@@ -29,7 +29,7 @@ def tweet_historicat_event():
     month_and_day = today[5:]  # slice off the first 5 characters
 
     # make a list of the events that match month_and_day
-    list_of_history_tweets = [key + ": " + val for key, val in events.items() if month_and_day in key]
+    list_of_history_tweets = [key + ":\n" + val for key, val in events.items() if month_and_day in key]
     length_list_history_tweets = len(list_of_history_tweets)
 
     '''if list has multiple events for the same month and day,
