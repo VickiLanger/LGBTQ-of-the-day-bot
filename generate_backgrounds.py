@@ -54,6 +54,7 @@ def create_background(stripe_colors):
 if __name__ == '__main__':
     for label, stripe_colors in [
         # colors from schemecolor.com/tag/gender-flags
+        ("progress", ["#ffffff", "#f7a8b8", "#55cdfc", "#603815", "#000000", "#d20605", "#ef9c00", "#ffe500", "#119f0b", "#031a9a", "#78028c"]),
         ("genderfluid", ["#F996B9", "#FFFFFF", "#CA28E3", "#333333", "#5861CD"]),
         ("aromantic", ["#5BBD60", "#BAD897", "#ffffff", "#BABABA", "#333333"]),
         ("asexual", ["#000000", "#a4a4a4", "#ffffff", "#810081"]),
