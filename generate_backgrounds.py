@@ -1,7 +1,7 @@
 '''
-generate_stripey_backgrounds.py: create 16:9 background for posting to twitter
+generate_stripey_backgrounds.py: create 16:9 background for posting to twitter 
 3 November 2020
-Vicki Langer (@vicki_langer)
+Vicki Langer (@vicki_langer) (heavily influenced by @alexwlchan) https://alexwlchan.net/2020/03/stripey-flag-wallpapers/
 '''
 
 from PIL import Image, ImageDraw, ImageFont
