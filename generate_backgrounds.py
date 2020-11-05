@@ -8,8 +8,13 @@ from PIL import Image, ImageDraw, ImageFont
 
 
 def create_background(stripe_colors):
-    # create 16:9 image for twitter post
-    box = Image.new("RGB", size=(1600, 900), color="#ffffff")  # test color
+
+    # image dimensions 16:9
+    width = 1600
+    height = 900
+
+    # create blank image for twitter post
+    box = Image.new("RGB", size=(width, height), color="#ffffff")  # test color
     draw = ImageDraw.Draw(box)
 
     # define stripes
@@ -26,8 +31,8 @@ def create_background(stripe_colors):
         draw.polygon(
             [
                 (0,    left_hand_top  + stripe_height * label),
-                (1600, right_hand_top + stripe_height * label),
-                (1600, right_hand_top + stripe_height * (label + 1)),
+                (width, right_hand_top + stripe_height * label),
+                (width, right_hand_top + stripe_height * (label + 1)),
                 (0,    left_hand_top  + stripe_height * (label + 1)),
             ],
             fill=color
