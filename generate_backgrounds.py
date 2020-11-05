@@ -1,5 +1,5 @@
 '''
-generate_stripey_backgrounds.py: create 16:9 background for posting to twitter 
+generate_stripey_backgrounds.py: create 16:9 background for posting to twitter
 3 November 2020
 Vicki Langer (@vicki_langer) (heavily influenced by @alexwlchan) https://alexwlchan.net/2020/03/stripey-flag-wallpapers/
 '''
@@ -41,15 +41,15 @@ def create_background(stripe_colors):
     # write in the twitter handle watermark thingy
     chosen_font = ImageFont.truetype('assets/Nunito-SemiBold.ttf', 60)
     twitter_handle = "@LGBTQotd"
-
     draw = ImageDraw.Draw(box)
     draw.text((28, 800), text=twitter_handle, fill=("#444"), font=chosen_font)
 
     # add transparent mask thingy to lighten image to help with a11y
     # TODO: add mask
-    border_width = 50
-    transparent_area = (border_width, border_width, box_width-50, box_height-border_width)
-    draw.rectangle(transparent_area, fill="#f4f4f4")
+    border_width = 100  # 100 works well with the text
+
+    blank_area = (border_width, border_width, box_width-border_width, box_height-border_width)
+    draw.rectangle(blank_area, fill="#000")
 
     # give the box
     return box
