@@ -17,6 +17,29 @@ def create_background(colors):
     box = Image.new("RGB", size=(box_width, box_height), color="#ffffff")  # test color
     draw = ImageDraw.Draw(box)
 
+    # define stripes
+    stripe_height = 90
+    # left_img_middle = 700  # px from top
+    # right_img_middle = 200  # px from top
+
+    total_stripe_height = stripe_height * len(colors)
+    left_hand_top = 200 - (total_stripe_height / 2)
+    right_hand_top = 700 - (total_stripe_height / 2)
+
+    # draw stripes
+    for label, color in enumerate(colors):
+        draw.polygon(
+            [
+                (0,    left_hand_top  + stripe_height * label),
+                (0,    left_hand_top  + stripe_height * label),
+                (box_width, right_hand_top + stripe_height * label),
+                (box_width, right_hand_top + stripe_height * (label + 1)),
+                (0,    left_hand_top  + stripe_height * label),
+                (0,    left_hand_top-99  + stripe_height * (label + 1)),
+            ],
+            fill=color
+        )
+
     # write in the twitter handle watermark thingy
     chosen_font = ImageFont.truetype('assets/Nunito-SemiBold.ttf', 60)
     twitter_handle = "@LGBTQotd"
@@ -28,8 +51,6 @@ def create_background(colors):
     border_width = 100  # 100 works well with the text
     blank_area = (border_width, border_width, box_width-border_width, box_height-border_width)
     draw.rectangle(blank_area, fill="#ffffff")
-
-    
 
     # give the box
     return box
