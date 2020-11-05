@@ -10,11 +10,11 @@ from PIL import Image, ImageDraw, ImageFont
 def create_background(stripe_colors):
 
     # image dimensions 16:9
-    width = 1600
-    height = 900
+    box_width = 1600
+    box_height = 900
 
     # create blank image for twitter post
-    box = Image.new("RGB", size=(width, height), color="#ffffff")  # test color
+    box = Image.new("RGB", size=(box_width, box_height), color="#ffffff")  # test color
     draw = ImageDraw.Draw(box)
 
     # define stripes
@@ -31,8 +31,8 @@ def create_background(stripe_colors):
         draw.polygon(
             [
                 (0,    left_hand_top  + stripe_height * label),
-                (width, right_hand_top + stripe_height * label),
-                (width, right_hand_top + stripe_height * (label + 1)),
+                (box_width, right_hand_top + stripe_height * label),
+                (box_width, right_hand_top + stripe_height * (label + 1)),
                 (0,    left_hand_top  + stripe_height * (label + 1)),
             ],
             fill=color
@@ -45,12 +45,14 @@ def create_background(stripe_colors):
     draw = ImageDraw.Draw(box)
     draw.text((28, 800), text=twitter_handle, fill=("#444"), font=chosen_font)
 
+    # add transparent mask thingy to lighten image to help with a11y
+    # TODO: add mask
+    border_width = 50
+    transparent_area = (border_width, border_width, box_width-50, box_height-border_width)
+    draw.rectangle(transparent_area, fill="#f4f4f4")
+
     # give the box
     return box
-
-    # add transparent mask thingy to lighten image to help with a11y
-    # transparent_front_layer =
-    # TODO: add mask
 
 # TODO: add function call to get_img_for_tweet.py
 # TODO: add function to get_img_for_tweet.py to check contrast w/ WCAG standards
