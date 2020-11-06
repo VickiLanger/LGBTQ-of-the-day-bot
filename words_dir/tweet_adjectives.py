@@ -9,11 +9,14 @@ Vicki Langer (@vicki_langer)
 # NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 adjectives = [
+    'aback',
+    'abaft'
     'adorable ',
     'aesthetical',
     'aggressive',
     'alcoholic',
     'ambidextrous',
+    'ambiguous',
     'angelic',
     'animated',
     'articulate',
@@ -453,14 +456,23 @@ adjectives = [
     'fast asleep',
 
     # character traits
+    'affable',
+    'agreeable',
+    'amiable',
+    'charming',
     'decadent',
     'dogmatic',
     'fidgety',
+    'gregarious'
     'intimidating',
     'irritable',
+    'likeable',
     'mischievous',
+    'polite',
     'sagacious',
     'stoic',
     'strict',
-    'strong'
+    'strong',
+    'understanding'
+    'weak'
 ]
