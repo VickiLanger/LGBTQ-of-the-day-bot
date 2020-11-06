@@ -35,6 +35,8 @@ labels = {
     'abrosexual': 'Abrosexual refers to an individual whose sexuality is changing or fluid. For example, someone could be gay one day, then be asexual the next, then polysexual the next.',
     'bicurious': 'a person, usually someone who is a heterosexual, who is curious or open about engaging in sexual activity with a person whose sex differs from that of their usual sexual partners.',
     'skoliosexual': 'sexual attraction only towards those whose gender identity doesn\'t fall under the traditional gender binary.',
+    'multisexual': 'sexual attraction to two or more sexes, genders, gender expressions, or combinations thereof',
+    'akiosexual': 'person who experiences sexual attraction, but has their feelings fade if reciprocated',
 
     # gender orientation
     'demiboy': 'A person who identifies as partially, but not completely, male.',
@@ -73,6 +75,8 @@ labels = {
     'heteroromantic': 'Romantically attracted to those of the opposite gender.',
     'hyperromantic': 'One who is extremly romantic.',
     'autoromantic': 'Romantically attracted to oneself.',
+    'queerplatonic': 'any relationship that bends the rules for telling apart romantic relationships from non-romantic relationship',
+    'akioromantic': 'someone who can feel sexual or romantic attraction but doesn\'t want those feelings to be returned by whoever they\'re attracted to',
 
     # subculture labels?
     # NOTE: must make sense in "{adjective} {label} {noun}" (example: tiny [somelabel] book)
