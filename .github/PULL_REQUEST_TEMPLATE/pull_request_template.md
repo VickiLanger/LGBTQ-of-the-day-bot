@@ -9,8 +9,8 @@
 -
 
 ## Did you...
-- [ ] add your name to the `Who Has Contibuted?` in the `readme.md`?
 - [ ] follow examples in the issue (if applicable)?
+- [ ] make sure to the adhere to our [Code of Conduct](https://github.com/VickiLanger/LGBTQ-of-the-day-bot/blob/production/CODE_OF_CONDUCT.md) (ie. inclusive, respectful, empathetic etc) 
 - [ ] follow the bot on twitter?
 - [ ] learn new things?
 - [ ] have fun?
