@@ -30,10 +30,10 @@ def create_background(colors):
     for label, color in enumerate(colors):
         draw.polygon(
             [
-                (0,    left_hand_top  + stripe_height * label),
-                (box_width, right_hand_top + stripe_height * label),
-                (box_width, right_hand_top + stripe_height * (label + 1)),
-                (0,    left_hand_top  + stripe_height * (label + 1)),
+                (0,    left_hand_top  + stripe_height * label),  # top left corner
+                (box_width, right_hand_top + stripe_height * label),  # top right corner
+                (box_width, right_hand_top + stripe_height * (label + 1)),  # bottom right corner
+                (0,    left_hand_top  + stripe_height * (label + 1)),  # bottom left corner
             ],
             fill=color
         )
