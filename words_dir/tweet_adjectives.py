@@ -10,7 +10,7 @@ Vicki Langer (@vicki_langer)
 
 adjectives = [
     'aback',
-    'abaft'
+    'abaft',
     'adorable ',
     'aesthetical',
     'aggressive',
@@ -431,7 +431,7 @@ adjectives = [
     'mild',
     'moderate',
     'pleasant',
-    'even-keel'
+    'even-keel',
 
     # weather and temperature
     'cloudy',
@@ -463,7 +463,7 @@ adjectives = [
     'decadent',
     'dogmatic',
     'fidgety',
-    'gregarious'
+    'gregarious',
     'intimidating',
     'irritable',
     'likeable',
@@ -473,6 +473,6 @@ adjectives = [
     'stoic',
     'strict',
     'strong',
-    'understanding'
+    'understanding',
     'weak'
 ]
