@@ -1089,4 +1089,5 @@ nouns = [
     'agenda for human rights',
     'guncle',
     '@freetompros stp prosthetic',
+    'hastily rented uHaul',
 ]
