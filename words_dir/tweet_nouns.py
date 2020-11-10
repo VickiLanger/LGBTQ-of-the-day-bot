@@ -1090,4 +1090,5 @@ nouns = [
     'guncle',
     '@freetompros stp prosthetic',
     'hastily rented uHaul',
+    'horomone subsciption service',
 ]
