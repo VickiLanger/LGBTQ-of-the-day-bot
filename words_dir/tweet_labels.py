@@ -39,6 +39,19 @@ labels = {
     'skoliosexual': 'sexual attraction only towards those whose gender identity doesn\'t fall under the traditional gender binary.',
 
     # gender orientation
+
+    'demiboy': 'A person who identifies as partially, but not completely male.',
+    'demigirl': 'A person who identifies as partially, but not completely female.',
+    'enby': 'Non-binary, Having a gender identity that is not male or female, or a person who is Non-binary',
+    'agender': 'Without an associated gender; not identifying as having a particular gender.',
+    'non-binary': 'Having a gender identity that is not male or female.',
+    'transgender': 'Having a gender identity different than the one assigned at birth.',
+    'trans': 'Short for "transgender"; Having a gender identity different than the one assigned at birth.',
+    'trans masc': 'A transgender person who presents masculinity.',
+    'trans femme': 'A transgender person who presents feminine.',
+    'two-spirit': 'A modern, pan-Indian, umbrella term used by some Indigenous North Americans to describe Native people in their communities who fulfill a traditional third gender (or other gender-variant) ceremonial and social role in their cultures.',
+    'cisgender': 'Having a gender identity which matches the sex one was assigned at birth; or, pertaining to such people.',
+
     'agender': 'Without an associated gender; not identifying as having a particular gender.',
     'androgynous': 'A wide category of gender-expression that either mixes masculine and feminine markers  or omits them entirely.',
     'bigender': 'A person with two distinct gender identities, either at the same time or at different times.',
@@ -47,6 +60,7 @@ labels = {
     'demigirl': 'A person who identifies as partially, but not completely, female.',
     'enby': 'Non-binary, Having a gender identity that is not male or female, or a person who is Non-binary',
     'genderfluid': 'Genderfluid individuals have different gender identities at different times. A genderfluid individual\'s gender identity could be multiple genders at once and then switch to none at all, or move between single gender identities, or some other combination.',
+
     'genderqueer': 'Used as an umbrella term for someone who doesn\'t identify as cisgender or otherwise gender-normative.',
     'graygender': 'On the "agender" spectrum. A person who does identify with a particular gender or genders, but in a weaker or less determinate/definable way.',
     'intersex': 'Intersex people are people born with any variation in sex characteristics including chromosomes, gonads, sex hormones, or genitals that do not fit the typical definitions of male or female bodies.',
@@ -64,11 +78,20 @@ labels = {
     # romantic orientation
     'akioromantic': 'someone who can feel sexual or romantic attraction but doesn\'t want those feelings to be returned by whoever they\'re attracted to',
     'androromantic': 'One who is romantically attracted to masculinity, the male sex and male identifying/presenting people.',
+
+    'demiromantic': 'Romantically attracted to people only after forming deep emotional bonds.',
+    'aromantic': 'People who do not experience any romantic attraction.',
+
     'aromantic': 'people who do not experience romantic attraction.',
     'autoromantic': 'Romantically attracted to oneself.',
+
     'biromantic': 'Romantically attracted to both males and females.',
     'demiromantic': 'Romantically attracted to people only after forming deep emotional bonds.',
     'grayromantic': 'Someone on the aromantic spectrum who experiences romantic attraction under certain circumstances.',
+    'lithromantic': 'Experiencing romantic attraction without a need or desire for reciprocation.',
+    'polyromantic': 'Romantically attracted to multiple, but not all genders.',
+    'homoromantic': 'Romantically attracted to those of the same gender.',
+
     'heteroromantic': 'Romantically attracted to those of the opposite gender.',
     'homoromantic': 'Romantically attracted to those of the same gender.',
     'hyperromantic': 'One who is extremly romantic.',
@@ -89,6 +112,15 @@ labels = {
     'futch': 'A person who exhibits traits of both a femme and a butch.',
     'lipstick lesbian': 'Another term for a femme lesbian; a lesbian who presents in a feminine way.',
     'polyamorous': 'Polyamory is the ability and/or desire to be in a relationship with more than one person at a time.',
+
+    'baby dyke': 'A young, sometimes inexperienced lesbian.',
+    'top': 'Top is a term in the gay subculture to describe a gay man who preffers sexual engagement with either a bottom or a more passive man.',
+    'bottom': 'Bottom is a term in the gay subculture to describe a gay man who preffers sexual engagement with either a top or a more dominant man.',
+    'stone butch': 'a lesbian who displays female butchness or traditional "masculinity", as opposed to a stone femme. Identification with the terms is not necessarily dependent upon the person\'s physical appearance or gender expression, or upon the identity of a partner.',
+    'soft butch': 'a woman who does show some of the stereotypical butch character traits, but not all of them, and still has a slight feminine look.',
+    'futch': 'A person who exhibits traits of both a femme and a butch.',
+    'baby queer': 'A young , sometimes inexperienced queer person.',
+
     'stem': 'A person whose gender expression falls somewhere between a stud and a femme.',
     'soft butch': 'a woman who does show some of the stereotypical butch character traits, but not all of them, and still has a slight feminine look.',
     'stone butch': 'a lesbian who displays female butchness or traditional "masculinity", as opposed to a stone femme. Identification with the terms is not necessarily dependent upon the person\'s physical appearance or gender expression, or upon the identity of a partner.',
