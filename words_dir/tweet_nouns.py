@@ -203,7 +203,7 @@ nouns = [
     'python',
     'quail',
     'quokka',
-    'rabbit'
+    'rabbit',
     'raccoon 🦝',
     'rat 🐀',
     'rattlesnake 🐍',
