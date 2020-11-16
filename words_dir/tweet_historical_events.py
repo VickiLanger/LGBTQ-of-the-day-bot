@@ -16,7 +16,7 @@ events = {
     '1629-01-01': 'In 1629, the General Court of Colonial Virginia met to decide if a certain settler was male or female. https://www.history.com/news/intersex-people-casimir-pulaski-thomasine-hall',
     '1636-11-13': 'The Plymouth, America colony listed sodomy as one of 8 offenses punishable by death. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1630s/sodomy-law-plymouth-november-1',
     '1637-08-06': 'John Alexander and Thomas Roberts were found guilty by the Plymouth court for "lewd behavior and unclean carriage one with another." http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1630s/legal-case-allexander-roberts-',
-    '1642-03-01': 'Edward Michell and Edward Preston were cited by the Plymouth court for "lewd & sodomitical practices" with one another. They were both whipped as punishment. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/legal-case-michell-and-preston', 
+    '1642-03-01': 'Edward Michell and Edward Preston were cited by the Plymouth court for "lewd & sodomitical practices" with one another. They were both whipped as punishment. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/legal-case-michell-and-preston',
     '1642-12-01': 'The General Court of Connecticut listed "man lying with man" as one of 12 capital crimes, along with witchcraft and blasphemy. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/sodomy-law-connecticut-decembe',
     '1642-12-05': 'Elizabeth Johnson was sentenced to be whipped and fined for "unseemly practices betwixt her and another maid" as well as being stubborn and plugging her ears. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/legal-case-elizabeth-johnson-m',
     '1646-03-25': 'Jan Creoli, a black man in the New Netherland Colony (now New York) was brutally and publicly executed after being accused of sodomy. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/sodomy-case-creoli-executed-ne',
@@ -35,7 +35,7 @@ events = {
     '1901-06-08': 'Post-Roman times, Marcela and Elisa became the first same-sex marriage in Spain. When it was out that they had deceived the priest, they fled the country. Yet, their marriage was never voided. https://en.wikipedia.org/wiki/First_same-sex_marriage_in_Spain',
 
     # 1910s
-    
+
 
     # 1920s
     '1924-12-10': 'The Society for Human Rights was founded. https://en.wikipedia.org/wiki/Society_for_Human_Rights',
@@ -183,7 +183,7 @@ events = {
 
     # 2020s
     '2020-02-12': 'New Jersey residents can now change the gender marker on a driver\'s license without a note from a doctor. https://www.northjersey.com/story/news/new-jersey/2020/02/12/nj-mvc-allow-gender-designation-changes-without-doctors-note/4738926002/',
-    '2020-05-08': 'Maryland repealed it\'s sodomy law. https://www.billtrack50.com/BillDetail/1166637',
+    '2020-05-08': 'Maryland repealed its sodomy law. https://www.billtrack50.com/BillDetail/1166637',
     '2020-05-26': 'Costa Rica becomes the first country in Central America to legalize same-sex marriage. https://www.cnn.com/2020/05/26/americas/costa-rica-legalizes-same-sex-marriage-trnd/index.html',
     '2020-06-15': 'The Supreme Court rules that federal law protects LGBTQ workers from discrimination. https://www.cnn.com/2020/06/15/politics/supreme-court-lgbtq-employment-case/index.html',
     '2020-07-16': 'Sudan abolished the death penalty and flogging for homosexuality. https://www.reuters.com/article/us-sudan-lgbt-rights-trfn/great-first-step-as-sudan-lifts-death-penalty-and-flogging-for-gay-sex-idUSKCN24H30J',
