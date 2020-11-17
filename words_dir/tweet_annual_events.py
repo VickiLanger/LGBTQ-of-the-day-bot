@@ -68,6 +68,13 @@ events = {
     # November
     '11-1U': 'Trans Parent Day',  # http://transparentday.org/
     '11-08': 'Intersex Solidarity Day \n #IntersexSolidarityDay',
+    '11-13': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-14': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-15': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-16': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-17': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-18': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-19': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
     '11-20': 'International Transgender Day of Remembrance',  # http://tdor.info/about-2/
 
     # December
