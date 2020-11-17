@@ -4,7 +4,7 @@ tweet.py: post tweets to twitter.com
 Vicki Langer (@vicki_langer)
 '''
 
-import tweepy
+import tweepy # type: ignore
 import time
 import random
 
@@ -47,7 +47,7 @@ def main():
         image = api.media_upload(image_path)
         # add alt-text
         api.create_media_metadata(
-            image.media_id, alt_text=tweet_content["text"])
+            media_id=image.media_id, alt_text=tweet_content["text"])
     except Exception as error:
         print(f"An error occurred while generating image. reason: {error}")
 
