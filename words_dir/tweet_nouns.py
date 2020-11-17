@@ -309,12 +309,15 @@ nouns = [
     'grasshopper',
     'honeybee 🐝',
     'ladybug 🐞',
+    'locust',
+    'louse',
     'millipede',
     'mosquito 🦟',
-    'moth'
+    'moth',
     'praying mantis',
     'stick bug',
     'spider 🕷',
+    'snail',
     'termite',
     'wasp'
 
@@ -684,6 +687,7 @@ nouns = [
     'hard disk',
     'HDMI',
     'heat sink',
+    'hexa-core processor',
     'joystick',
     'kernel',
     'laptop stand',
@@ -839,6 +843,7 @@ nouns = [
     'colored pencil',
     'compass',
     'construction paper',
+    'divider',
     'duster',
     'eraser',
     'folder',
