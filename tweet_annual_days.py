@@ -48,9 +48,9 @@ def tweet_annual_event():
 
     if length_list_event_tweets != 0:
         if length_list_event_tweets > 1:
-            event_tweet = tweet_template + str(choice(list_of_event_tweets))
+            event_tweet = tweet_template + choice(list_of_event_tweets)
         else:
-            event_tweet = tweet_template + list_of_event_tweets[0]  # str(list_of_event_tweets) == ['a good day for testing yet another feature in production. We now support annual events with variable dates like "5th Friday of October"']
+            event_tweet = tweet_template + str(list_of_event_tweets[0])  # str(list_of_event_tweets) == ['a good day for testing yet another feature in production. We now support annual events with variable dates like "5th Friday of October"']
         api.update_status(event_tweet)
         print('annual event tweet accomplished')
     else:
