@@ -8,6 +8,7 @@ from datetime import date
 from math import ceil
 from tweet import authenticate_api
 from words_dir.tweet_annual_events import events
+from random import choice
 
 def tweet_annual_event():
     api = authenticate_api()
