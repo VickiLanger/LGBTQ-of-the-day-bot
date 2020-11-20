@@ -75,7 +75,7 @@ events = {
     '11-17': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
     '11-18': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
     '11-19': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
-    '11-20': 'International Transgender Day of Remembrance',  # http://tdor.info/about-2/
+    '11-20': 'International Transgender Day of Remembrance \n #TransDayOfRemembrance',  # http://tdor.info/about-2/
 
     # December
     '12-01': 'Wolrd AIDS day \n #WorldAIDSDay',  # http://www.worldaidsday.org/about
