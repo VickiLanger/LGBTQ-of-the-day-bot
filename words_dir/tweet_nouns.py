@@ -8,6 +8,7 @@ Vicki Langer (@vicki_langer)
 # NOTE: nouns should be singular (e.g. 'boot' not 'boots')
 # NOTE: must make sense in "{adjective} {label} {noun}" (example: tiny queer [something])
 # NOTE: must fit in a tweet, so not longer than this line -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+# NOTE: if it can be used as a name for an enby, its an awesome noun
 
 nouns = [
     # animals
