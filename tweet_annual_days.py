@@ -41,6 +41,9 @@ def tweet_annual_event():
     list_of_event_tweets.append([val for key, val in events.items() if nth_weekday in key])
     length_list_event_tweets = len(list_of_event_tweets)
 
+    #removes empty list from list_of_events
+    list_of_event_tweets = [x for x in list_of_event_tweets if x != []]
+
     '''if list has multiple events for the same month and day,
     then pick random,
     else return the item then update api, if none, no update'''
