@@ -6,12 +6,12 @@ Vicki Langer (@vicki_langer)
 
 from datetime import date
 from math import ceil
-from tweet import authenticate_api
+# from tweet import authenticate_api
 from words_dir.tweet_annual_events import events
 from random import choice
 
 def tweet_annual_event():
-    api = authenticate_api()
+    # api = authenticate_api()
 
     # declare empty string
     annual_event_tweet = ""
@@ -39,10 +39,11 @@ def tweet_annual_event():
     # make a list of the events that match month_and_day or specific day of the month
     list_of_event_tweets = [val for key, val in events.items() if month_and_day in key]
     list_of_event_tweets.append([val for key, val in events.items() if nth_weekday in key])
-    length_list_event_tweets = len(list_of_event_tweets)
+    
 
     #removes empty list from list_of_events
     list_of_event_tweets = [x for x in list_of_event_tweets if x != []]
+    length_list_event_tweets = len(list_of_event_tweets)
 
     '''if list has multiple events for the same month and day,
     then pick random,
@@ -50,11 +51,12 @@ def tweet_annual_event():
     # IDEA: generate a thread of tweets if it has multiple events
 
     if length_list_event_tweets != 0:
+        print(list_of_event_tweets)
         if length_list_event_tweets > 1:
             event_tweet = tweet_template + str(choice(list_of_event_tweets))
         else:
             event_tweet = tweet_template + str(list_of_event_tweets[0])  # str(list_of_event_tweets) == ['a good day for testing yet another feature in production. We now support annual events with variable dates like "5th Friday of October"']
-        api.update_status(event_tweet)
+        # api.update_status(event_tweet)
         print('annual event tweet accomplished')
     else:
         print('no annual event tweet today')
