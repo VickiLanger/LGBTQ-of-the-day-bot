@@ -866,7 +866,7 @@ nouns = [
     'stapler',
     'stencil',
     'sticky note',
-    'tape measure'
+    'tape measure',
     'water bottle',
     'whiteboard',
     'whiteout',
