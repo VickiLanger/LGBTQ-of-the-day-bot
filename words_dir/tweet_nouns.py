@@ -278,6 +278,9 @@ nouns = [
     # body organs
     'arm',
     'brain',
+    'cheek',
+    'chest',
+    'ear',
     'eye',
     'finger',
     'foot',
@@ -285,6 +288,7 @@ nouns = [
     'hand',
     'head',
     'heart',
+    'jaw',
     'knee',
     'leg',
     'nail',
