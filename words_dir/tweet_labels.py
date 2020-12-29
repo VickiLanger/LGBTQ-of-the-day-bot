@@ -40,6 +40,7 @@ labels = {
 
     # gender orientation
 
+    'ambiqueer': 'someone who is both achillean and sapphic (and also diamoric potentially), and who expresses both queer femininity and masculinity',
     'demiboy': 'A person who identifies as partially, but not completely male.',
     'demigirl': 'A person who identifies as partially, but not completely female.',
     'enby': 'Non-binary, Having a gender identity that is not male or female, or a person who is Non-binary',
