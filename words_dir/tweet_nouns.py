@@ -1060,7 +1060,7 @@ nouns = [
     'baggy pair of trousers',
 
     # ridiculous purposefully misspelled aminals
-    'snek',   # snkae
+    'snek',   # snake
     'danger noodle',  # snake
     'barkly loaf',  # corgi
     'water sausage',  # otter
