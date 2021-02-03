@@ -52,6 +52,7 @@ labels = {
     'trans femme': 'A transgender person who presents feminine.',
     'two-spirit': 'A modern, pan-Indian, umbrella term used by some Indigenous North Americans to describe Native people in their communities who fulfill a traditional third gender (or other gender-variant) ceremonial and social role in their cultures.',
     'cisgender': 'Having a gender identity which matches the sex one was assigned at birth; or, pertaining to such people.',
+    'cis by default': 'A person who identifies as their assigned gender because that\'s how they\'ve been identifying since birth and never had a reason to identify differently',
 
     'androgynous': 'A wide category of gender-expression that either mixes masculine and feminine markers  or omits them entirely.',
     'bigender': 'A person with two distinct gender identities, either at the same time or at different times.',
