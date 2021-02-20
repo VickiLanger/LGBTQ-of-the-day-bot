@@ -14,15 +14,23 @@ Vicki Langer (@vicki_langer)
 #       denoted by MTWRFSU - Monday, Tuesday, Wednesday, thuRsday, Friday, Saturday, sUnday
 #       Example - 2nd Tuesday of November would be listed as '11-2T'
 
+# NOTE: If multiple events fall on the same date, convert that entry to a list
+#       e.g. 'mm-dd': [events]
+#       Or, if an event already exists in this list, convert it
+#       from 'mm-dd': 'old event'
+#       to 'mm-dd': ['old event',
+#                   'new event 1',
+#                   'new event 2',
+
 events = {
     # January
-    '01-29' : 'Brazilian National Transgender Day of Visibility', #https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
+    '01-29': 'Brazilian National Transgender Day of Visibility', #https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
 
     # February
 
     # March
     '03-01': 'Zero Discrimination Day',  # https://www.unaids.org/en/zero-discrimination-day
-    '03-31': 'International Transgender Day of Vicibility',  # http://www.transstudent.org/tdov
+    '03-31': 'International Transgender Day of Visibility',  # http://www.transstudent.org/tdov
 
     # April
     '04-26': 'Lesbian Visibility Day,',  # https://www.queerevents.ca/notable-lgbtq-dates#lesbianvisibilityday
@@ -56,12 +64,12 @@ events = {
     # October
     '10-08': 'International Lesbian Day',  # https://en.wikipedia.org/wiki/List_of_LGBT_awareness_periods
     '10-11': 'National Coming Out Day',  # http://www.hrc.org/resources/the-history-of-coming-out
+    '10-20': 'Intersex Awareness Day',  # http://intersexday.org/en/intersex-awareness-day/
     '10-22': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-23': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-24': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-25': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-26': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
-    '10-20': 'Intersex Awareness Day',  # http://intersexday.org/en/intersex-awareness-day/
     '10-27': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-28': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-29': 'the day for not so regularly scheduled testing in production. \n \nIf you see this, it was a success and we will soon see tweets for remembrance, (inter)national, & Visibility Days/weeks',
@@ -80,7 +88,7 @@ events = {
     '11-20': 'International Transgender Day of Remembrance \n #TransDayOfRemembrance',  # http://tdor.info/about-2/
 
     # December
-    '12-01': 'Wolrd AIDS day \n #WorldAIDSDay',  # http://www.worldaidsday.org/about
+    '12-01': 'World AIDS day \n #WorldAIDSDay',  # http://www.worldaidsday.org/about
     '12-08': 'Pansexual Pride Day',  # https://www.queerevents.ca/notable-lgbtq-dates#pansexualprideday
     '12-10': 'Human Rights Day',  # https://www.un.org/en/observances/human-rights-day
 }
