@@ -16,7 +16,7 @@ events = {
     '1629-01-01': 'In 1629, the General Court of Colonial Virginia met to decide if a certain settler was male or female. https://www.history.com/news/intersex-people-casimir-pulaski-thomasine-hall',
     '1636-11-13': 'The Plymouth, America colony listed sodomy as one of 8 offenses punishable by death. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1630s/sodomy-law-plymouth-november-1',
     '1637-08-06': 'John Alexander and Thomas Roberts were found guilty by the Plymouth court for "lewd behavior and unclean carriage one with another." http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1630s/legal-case-allexander-roberts-',
-    '1642-03-01': 'Edward Michell and Edward Preston were cited by the Plymouth court for "lewd & sodomitical practices" with one another. They were both whipped as punishment. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/legal-case-michell-and-preston', 
+    '1642-03-01': 'Edward Michell and Edward Preston were cited by the Plymouth court for "lewd & sodomitical practices" with one another. They were both whipped as punishment. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/legal-case-michell-and-preston',
     '1642-12-01': 'The General Court of Connecticut listed "man lying with man" as one of 12 capital crimes, along with witchcraft and blasphemy. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/sodomy-law-connecticut-decembe',
     '1642-12-05': 'Elizabeth Johnson was sentenced to be whipped and fined for "unseemly practices betwixt her and another maid" as well as being stubborn and plugging her ears. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/legal-case-elizabeth-johnson-m',
     '1646-03-25': 'Jan Creoli, a black man in the New Netherland Colony (now New York) was brutally and publicly executed after being accused of sodomy. http://outhistory.org/exhibits/show/the-age-of-sodomitical-sin/1640s/sodomy-case-creoli-executed-ne',
@@ -35,7 +35,7 @@ events = {
     '1901-06-08': 'Post-Roman times, Marcela and Elisa became the first same-sex marriage in Spain. When it was out that they had deceived the priest, they fled the country. Yet, their marriage was never voided. https://en.wikipedia.org/wiki/First_same-sex_marriage_in_Spain',
 
     # 1910s
-    
+
 
     # 1920s
     '1924-12-10': 'The Society for Human Rights was founded. https://en.wikipedia.org/wiki/Society_for_Human_Rights',
@@ -98,6 +98,7 @@ events = {
     '1979-01-11': 'The law that decriminalizes homosexuality in Spain comes into force. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
 
     # 1980s
+    '1980-06-13': 'First Homossexual Walk in São Paulo Brazil, during military dictatorship. https://pt.wikipedia.org/wiki/Movimentos_civis_LGBT_no_Brasil ',
     '1981-02-05': 'Toronto police execute Operation Soap, raiding four gay bath houses. Community response regarded as Canadian equivalent of the 1969 Stonewall riots, evolving into Toronto Pride Week  https://en.wikipedia.org/wiki/Operation_Soap',
     '1982-03-02': 'Wisconsin becomes the first U.S. state to outlaw discrimination on the basis of sexual orientation. https://en.wikipedia.org/wiki/LGBT_rights_in_Wisconsin',
     '1988-12-01': 'The World Health Organization organizes the first World AIDS Day to raise awareness of the spreading pandemic. https://www.verywellhealth.com/the-history-of-world-aids-day-48717',
@@ -105,6 +106,7 @@ events = {
 
     # 1990s
     '1993-11-30': 'President Bill Clinton signs a military policy directive that prohibits openly gay and lesbian Americans from serving in the military but also prohibits the harassment of closeted homosexuals. https://www.cnn.com/2013/02/01/us/bill-clinton-fast-facts/index.html',
+    '1995-01-25': 'Creation of ABGLT (onde of the most important LGBT alliances in Brazil). https://pt.wikipedia.org/wiki/Associa%C3%A7%C3%A3o_Brasileira_de_Gays,_L%C3%A9sbicas,_Bissexuais,_Travestis,_Transexuais_e_Intersexos',
     '1996-01-01': 'A landmark case rules an employee who was about to transition was wrongfully dismissed. https://en.wikipedia.org/wiki/P_v_S_and_Cornwall_County_Council',
     '1996-03-12': "Five years after a gay couple filed suit against Hawaii for denying them a marriage license, Hawaiian state court upheld the right of same-sex couples to be legally wed. This made Hawaii the first state to legalize gay marriage cnn.com/US/9612/03/same.sex.marriage",
     '1997-04-14': 'Comedian Ellen DeGeneres comes out as a lesbian on the cover of Time magazine. http://content.time.com/time/covers/0,16641,19970414,00.html',
@@ -117,10 +119,12 @@ events = {
     '2001-04-01': 'The Netherlands became the first country to legalize same-sex marriages. https://en.wikipedia.org/wiki/Same-sex_marriage_in_the_Netherlands',
     '2004-05-17': 'The first legal same-sex marriage in the United States takes place in Massachusetts. https://www.npr.org/2019/05/17/723649385/the-1st-legally-married-same-sex-couple-wanted-to-lead-by-example',
     '2004-07-20': 'Guido Westerwelle, leader of the FDP, becomes the first leader of a major party to come out. https://en.wikipedia.org/wiki/LGBT_history_in_Germany',
+    '2004-02-01': 'First known legal surgical clinic ran by transwomen for trans women was opened. \n\n @dirtycitybird https://thehungryandthehallowed.wordpress.com/',
     '2005-07-03': 'Same-sex marriage becomes legal in Spain. https://es.wikipedia.org/wiki/Matrimonio_entre_personas_del_mismo_sexo_en_Espa%C3%B1a',
     '2005-07-20': 'The enactment of the Civil Marriage Act allows same-sex couples to be married anywhere in Canada. http://laws-lois.justice.gc.ca/eng/acts/c-31.5/page-1.html',
     '2005-09-06': 'The California legislature becomes the first to pass a bill allowing marriage between same-sex couples. Governor Arnold Schwarzenegger vetoes the bill. https://www.nytimes.com/2005/09/06/national/california-legislature-approves-samesex-marriage-bill.html',
     '2005-12-05': 'The Civil Partnership Act passes, granting civil partnership in the UK. https://en.wikipedia.org/wiki/Civil_Partnership_Act_2004',
+    '2006-07-01': 'First known legal surgical clinic ran by transwomen for trans women has closed. \n\n @dirtycitybird https://thehungryandthehallowed.wordpress.com/',
     '2006-10-25': 'The New Jersey Supreme Court rules that state lawmakers must provide the rights and benefits of marriage to gay and lesbian couples. https://www.cnn.com/2006/US/10/25/gay.marriage/',
     '2007-12-21': 'Homosexuality was legalized in Nepal in 2007. https://en.wikipedia.org/wiki/LGBT_rights_in_Nepal',
     '2008-01-20': 'Uruguay became the first Latin American country to enact a national same-sex civil union law. https://en.wikipedia.org/wiki/Same-sex_marriage_in_Uruguay',
@@ -183,7 +187,7 @@ events = {
 
     # 2020s
     '2020-02-12': 'New Jersey residents can now change the gender marker on a driver\'s license without a note from a doctor. https://www.northjersey.com/story/news/new-jersey/2020/02/12/nj-mvc-allow-gender-designation-changes-without-doctors-note/4738926002/',
-    '2020-05-08': 'Maryland repealed it\'s sodomy law. https://www.billtrack50.com/BillDetail/1166637',
+    '2020-05-08': 'Maryland repealed its sodomy law. https://www.billtrack50.com/BillDetail/1166637',
     '2020-05-26': 'Costa Rica becomes the first country in Central America to legalize same-sex marriage. https://www.cnn.com/2020/05/26/americas/costa-rica-legalizes-same-sex-marriage-trnd/index.html',
     '2020-06-15': 'The Supreme Court rules that federal law protects LGBTQ workers from discrimination. https://www.cnn.com/2020/06/15/politics/supreme-court-lgbtq-employment-case/index.html',
     '2020-07-16': 'Sudan abolished the death penalty and flogging for homosexuality. https://www.reuters.com/article/us-sudan-lgbt-rights-trfn/great-first-step-as-sudan-lifts-death-penalty-and-flogging-for-gay-sex-idUSKCN24H30J',

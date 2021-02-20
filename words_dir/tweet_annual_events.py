@@ -16,6 +16,7 @@ Vicki Langer (@vicki_langer)
 
 events = {
     # January
+    '01-29' : 'Brazilian National Transgender Day of Visibility', #https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
 
     # February
 
@@ -40,6 +41,7 @@ events = {
 
     # August
     '08-2U': 'Gay Uncles Day',  # https://www.today.com/parents/gay-uncles-day-2020-how-being-guncle-changed-my-perception-t188917
+    '08-29': 'Brazilian National Lesbian Day of Visibility', #https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
 
     # September
     '09-16': 'Bisexual+ Awareness Week',  # https://en.wikipedia.org/wiki/Celebrate_Bisexuality_Day
@@ -68,7 +70,14 @@ events = {
     # November
     '11-1U': 'Trans Parent Day',  # http://transparentday.org/
     '11-08': 'Intersex Solidarity Day \n #IntersexSolidarityDay',
-    '11-20': 'International Transgender Day of Remembrance',  # http://tdor.info/about-2/
+    '11-13': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-14': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-15': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-16': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-17': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-18': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-19': 'Transgender Awareness Week \n #TransAwarenessWeek',  # https://www.glaad.org/transweek
+    '11-20': 'International Transgender Day of Remembrance \n #TransDayOfRemembrance',  # http://tdor.info/about-2/
 
     # December
     '12-01': 'Wolrd AIDS day \n #WorldAIDSDay',  # http://www.worldaidsday.org/about

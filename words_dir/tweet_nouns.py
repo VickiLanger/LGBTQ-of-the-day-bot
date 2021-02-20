@@ -278,6 +278,9 @@ nouns = [
     # body organs
     'arm',
     'brain',
+    'cheek',
+    'chest',
+    'ear',
     'eye',
     'finger',
     'foot',
@@ -285,6 +288,7 @@ nouns = [
     'hand',
     'head',
     'heart',
+    'jaw',
     'knee',
     'leg',
     'nail',
@@ -309,12 +313,15 @@ nouns = [
     'grasshopper',
     'honeybee 🐝',
     'ladybug 🐞',
+    'locust',
+    'louse',
     'millipede',
     'mosquito 🦟',
-    'moth'
+    'moth',
     'praying mantis',
     'stick bug',
     'spider 🕷',
+    'snail',
     'termite',
     'wasp'
 
@@ -684,6 +691,7 @@ nouns = [
     'hard disk',
     'HDMI',
     'heat sink',
+    'hexa-core processor',
     'joystick',
     'kernel',
     'laptop stand',
@@ -839,6 +847,7 @@ nouns = [
     'colored pencil',
     'compass',
     'construction paper',
+    'divider',
     'duster',
     'eraser',
     'folder',
@@ -861,7 +870,7 @@ nouns = [
     'stapler',
     'stencil',
     'sticky note',
-    'tape measure'
+    'tape measure',
     'water bottle',
     'whiteboard',
     'whiteout',
@@ -936,6 +945,11 @@ nouns = [
     'unintended consequence of a homogenous software engineering team',
     'wheelchair-bomb',
     'wrongness parfait',
+    'hardware running a cracked girl OS',
+    'advanced maid ai accidentally installed on a forklift',
+    'rampant AI spawned by reading too much queer twitter',
+    '30-50 feral queer AIs',
+    'TV static',
 
     # types of movies
     'action movie',
@@ -1046,7 +1060,7 @@ nouns = [
     'baggy pair of trousers',
 
     # ridiculous purposefully misspelled aminals
-    'snek',   # snkae
+    'snek',   # snake
     'danger noodle',  # snake
     'barkly loaf',  # corgi
     'water sausage',  # otter
