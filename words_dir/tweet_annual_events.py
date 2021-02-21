@@ -16,32 +16,42 @@ Vicki Langer (@vicki_langer)
 
 events = {
     # January
-    '01-29' : 'Brazilian National Transgender Day of Visibility', #https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
+    '01-29' : 'Brazilian National Transgender Day of Visibility', # https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
 
     # February
+    '02-07' : 'US National Black HIV/AIDS Awareness Day \n #NBHAAD', # https://www.hiv.gov/events/awareness-days/black
 
     # March
     '03-01': 'Zero Discrimination Day',  # https://www.unaids.org/en/zero-discrimination-day
-    '03-31': 'International Transgender Day of Vicibility',  # http://www.transstudent.org/tdov
+    '03-10': 'US National Women and Girls HIV/AIDS Awareness Day \n #NWGHAAD', # https://www.hiv.gov/events/awareness-days/women-and-girls
+    '03-20': 'US National Native HIV/AIDS Awareness Day \n #NNHAAD', # https://www.hiv.gov/events/awareness-days/native
+    '03-31': 'International Transgender Day of Visibility',  # http://www.transstudent.org/tdov
 
     # April
+    '04-10': 'US National Youth HIV & AIDS Awareness Day \n #NYHAAD', # https://www.hiv.gov/events/awareness-days/youth
+    '04-18': 'National Transgender HIV Testing Day \n #TransHIV', # https://www.hiv.gov/events/awareness-days/transgender
     '04-26': 'Lesbian Visibility Day,',  # https://www.queerevents.ca/notable-lgbtq-dates#lesbianvisibilityday
 
     # May
+    '05-1U': 'International Family Equality Day \n #IFED', # https://www.familyequality.org/international-family-equality-day/
     '05-17': 'International Day Against Homophobia, Transphobia, and Biphobia',  # https://may17.org/
+    '05-18': 'US HIV Vaccine Awareness Day \n #HVAD', # https://www.hiv.gov/events/awareness-days/hiv-vaccine-awareness-day
     '05-19': 'Agender Pride Day',  # https://www.northshorepride.org/event/agender-pride-day/
     '05-22': 'Harvey Milk Day',  # https://www.northshorepride.org/event/harvey-milk-day/
     '05-24': 'Pansexual and Panromantic Awareness and Visibility Day',  # https://lgbt.foundation/news/5-things-you-should-know-on-pansexual-visibility-day/161
 
     # June
+    '06-05': 'HIV Long-Term Survivors Awareness Day \n #HLTSAD', # https://www.hltsad.org/
     '06-12': 'Pulse Night of Remembrance',  # https://www.northshorepride.org/event/pulse-night-of-remembrance/
+    '06-26': 'U.S. Legalization of Same-Sex Marriage Anniversary', # https://en.wikipedia.org/wiki/Same-sex_marriage_in_the_United_States
+    '06-28': 'Stonewall Riots Anniversary', # https://en.wikipedia.org/wiki/Stonewall_riots
 
     # July
     '07-14': 'International Non-Binary People\'s Day',  # https://en.wikipedia.org/wiki/International_Non-Binary_People%27s_Day
 
     # August
     '08-2U': 'Gay Uncles Day',  # https://www.today.com/parents/gay-uncles-day-2020-how-being-guncle-changed-my-perception-t188917
-    '08-29': 'Brazilian National Lesbian Day of Visibility', #https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
+    '08-29': 'Brazilian National Lesbian Day of Visibility', # https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
 
     # September
     '09-16': 'Bisexual+ Awareness Week',  # https://en.wikipedia.org/wiki/Celebrate_Bisexuality_Day
@@ -52,16 +62,18 @@ events = {
     '09-21': 'Bisexual+ Awareness Week',  # https://en.wikipedia.org/wiki/Celebrate_Bisexuality_Day
     '09-22': 'Bisexual+ Awareness Week',  # https://en.wikipedia.org/wiki/Celebrate_Bisexuality_Day
     '09-23': 'Celebrate Bisexuality Day',  # https://en.wikipedia.org/wiki/Celebrate_Bisexuality_Day
+    '09-27': 'US National Gay Men’s HIV/AIDS Awareness Day \n #NGMHAAD', # https://www.hiv.gov/events/awareness-days/gay-mens
 
     # October
     '10-08': 'International Lesbian Day',  # https://en.wikipedia.org/wiki/List_of_LGBT_awareness_periods
     '10-11': 'National Coming Out Day',  # http://www.hrc.org/resources/the-history-of-coming-out
+    '10-3T': 'Spirit Day', # https://en.wikipedia.org/wiki/Spirit_Day
     '10-22': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-23': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-24': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-25': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-26': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
-    '10-20': 'Intersex Awareness Day',  # http://intersexday.org/en/intersex-awareness-day/
+    '10-26': 'Intersex Awareness Day',  # http://intersexday.org/en/intersex-awareness-day/
     '10-27': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-28': 'Asexual Awareness Week',  # http://www.asexualawarenessweek.com/index.html
     '10-29': 'the day for not so regularly scheduled testing in production. \n \nIf you see this, it was a success and we will soon see tweets for remembrance, (inter)national, & Visibility Days/weeks',
