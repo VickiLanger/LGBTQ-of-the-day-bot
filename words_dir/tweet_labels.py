@@ -36,7 +36,7 @@ labels = {
     'proculsexual': 'Someone who only feels sexual/romantic attraction to people who they\'re sure they can never be in a relationship with, such as fictional characters, or celebrities.',
     'queer': 'Used as an umbrella term for someone who doesn\'t identify as heterosexual and/or cisgender.',
     'reciprosexual': 'Someone who only experiences sexual attraction to someone if they know the other person is attracted to them first.',
-    'skoliosexual': 'sexual attraction only towards those whose gender identity doesn\'t fall under the traditional gender binary.',
+    'ceterosexual': 'sexual attraction only towards those whose gender identity doesn\'t fall under the traditional gender binary.',
 
     # gender orientation
 
