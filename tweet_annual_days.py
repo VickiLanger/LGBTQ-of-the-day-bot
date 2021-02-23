@@ -10,51 +10,59 @@ from tweet import authenticate_api
 from words_dir.tweet_annual_events import events
 from random import choice
 
+
 def tweet_annual_event():
     api = authenticate_api()
 
-    # declare empty string
-    annual_event_tweet = ""
-    tweet_template = "Today is "
+    events_today = []
+
+    def add_events(events_to_add):
+        # extend events list if a list of multiple events are given
+        if isinstance(events_to_add, list):
+            events_today.extend(events_to_add)
+        else:
+            events_today.append(events_to_add)
 
     # get today's date
-    today = str(date.today())
+    date_today = date.today()
+    today = str(date_today)
+
+    month = today[5:7]
+    day = today[8:10]
+
+    # GET EVENTS TODAY
 
     # get today's month and day
-    month_and_day = today[5:]
+    month_and_day = f'{month}-{day}'
 
-    # get today's weekday - 0 = Monday
-    weekday_index = date.today().weekday()
+    # find and add events matching the case
+    add_events(events.get(month_and_day, []))
+
+    # GET RELATIVE EVENTS THAT RESOLVE TO TODAY
+
+    # get today's weekday - 0-6 = Monday-Sunday
+    weekday_index = date_today.weekday()
 
     # convert to letter
+    # MTWRFSU - Monday, Tuesday, Wednesday, thuRsday, Friday, Saturday, sUnday
+
     weekday_letters = "MTWRFSU"
     weekday = weekday_letters[weekday_index]
 
     # determine which week we are in
-    week = ceil(int(today[8:])/7)
+    week = ceil(int(day) / 7)
+    # create the code to look up - format 'MM-nU' would be the nth sUnday of the current Month
+    nth_weekday_of_month = f'{month}-{week}{weekday}'
 
-    # create the code to look up - format '2M' would be the 2nd Monday
-    nth_weekday = str(week) + weekday
+    # find and add events matching the case
+    add_events(events.get(nth_weekday_of_month, []))
 
-    # make a list of the events that match month_and_day or specific day of the month
-    list_of_event_tweets = [val for key, val in events.items() if month_and_day in key]
-    list_of_event_tweets.append([val for key, val in events.items() if nth_weekday in key])
-    
-
-    #removes empty list from list_of_events
-    list_of_event_tweets = [x for x in list_of_event_tweets if x != []]
-    length_list_event_tweets = len(list_of_event_tweets)
-
-    '''if list has multiple events for the same month and day,
-    then pick random,
-    else return the item then update api, if none, no update'''
+    '''Pick a random Event from the list of events today and tweet it'''
     # IDEA: generate a thread of tweets if it has multiple events
 
-    if length_list_event_tweets != 0:
-        if length_list_event_tweets > 1:
-            event_tweet = tweet_template + str(choice(list_of_event_tweets))
-        else:
-            event_tweet = tweet_template + str(list_of_event_tweets[0])  # str(list_of_event_tweets) == ['a good day for testing yet another feature in production. We now support annual events with variable dates like "5th Friday of October"']
+    if events_today:
+        chosen_event = choice(events_today)
+        event_tweet = f'Today is {chosen_event}'
         api.update_status(event_tweet)
         print('annual event tweet accomplished')
     else:
