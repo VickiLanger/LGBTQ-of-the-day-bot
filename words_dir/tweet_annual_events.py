@@ -30,15 +30,15 @@ events = {
 
     # March
     '03-01': 'Zero Discrimination Day',  # https://www.unaids.org/en/zero-discrimination-day
-    '03-31': 'International Transgender Day of Visibility',  # http://www.transstudent.org/tdov
+    '03-31': 'International Transgender Day of Visibility \n#TransDayOfVisibility #TDOV',  # http://www.transstudent.org/tdov
 
     # April
-    '04-26': 'Lesbian Visibility Day,',  # https://www.queerevents.ca/notable-lgbtq-dates#lesbianvisibilityday
+    '04-26': 'Lesbian Visibility Day',  # https://www.queerevents.ca/notable-lgbtq-dates#lesbianvisibilityday
 
     # May
     '05-17': 'International Day Against Homophobia, Transphobia, and Biphobia',  # https://may17.org/
     '05-19': 'Agender Pride Day',  # https://www.northshorepride.org/event/agender-pride-day/
-    '05-22': 'Harvey Milk Day',  # https://www.northshorepride.org/event/harvey-milk-day/
+    '05-22': 'Harvey Milk Day \n#HarveyMilkDay #HMD',  # https://www.northshorepride.org/event/harvey-milk-day/
     '05-24': 'Pansexual and Panromantic Awareness and Visibility Day',  # https://lgbt.foundation/news/5-things-you-should-know-on-pansexual-visibility-day/161
 
     # June
