@@ -33,6 +33,7 @@ events = {
     '03-31': 'International Transgender Day of Visibility 🏳️‍️⚧️\n#TransDayOfVisibility #TDOV',  # http://www.transstudent.org/tdov
 
     # April
+    '04-06': 'International Asexuality Day 🖤💜🤍 \n#InternationalAceDay',  # https://internationalasexualityday.org/en/
     '04-26': 'Lesbian Visibility Day 🤎🧡🤍💖',  # https://www.queerevents.ca/notable-lgbtq-dates#lesbianvisibilityday
 
     # May
