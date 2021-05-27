@@ -277,6 +277,7 @@ nouns = [
 
     # body organs
     'arm',
+    'bone marrow',
     'brain',
     'cheek',
     'chest',
@@ -284,6 +285,7 @@ nouns = [
     'eye',
     'finger',
     'foot',
+    'gallbladder',
     'hair',
     'hand',
     'head',
@@ -294,6 +296,7 @@ nouns = [
     'nail',
     'neck',
     'nose',
+    'pancreas',
     'toe',
     'tooth',
 
@@ -460,6 +463,7 @@ nouns = [
     'bologna',
     'boysenberry',
     'bread🍞',
+    'brioche',
     'broccoli',
     'brownie',
     'burrito 🌯',
