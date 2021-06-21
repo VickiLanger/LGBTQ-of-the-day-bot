@@ -35,7 +35,6 @@ adjectives = [
     'dead',
     'different',
     'divine',
-    'dumb',
     'diligent',
     'eccentric',
     'exuberant',
