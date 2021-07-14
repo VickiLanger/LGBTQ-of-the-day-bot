@@ -29,7 +29,7 @@ def tweet_historicat_event():
     month_and_day = today[5:]  # slice off the first 5 characters
 
     # make a list of the events that match month_and_day
-    list_of_history_tweets = [key + ":\n" + val for key, val in events.items() if month_and_day in key]
+    list_of_history_tweets = [key + ":\n" + val for key, val in events.items() if month_and_day == key[5:]]
     length_list_history_tweets = len(list_of_history_tweets)
 
     '''if list has multiple events for the same month and day,
