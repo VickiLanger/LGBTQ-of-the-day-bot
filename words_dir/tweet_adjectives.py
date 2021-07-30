@@ -11,6 +11,7 @@ Vicki Langer (@vicki_langer)
 adjectives = [
     'aback',
     'abaft',
+    'amazing',
     'adorable ',
     'aesthetical',
     'aggressive',
