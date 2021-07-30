@@ -22,7 +22,7 @@ labels = {
     'autochorisexual': 'Autochorisexual describes those who have a disconnect between themself and the subject of arousal.\n\nSee https://lgbta.wikia.org/wiki/Autochorisexual for an expanded definition.',
     'autosexual': 'Someone who primarily feels sexual attraction to themself, but not toward others.',
     'bicurious': 'a person, usually someone who is a heterosexual, who is curious or open about engaging in sexual activity with a person whose sex differs from that of their usual sexual partners.',
-    'bisexual': 'Sexually attracted to both men and women (by a narrow definition) or to people of multiple or any genders (by a broad definition; compare pansexual).',
+    'bisexual': 'Sexually attracted to both men and women or to people of multiple or any genders',
     'demisexual': 'Someone who only experiences sexual attraction to people they share an emotional bond with.',
     'fraysexual': 'Someone who only experiences sexual attraction towards those that they are not deeply connected with, and lose that attraction as they get to know the person. Fraysexual is often described as being "the opposite of demisexual".',
     'gay': 'Possessing sexual and/or emotional attraction towards members of the same sex; Especially men preferring mostly or exclusively men as romantic or sexual partners.',
@@ -75,7 +75,7 @@ labels = {
 
     'autoromantic': 'Romantically attracted to oneself.',
 
-    'biromantic': 'Romantically attracted to both males and females.',
+    'biromantic': 'Romantically attracted to both men and women or to people of multiple or any genders',
     'grayromantic': 'Someone on the aromantic spectrum who experiences romantic attraction under certain circumstances.',
     'lithromantic': 'Experiencing romantic attraction without a need or desire for reciprocation.',
     'polyromantic': 'Romantically attracted to multiple, but not all genders.',
