@@ -41,4 +41,4 @@ All contributions are greatly appreciated.
 
 - [This tutorial was super helpful](https://dev.to/emcain/how-to-set-up-a-twitter-bot-with-python-and-heroku-1n39)
 
--[This tutorial is to create twitter bot](https://www.youtube.com/watch?v=W0wWwglE1Vc)
+- [This tutorial is to create twitter bot](https://www.youtube.com/watch?v=W0wWwglE1Vc)
