@@ -42,3 +42,7 @@ All contributions are greatly appreciated.
 - [This tutorial was super helpful](https://dev.to/emcain/how-to-set-up-a-twitter-bot-with-python-and-heroku-1n39)
 
 - [This tutorial is to create twitter bot](https://www.youtube.com/watch?v=W0wWwglE1Vc)
+
+## Why are you doing it like this?
+
+I could streamline this bot a lot by using [Wordnik API](https://developer.wordnik.com/) or [txt files as input](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files). However, one of the goals of this bot is to help Code Newbies get their first open source contributions. I want people to have the chance to make simple changes while actually learning the process of how git is working.
