@@ -23,7 +23,7 @@ labels = {
     'autosexual': 'Someone who primarily feels sexual attraction to themself, but not toward others.',
     'bicurious': 'a person, usually someone who is a heterosexual, who is curious or open about engaging in sexual activity with a person whose sex differs from that of their usual sexual partners.',
     'bisexual': 'Sexually attracted to both men and women or to people of multiple or any genders',
-    'demisexual': 'Someone who only experiences sexual attraction to people they share an emotional bond with.',
+    'demisexual': 'Someone who only experiences sexual attraction to people only after they share an strong emotional bond.',
     'fraysexual': 'Someone who only experiences sexual attraction towards those that they are not deeply connected with, and lose that attraction as they get to know the person. Fraysexual is often described as being "the opposite of demisexual".',
     'gay': 'Possessing sexual and/or emotional attraction towards members of the same sex; Especially men preferring mostly or exclusively men as romantic or sexual partners.',
     'gynosexual': 'Sexually attracted toward women and/or femininity.',
@@ -34,7 +34,7 @@ labels = {
     'pansexual': 'Sexually attracted to people regardless of gender.',
     'polysexual': 'Sexually attracted to people of multiple genders.',
     'proculsexual': 'Someone who only feels sexual/romantic attraction to people who they\'re sure they can never be in a relationship with, such as fictional characters, or celebrities.',
-    'queer': 'Used as an umbrella term for someone who doesn\'t identify as heterosexual and/or cisgender.',
+    'queer': 'Used as an umbrella term for someone who doesn\'t identify as heterosexual, heteroromantic, and/or cisgender.',
     'reciprosexual': 'Someone who only experiences sexual attraction to someone if they know the other person is attracted to them first.',
     'ceterosexual': 'sexual attraction only towards those whose gender identity doesn\'t fall under the traditional gender binary.',
 
