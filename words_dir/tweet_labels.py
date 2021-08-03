@@ -62,7 +62,8 @@ labels = {
     'graygender': 'On the "agender" spectrum. A person who does identify with a particular gender or genders, but in a weaker or less determinate/definable way.',
     'intersex': 'Intersex people are people born with any variation in sex characteristics including chromosomes, gonads, sex hormones, or genitals that do not fit the typical definitions of male or female bodies.',
     'neutrois': 'Neutrois is a non-binary gender identity which is often associated with a "neutral" or "null" gender. It may also be associated with genderlessness, and shares many similarities with agender - people who consider themselves neutrally gendered or genderless, but some may identify as both, while others may prefer one term or the other.',
-    'novigender': 'Nonbinary gender identity with several definitions:\n-someone who feels that gender identity or existing gender terms don\'t apply to them\n-someone who isn\'t sure whether they experience gender\n-can be used as an alternative to "questioning"','polygender': 'A person with multiple distinct gender identities, either at the same time or at different times.',
+    'novigender': 'Nonbinary gender identity with several definitions:\n-someone who feels that gender identity or existing gender terms don\'t apply to them\n-someone who isn\'t sure whether they experience gender\n-can be used as an alternative to "questioning"',
+    'polygender': 'A person with multiple distinct gender identities, either at the same time or at different times.',
     'pangender': 'Pangender, or omnigender, is a gender identity in which a person either identifies as a countless number of separate identities that they are fluid between over time.',
     'trigender': 'Trigender people experience three genders, at the same time, or moving between the three at different times. These three genders can be any gender, either binary or nonbinary.',
 
