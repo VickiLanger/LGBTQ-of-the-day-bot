@@ -98,7 +98,7 @@ events = {
     '1979-01-11': 'The law that decriminalizes homosexuality in Spain comes into force. https://es.wikipedia.org/wiki/Diversidad_sexual_en_Espa%C3%B1a#El_siglo_XIX_y_principios_del_XX',
 
     # 1980s
-    '1980-06-13': 'First Homossexual Walk in São Paulo Brazil, during military dictatorship. https://pt.wikipedia.org/wiki/Movimentos_civis_LGBT_no_Brasil ',
+    '1980-06-13': 'First Homosexual Walk in São Paulo Brazil, during military dictatorship. https://pt.wikipedia.org/wiki/Movimentos_civis_LGBT_no_Brasil ',
     '1981-02-05': 'Toronto police execute Operation Soap, raiding four gay bath houses. Community response regarded as Canadian equivalent of the 1969 Stonewall riots, evolving into Toronto Pride Week  https://en.wikipedia.org/wiki/Operation_Soap',
     '1982-03-02': 'Wisconsin becomes the first U.S. state to outlaw discrimination on the basis of sexual orientation. https://en.wikipedia.org/wiki/LGBT_rights_in_Wisconsin',
     '1988-12-01': 'The World Health Organization organizes the first World AIDS Day to raise awareness of the spreading pandemic. https://www.verywellhealth.com/the-history-of-world-aids-day-48717',
@@ -106,7 +106,7 @@ events = {
 
     # 1990s
     '1993-11-30': 'President Bill Clinton signs a military policy directive that prohibits openly gay and lesbian Americans from serving in the military but also prohibits the harassment of closeted homosexuals. https://www.cnn.com/2013/02/01/us/bill-clinton-fast-facts/index.html',
-    '1995-01-25': 'Creation of ABGLT (onde of the most important LGBT alliances in Brazil). https://pt.wikipedia.org/wiki/Associa%C3%A7%C3%A3o_Brasileira_de_Gays,_L%C3%A9sbicas,_Bissexuais,_Travestis,_Transexuais_e_Intersexos',
+    '1995-01-25': 'Creation of ABGLT (one of the most important LGBT alliances in Brazil). https://pt.wikipedia.org/wiki/Associa%C3%A7%C3%A3o_Brasileira_de_Gays,_L%C3%A9sbicas,_Bissexuais,_Travestis,_Transexuais_e_Intersexos',
     '1996-01-01': 'A landmark case rules an employee who was about to transition was wrongfully dismissed. https://en.wikipedia.org/wiki/P_v_S_and_Cornwall_County_Council',
     '1996-03-12': "Five years after a gay couple filed suit against Hawaii for denying them a marriage license, Hawaiian state court upheld the right of same-sex couples to be legally wed. This made Hawaii the first state to legalize gay marriage cnn.com/US/9612/03/same.sex.marriage",
     '1997-04-14': 'Comedian Ellen DeGeneres comes out as a lesbian on the cover of Time magazine. http://content.time.com/time/covers/0,16641,19970414,00.html',
@@ -137,7 +137,7 @@ events = {
     '2009-10-17': 'Changing legal gender assignment in Brazil is legal according to the Superior Court of Justice of Brazil. https://en.wikipedia.org/wiki/Transgender_rights_in_Brazil#:~:text=The%20Supreme%20Federal%20Court%20ruled,declaration%20of%20their%20psychosocial%20identity',
 
     # 2010s
-    '2010-02-10': 'France becomes the first conutry to declassify gender indentity disorder as a mental illness. https://www.loc.gov/law/foreign-news/article/france-gender-identity-disorder-dropped-from-list-of-mental-illnesses/',
+    '2010-02-10': 'France becomes the first country to declassify gender identity disorder as a mental illness. https://www.loc.gov/law/foreign-news/article/france-gender-identity-disorder-dropped-from-list-of-mental-illnesses/',
     '2010-07-15': 'Argentina legalises gay marriage. https://www.thehindu.com/news/international/Argentina-legalises-gay-marriage/article16197744.ece',
     '2011-05-05': 'Same-sex stable union is now legal in Brazil. https://en.wikipedia.org/wiki/LGBT_rights_in_Brazil',
     '2011-09-20': 'Repeal of DADT. https://www.americanprogress.org/issues/lgbtq-rights/reports/2012/09/20/38764/the-repeal-of-dont-ask-dont-tell-1-year-later/',
