@@ -20,6 +20,6 @@ def get_tweet():
     noun = choice(nouns)
     article = get_indefinite_article(adjective)
 
-    tweet_to_send = f"today's queerness is {article} {adjective} {label} {noun}"
+    tweet_to_send = f"today's queerness is {article} {adjective} {label} {adjective} {noun}"
 
     return tweet_to_send
