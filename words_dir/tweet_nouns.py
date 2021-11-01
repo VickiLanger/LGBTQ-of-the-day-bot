@@ -246,7 +246,7 @@ nouns = [
     'Tasmanian devil',
     'tern',
     'tiger 🐅',
-    'timber wolf 🐺'
+    'timber wolf 🐺',
     'tortoise',
     'toucan',
     'trilobite',
