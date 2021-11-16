@@ -134,6 +134,7 @@ adjectives = [
 
     # appearance
     'beautiful',
+    'boisterous',
     'blushing',
     'bright',
     'butch',
@@ -450,14 +451,18 @@ adjectives = [
     'very similar',
     'well aware',
     'fast asleep',
+    'quietly cautious',
+    'gently curious',
 
     # character traits
     'affable',
     'agreeable',
     'amiable',
+    'arrogant',
     'charming',
     'decadent',
     'dogmatic',
+    'ephemeral',
     'fidgety',
     'gregarious',
     'intimidating',
