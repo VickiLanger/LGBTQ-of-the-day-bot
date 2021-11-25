@@ -194,6 +194,7 @@ events = {
     '2020-09-15': 'India\'s most populated state, Uttar Pradesh approves setting up of a transgender welfare board in the state. https://indianexpress.com/article/cities/lucknow/up-minister-shastri-approves-setting-up-of-transgender-welfare-board-in-state-6597718/',
     '2020-10-01': 'Petra De Sutter becomes Europe\'s first transgender deputy prime minister, and the most senior trans politician in Europe. https://www.reuters.com/article/idUSL8N2GS6EL',
     '2020-10-21': 'Pope Francis expresses support for same-sex civil unions, marking one of the first occassions the Roman Catholic Church has spoken in recognition of LGBTQ people https://www.nytimes.com/2020/10/21/world/europe/pope-francis-same-sex-civil-unions.html',
+    '2021-11-24': 'Germany enacts self-ID law, ban on conversion therapy, repeal of restrictions on gay/bi men donating blood, and reparations for trans victims of forced sterilization https://www.queer.de/detail.php?article_id=40546',
 }
 
 # NOTE: must fit in a tweet, so not longer than this line or max of 287 characters ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
