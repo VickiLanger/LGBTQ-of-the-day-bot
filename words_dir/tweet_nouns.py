@@ -265,7 +265,7 @@ nouns = [
     'water buffalo',
     'water moccasin',
     'whale 🐋',
-    'wildebeast',
+    'wildebeest',
     'wolf 🐺',
     'wolverine',
     'wombat',
@@ -756,7 +756,7 @@ nouns = [
     'walkman',
     'floppy disk',
     'keypad phone',
-    'ink quil',
+    'ink quill',
     'post card',
     'TV guide',
 
@@ -1097,5 +1097,5 @@ nouns = [
     'guncle',
     '@freetompros stp prosthetic',
     'hastily rented uHaul',
-    'horomone subsciption service',
+    'hormone subscription service',
 ]
