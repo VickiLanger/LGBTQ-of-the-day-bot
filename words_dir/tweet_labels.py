@@ -46,7 +46,7 @@ labels = {
     'androgynous': 'A wide category of gender-expression that either mixes masculine and feminine markers  or omits them entirely.',
     'bigender': 'A person with two distinct gender identities, either at the same time or at different times.',
     'cisgender': 'Having a gender identity which matches the sex one was assigned at birth; or, pertaining to such people.',
-    'cis by default': 'A person who identifies as their assigned gender because that\'s how they\'ve been identifying since birth and never had a reason to identify differently',
+    'cis by default': 'A person who identifies as their assigned gender and feels no dysphoria, they therefore feel no need to put in the work necessary to transition, even though they would feel just as euphoric identifying as another gender.',
     'demiboy': 'A person who identifies as partially, but not completely male.',
     'demigirl': 'A person who identifies as partially, but not completely female.',
     'enby': 'Non-binary, Having a gender identity that is not male or female, or a person who is Non-binary',
