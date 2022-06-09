@@ -83,6 +83,8 @@ labels = {
     'panromantic': 'Romantically attracted to people regardless of sex or gender identity.',
     'polyromantic': 'Romantically attracted to multiple, but not all genders.',
     'queerplatonic': 'any relationship that bends the rules for telling apart romantic relationships from non-romantic relationship',
+    'quoiromantic': 'aka WTFromantic. A term to describe a person on the aromantic spectrum who does not see the lines between romance and friendship. Other definitions include: having emotions between platonic and romantic attraction.',
+    'WTFromantic': 'aka quoiromantic. A term to describe a person on the aromantic spectrum who does not see the lines between romance and friendship. Other definitions include: having emotions between platonic and romantic attraction.',
 
 
     # subculture labels?
