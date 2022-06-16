@@ -141,6 +141,7 @@ events = {
     '2010-07-15': 'Argentina legalises gay marriage. https://www.thehindu.com/news/international/Argentina-legalises-gay-marriage/article16197744.ece',
     '2011-05-05': 'Same-sex stable union is now legal in Brazil. https://en.wikipedia.org/wiki/LGBT_rights_in_Brazil',
     '2011-09-20': 'Repeal of DADT. https://www.americanprogress.org/issues/lgbtq-rights/reports/2012/09/20/38764/the-repeal-of-dont-ask-dont-tell-1-year-later/',
+    '2012-04-29': 'Tokyo throws it\'s first Rainbow Pride \n\n https://gladxx.jp/features/2012/scene/2284.html',
     '2012-05-09': 'In an ABC interview, Obama becomes the first sitting US president to publicly support the freedom for LGBTQ couples to marry. https://www.cnn.com/2012/05/09/politics/obama-same-sex-marriage/',
     '2012-06-15': 'Same-sex marriage became legal in Denmark. https://en.wikipedia.org/wiki/LGBT_rights_in_Denmark#Recognition_of_same-sex_relationships',
     '2012-09-30': 'California bans gay "conversion" therapy for minors. https://www.reuters.com/article/us-california-gaytherapy-idUSBRE88T0DR20120930',
@@ -187,6 +188,7 @@ events = {
 
     # 2020s
     '2020-02-12': 'New Jersey residents can now change the gender marker on a driver\'s license without a note from a doctor. https://www.northjersey.com/story/news/new-jersey/2020/02/12/nj-mvc-allow-gender-designation-changes-without-doctors-note/4738926002/',
+    '2020-03-04': 'Tokyo High Court ruled that cohabiting same-sex couples should be entitled to the same legal benefits as those granted to cohabiting heterosexual couples. https://www.nippon.com/en/news/yjj2021031900783/',
     '2020-05-08': 'Maryland repealed its sodomy law. https://www.billtrack50.com/BillDetail/1166637',
     '2020-05-26': 'Costa Rica becomes the first country in Central America to legalize same-sex marriage. https://www.cnn.com/2020/05/26/americas/costa-rica-legalizes-same-sex-marriage-trnd/index.html',
     '2020-06-15': 'The Supreme Court rules that federal law protects LGBTQ workers from discrimination. https://www.cnn.com/2020/06/15/politics/supreme-court-lgbtq-employment-case/index.html',
@@ -195,6 +197,7 @@ events = {
     '2020-10-01': 'Petra De Sutter becomes Europe\'s first transgender deputy prime minister, and the most senior trans politician in Europe. https://www.reuters.com/article/idUSL8N2GS6EL',
     '2020-10-21': 'Pope Francis expresses support for same-sex civil unions, marking one of the first occassions the Roman Catholic Church has spoken in recognition of LGBTQ people https://www.nytimes.com/2020/10/21/world/europe/pope-francis-same-sex-civil-unions.html',
     '2021-11-24': 'Germany enacts self-ID law, ban on conversion therapy, repeal of restrictions on gay/bi men donating blood, and reparations for trans victims of forced sterilization https://www.queer.de/detail.php?article_id=40546',
+    '2021-03-17': 'A district court in Sapporo, Japan ruled that laws that deprive same-sex couples of the right to marry violate the Constitution of Japan. https://www.nytimes.com/2021/03/17/world/asia/japan-gay-marriage.html',
 }
 
 # NOTE: must fit in a tweet, so not longer than this line or max of 287 characters ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
