@@ -54,7 +54,7 @@ events = {
 
     '1945-02-20': 'First appearance of "bisexual" in the Congressional Record. https://ucsd.libguides.com/lgbtdocs/timeline',
     '1947-06-01': 'Lisa Ben publishes "Vice Versa", the earliest known US periodical published especially for lesbians. https://en.wikipedia.org/wiki/Vice_Versa_(magazine)',
-    #'1948-03-01': 'Alfred Kinsey publishes "Sexual Behavior in the Human Male," concluding that homosexual behavior is not restricted to those identifying as homosexual and 37% of men have enjoyed homosexual activities at least once. https://www.pbs.org/wgbh/americanexperience/features/stonewall-milestones-american-gay-rights-movement/', # 54 characters too long / should be 287 max
+    '1948-03-01': 'Alfred Kinsey publishes "Sexual Behavior in the Human Male," Kinsey proposes that sexual orientation lies on a continuum \n https://kinseyinstitute.org/research/publications/historical-report-diversity-of-sexual-orientation.php', 
 
     # 1950s
     '1950-11-11': 'The Mattachine Society was founded. https://en.wikipedia.org/wiki/Mattachine_Society',
@@ -165,10 +165,10 @@ events = {
     '2016-06-30': 'Secretary of Defense Carter announces that the Pentagon is lifting the ban on transgender people serving openly in the US military. https://www.cnn.com/2016/06/30/politics/transgender-ban-lifted-us-military/',
     '2016-08-05': 'There were a record number of "out" athletes in Summer Olympic Games in Rio de Janeiro. @HRC estimates there were at least 41 openly lesbian, gay and bisexual Olympians -- up from 23 in London 2012 olympics. edition.cnn.com/2016/08/11/sport/rio-2016-lgbt-olympians',
     '2016-09-16': 'Lilly Singh became the first late-night host to ever publicly identify as bisexual. https://en.wikipedia.org/wiki/A_Little_Late_with_Lilly_Singh',
-    #'2016-11-09': 'Kate Brown is sworn in as governor of Oregon, a day after she was officially elected to the office. Brown becomes the highest-ranking LGBTQ person elected to office in the United States. npr.org/sections/thetwo-way/2016/11/09/501338927/for-first-time-openly-lgbt-governor-elected-oregons-kate-brown', # 34 characters too long / should be 287 max
+    '2016-11-09': 'Kate Brown is sworn in as governor of Oregon, becoming the highest-ranking LGBTQ person elected to office in the United States. npr.org/sections/thetwo-way/2016/11/09/501338927/for-first-time-openly-lgbt-governor-elected-oregons-kate-brown',
     '2016-12-30': 'India opens first school for transgender pupils in the city of Kochi. https://www.bbc.com/news/world-asia-india-38470192',
     '2017-06-27': 'District of Columbia residents can now choose a gender-neutral option on their driver\'s license. https://www.cnn.com/2017/06/27/health/washington-gender-neutral-drivers-license/index.html',
-    #'2017-11-07': 'Virginia voters elect the state\'s first openly transgender candidate to the Virginia House of Delegates. Danica Roem unseats incumbent delegate Bob Marshall, who had been elected 13 times over 26 years. cnn.com/2017/11/07/politics/danica-roem-virginia-transgender/index.html', # 10 characters too long / should be 287 max
+    '2017-11-07': 'Virginia voters elect Danica Roem the state\'s first openly transgender candidate to the Virginia House of Delegates. Unseatsing incumbent delegate Bob Marshall. cnn.com/2017/11/07/politics/danica-roem-virginia-transgender/index.html',
     '2017-12-09': 'On this day Australia legalised same-sex marriage. https://en.wikipedia.org/wiki/LGBT_rights_in_Australia',
     '2018-02-26': 'The Pentagon confirms that the first transgender person has signed a contract to join the US military. https://www.cnn.com/2018/02/26/politics/first-transgender-recruit-join-us-military/index.html',
     '2018-03-01': 'Transgender folks have the right to change their official name & sex without the need of surgery or professional evaluation in Brazil. en.wikipedia.org/wiki/Transgender_rights_in_Brazil',
