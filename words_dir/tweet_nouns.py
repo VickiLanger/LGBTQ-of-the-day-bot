@@ -1052,27 +1052,27 @@ nouns = [
     'wicket',
 
     # fashion trends
-    'tight-rolled pant legs',
     'asymmetrical undercut',
-    'septum piercing',
-    'rolled pant legs',
-    'folded shirt sleeve',
-    'cuffed jeans',
-    'oversized jeans',
-    'ripped stockings',
-    'pair of faux fur sandals',
-    'bucket hats',
     'baggy pair of trousers',
+    'bucket hats',
+    'cuffed jeans',
+    'folded shirt sleeve',
+    'oversized jeans',
+    'pair of faux fur sandals',
+    'ripped stockings',
+    'rolled pant legs',
+    'septum piercing',
+    'tight-rolled pant legs',
 
-    # ridiculous purposefully misspelled aminals
-    'snek',   # snake
-    'danger noodle',  # snake
+    # ridiculous purposefully misspelled animals
     'barkly loaf',  # corgi
-    'water sausage',  # otter
-    'kitteh',  # kitty
-    'speed sausage',  # corgi
+    'danger noodle',  # snake
     'doggo 🐶',  # dog
+    'kitteh',  # kitty
     'pupper 🐶',  # puppy
+    'snek',   # snake
+    'speed sausage',  # corgi
+    'water sausage',  # otter
 
     # queer things
     '@autostraddle article',
