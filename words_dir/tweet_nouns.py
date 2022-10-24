@@ -327,7 +327,7 @@ nouns = [
     'spider 🕷',
     'snail',
     'termite',
-    'wasp'
+    'wasp',
 
     # clothing items
     'apron',
@@ -462,6 +462,7 @@ nouns = [
     'blueberry',
     'bok choy',
     'bologna',
+    'borscht',
     'boysenberry',
     'bread🍞',
     'brioche',
@@ -1010,6 +1011,7 @@ nouns = [
     'archery target',
     'badminton net',
     'badminton racket',
+    'ball',
     'barbell',
     'baseball field',
     'basketball',
