@@ -53,6 +53,7 @@ adjectives = [
     'hilarious',
     'honest',
     'horny',
+    'iridescent',
     'jocose',
     'jocular',
     'judicious',
@@ -105,6 +106,7 @@ adjectives = [
     'crusty',
     'damp',
     'delicate',
+    'diaphanous',
     'dry',
     'dusty',
     'encrusted',
@@ -149,6 +151,7 @@ adjectives = [
     'ethereal',
     'exhausted',
     'femme',
+    'fierce',
     'flawless',
     'glamorous',
     'glowing',
@@ -183,6 +186,7 @@ adjectives = [
     'deep',
     'flat',
     'fluffy',
+    'gaunt',
     'oval',
     'phat',
     'rotund',
@@ -216,6 +220,7 @@ adjectives = [
     'sugary',
     'sweet',
     'tangy',
+    'tart',
     'yummy',
 
     # sounds
@@ -260,6 +265,7 @@ adjectives = [
     'roaring',
     'rowdy',
     'rumbling',
+    'sharp',
     'shrill',
     'soft',
     'sonorous',
@@ -388,6 +394,7 @@ adjectives = [
     'orangish',
     'orchid',
     'peach',
+    'pink',
     'really dark black',
     'rosy',
     'royal',
@@ -447,12 +454,13 @@ adjectives = [
     'windy',
 
     # adverb and adjective pairs
+    'fast asleep',
+    'gently curious',
     'perfectly splendid',
+    'quietly cautious',
     'very similar',
     'well aware',
-    'fast asleep',
-    'quietly cautious',
-    'gently curious',
+    'wide awake',
 
     # character traits
     'affable',
