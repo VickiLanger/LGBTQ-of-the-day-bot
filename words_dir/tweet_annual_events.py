@@ -37,6 +37,7 @@ events = {
     '04-26': 'Lesbian Visibility Day 🤎🧡🤍💖',  # https://www.queerevents.ca/notable-lgbtq-dates#lesbianvisibilityday
 
     # May
+    '05-08': 'The birthday of Tom of Finland (1920–91), often called Finland\'s most famous artist globally. \n #TomOfFinlandDay' # https://finland.fi/arts-culture/tom-of-finland-and-idahotb-both-continue-to-contribute-to-pride-and-acceptance/
     '05-17': 'International Day Against Homophobia, Transphobia, and Biphobia 🖤🤎🏳️‍️⚧️❤🧡💛💚💙💜',  # https://may17.org/
     '05-19': 'Agender Pride Day  🖤🤍💚🤍🖤',  # https://www.northshorepride.org/event/agender-pride-day/
     '05-22': 'Harvey Milk Day \n#HarveyMilkDay #HMD',  # https://www.northshorepride.org/event/harvey-milk-day/
