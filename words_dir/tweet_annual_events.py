@@ -43,7 +43,7 @@ events = {
     '05-19': 'Agender Pride Day  🖤🤍💚🤍🖤',  # https://www.northshorepride.org/event/agender-pride-day/
     '05-22': 'Harvey Milk Day \n#HarveyMilkDay #HMD',  # https://www.northshorepride.org/event/harvey-milk-day/
     '05-24': 'Pansexual and Panromantic Awareness and Visibility Day 💖💛💙',  # https://lgbt.foundation/news/5-things-you-should-know-on-pansexual-visibility-day/161
-    '05-30': 'Christine Jorgensen was an American trans woman who was the first person to become widely known for having sex reassignment surgery.', # https://en.wikipedia.org/wiki/Christine_Jorgensen
+    '05-30': 'Christine Jorgensen was an American trans woman who was the first person to become widely known for having sex reassignment surgery. \n #ChristineJorgensenDay', # https://en.wikipedia.org/wiki/Christine_Jorgensen
 
     # June
     '06-12': 'Pulse Night of Remembrance',  # https://www.northshorepride.org/event/pulse-night-of-remembrance/
