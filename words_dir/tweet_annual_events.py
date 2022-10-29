@@ -34,11 +34,11 @@ events = {
 
     # April
     '04-06': 'International Asexuality Day 🖤💜🤍 \n#InternationalAceDay',  # https://internationalasexualityday.org/en/
-    '04-15': 'Leonardo da Vinci was an Italian polymath of the High Renaissance. \n #LeonardodaVinciDay' # https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+    '04-15': 'Leonardo da Vinci was an Italian polymath of the High Renaissance. \n #LeonardodaVinciDay', # https://en.wikipedia.org/wiki/Leonardo_da_Vinci
     '04-26': 'Lesbian Visibility Day 🤎🧡🤍💖',  # https://www.queerevents.ca/notable-lgbtq-dates#lesbianvisibilityday
 
     # May
-    '05-08': 'The birthday of Tom of Finland (1920–91), often called Finland\'s most famous artist globally. \n #TomOfFinlandDay' # https://finland.fi/arts-culture/tom-of-finland-and-idahotb-both-continue-to-contribute-to-pride-and-acceptance/
+    '05-08': 'The birthday of Tom of Finland (1920–91), often called Finland\'s most famous artist globally. \n #TomOfFinlandDay', # https://finland.fi/arts-culture/tom-of-finland-and-idahotb-both-continue-to-contribute-to-pride-and-acceptance/
     '05-17': 'International Day Against Homophobia, Transphobia, and Biphobia 🖤🤎🏳️‍️⚧️❤🧡💛💚💙💜',  # https://may17.org/
     '05-19': 'Agender Pride Day  🖤🤍💚🤍🖤',  # https://www.northshorepride.org/event/agender-pride-day/
     '05-22': 'Harvey Milk Day \n#HarveyMilkDay #HMD',  # https://www.northshorepride.org/event/harvey-milk-day/
@@ -46,14 +46,15 @@ events = {
 
     # June
     '06-12': 'Pulse Night of Remembrance',  # https://www.northshorepride.org/event/pulse-night-of-remembrance/
-    '06-20': 'Edith "Edie" Windsor was an American LGBT rights activist and a technology manager at IBM. \n #EdithWindsorDay' # https://en.wikipedia.org/wiki/Edith_Windsor
+    '06-20': 'Edith "Edie" Windsor was an American LGBT rights activist and a technology manager at IBM. \n #EdithWindsorDay', # https://en.wikipedia.org/wiki/Edith_Windsor
     '06-23': 'Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. \n #AlanTuringDay', # https://en.wikipedia.org/wiki/Alan_Turing
 
     # July
     '07-14': 'International Non-Binary People\'s Day 💛🤍💜🖤',  # https://en.wikipedia.org/wiki/International_Non-Binary_People%27s_Day
+    '07-31': 'Barbara Gittings was a prominent American activist for LGBT equality. \n #BarbaraGittingsDay', # https://en.wikipedia.org/wiki/Barbara_Gittings
 
     # August
-    '08-12': 'Maureen Morfydd Colquhoun was British economist and Labour politician. She was Britain\'s first openly lesbian member of Parliament (MP). \n #MaureenColquhounDay' # https://en.wikipedia.org/wiki/Maureen_Colquhoun
+    '08-12': 'Maureen Morfydd Colquhoun was British economist and Labour politician. She was Britain\'s first openly lesbian member of Parliament (MP). \n #MaureenColquhounDay', # https://en.wikipedia.org/wiki/Maureen_Colquhoun
     '08-14': 'Gay Uncles Day \n #GayUnclesDay',  # https://en.wikipedia.org/wiki/Gay_Uncles_Day 
     '08-29': 'Brazilian National Lesbian Day of Visibility', #https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
 
