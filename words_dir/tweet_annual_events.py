@@ -34,6 +34,7 @@ events = {
 
     # April
     '04-06': 'International Asexuality Day 🖤💜🤍 \n#InternationalAceDay',  # https://internationalasexualityday.org/en/
+    '04-15': 'Leonardo da Vinci was an Italian polymath of the High Renaissance. \n #LeonardodaVinciDay' # https://en.wikipedia.org/wiki/Leonardo_da_Vinci
     '04-26': 'Lesbian Visibility Day 🤎🧡🤍💖',  # https://www.queerevents.ca/notable-lgbtq-dates#lesbianvisibilityday
 
     # May
