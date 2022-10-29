@@ -45,8 +45,8 @@ events = {
 
     # June
     '06-12': 'Pulse Night of Remembrance',  # https://www.northshorepride.org/event/pulse-night-of-remembrance/
+    '06-20': 'Edith "Edie" Windsor was an American LGBT rights activist and a technology manager at IBM. \n #EdithWindsorDay' # https://en.wikipedia.org/wiki/Edith_Windsor
     '06-23': 'Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. \n #AlanTuringDay', # https://en.wikipedia.org/wiki/Alan_Turing
-
 
     # July
     '07-14': 'International Non-Binary People\'s Day 💛🤍💜🖤',  # https://en.wikipedia.org/wiki/International_Non-Binary_People%27s_Day
