@@ -24,7 +24,7 @@ Vicki Langer (@vicki_langer)
 
 events = {
     # January
-    '01-20': 'Lynn Ann Conwayis an American computer scientist, electrical engineer and transgender activist. \n #LynnConwayDay', # https://en.wikipedia.org/wiki/Lynn_Conway
+    '01-20': 'Lynn Ann Conway is an American computer scientist, electrical engineer and transgender activist. \n #LynnConwayDay', # https://en.wikipedia.org/wiki/Lynn_Conway
     '01-29': 'Brazilian National Transgender Day of Visibility 🏳️‍️⚧️', #https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
 
     # February
