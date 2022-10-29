@@ -52,6 +52,7 @@ events = {
     '07-14': 'International Non-Binary People\'s Day 💛🤍💜🖤',  # https://en.wikipedia.org/wiki/International_Non-Binary_People%27s_Day
 
     # August
+    '08-12': 'Maureen Morfydd Colquhoun was British economist and Labour politician. She was Britain\'s first openly lesbian member of Parliament (MP). \n #MaureenColquhounDay' # https://en.wikipedia.org/wiki/Maureen_Colquhoun
     '08-14': 'Gay Uncles Day \n #GayUnclesDay',  # https://en.wikipedia.org/wiki/Gay_Uncles_Day 
     '08-29': 'Brazilian National Lesbian Day of Visibility', #https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
 
