@@ -44,8 +44,9 @@ events = {
     '05-24': 'Pansexual and Panromantic Awareness and Visibility Day 💖💛💙',  # https://lgbt.foundation/news/5-things-you-should-know-on-pansexual-visibility-day/161
 
     # June
-    '06-23': 'Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. \n #AlanTuringDay' # https://en.wikipedia.org/wiki/Alan_Turing
     '06-12': 'Pulse Night of Remembrance',  # https://www.northshorepride.org/event/pulse-night-of-remembrance/
+    '06-23': 'Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. \n #AlanTuringDay', # https://en.wikipedia.org/wiki/Alan_Turing
+
 
     # July
     '07-14': 'International Non-Binary People\'s Day 💛🤍💜🖤',  # https://en.wikipedia.org/wiki/International_Non-Binary_People%27s_Day
@@ -67,7 +68,7 @@ events = {
     # October
     '10-08': 'International Lesbian Day 🤎🧡🤍💖',  # https://en.wikipedia.org/wiki/List_of_LGBT_awareness_periods
     '10-11': 'National Coming Out Day 🚪',  # http://www.hrc.org/resources/the-history-of-coming-out
-    '10-16': 'Oscar Fingal O\'Flahertie Wills Wilde was an Irish poet and playwright. \n #OscarWildeDay' # https://en.wikipedia.org/wiki/Oscar_Wilde
+    '10-16': 'Oscar Fingal O\'Flahertie Wills Wilde was an Irish poet and playwright. \n #OscarWildeDay', # https://en.wikipedia.org/wiki/Oscar_Wilde
     '10-20': 'Intersex Awareness Day 💛💜',  # http://intersexday.org/en/intersex-awareness-day/
     '10-22': 'Asexual Awareness Week 🖤💜🤍',  # http://www.asexualawarenessweek.com/index.html
     '10-23': 'Asexual Awareness Week 🖤💜🤍',  # http://www.asexualawarenessweek.com/index.html
