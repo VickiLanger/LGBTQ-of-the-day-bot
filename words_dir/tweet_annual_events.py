@@ -24,6 +24,7 @@ Vicki Langer (@vicki_langer)
 
 events = {
     # January
+    '01-20': 'Lynn Ann Conway is an American computer scientist, electrical engineer and transgender activist. \n #LynnConwayDay', # https://en.wikipedia.org/wiki/Lynn_Conway
     '01-29': 'Brazilian National Transgender Day of Visibility 🏳️‍️⚧️', #https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
 
     # February
@@ -34,23 +35,29 @@ events = {
 
     # April
     '04-06': 'International Asexuality Day 🖤💜🤍 \n#InternationalAceDay',  # https://internationalasexualityday.org/en/
+    '04-15': 'Leonardo da Vinci was an Italian polymath of the High Renaissance. \n #LeonardodaVinciDay', # https://en.wikipedia.org/wiki/Leonardo_da_Vinci
     '04-26': 'Lesbian Visibility Day 🤎🧡🤍💖',  # https://www.queerevents.ca/notable-lgbtq-dates#lesbianvisibilityday
 
     # May
-    '05-08': 'The birthday of Tom of Finland (1920–91), often called Finland\'s most famous artist globally. \n #TomOfFinlandDay' # https://finland.fi/arts-culture/tom-of-finland-and-idahotb-both-continue-to-contribute-to-pride-and-acceptance/
+    '05-08': 'The birthday of Tom of Finland (1920–91), often called Finland\'s most famous artist globally. \n #TomOfFinlandDay', # https://finland.fi/arts-culture/tom-of-finland-and-idahotb-both-continue-to-contribute-to-pride-and-acceptance/
     '05-17': 'International Day Against Homophobia, Transphobia, and Biphobia 🖤🤎🏳️‍️⚧️❤🧡💛💚💙💜',  # https://may17.org/
     '05-19': 'Agender Pride Day  🖤🤍💚🤍🖤',  # https://www.northshorepride.org/event/agender-pride-day/
     '05-22': 'Harvey Milk Day \n#HarveyMilkDay #HMD',  # https://www.northshorepride.org/event/harvey-milk-day/
     '05-24': 'Pansexual and Panromantic Awareness and Visibility Day 💖💛💙',  # https://lgbt.foundation/news/5-things-you-should-know-on-pansexual-visibility-day/161
+    '05-30': 'Christine Jorgensen was an American trans woman who was the first person to become widely known for having sex reassignment surgery. \n #ChristineJorgensenDay', # https://en.wikipedia.org/wiki/Christine_Jorgensen
 
     # June
     '06-12': 'Pulse Night of Remembrance',  # https://www.northshorepride.org/event/pulse-night-of-remembrance/
+    '06-20': 'Edith "Edie" Windsor was an American LGBT rights activist and a technology manager at IBM. \n #EdithWindsorDay', # https://en.wikipedia.org/wiki/Edith_Windsor
+    '06-23': 'Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. \n #AlanTuringDay', # https://en.wikipedia.org/wiki/Alan_Turing
 
     # July
     '07-14': 'International Non-Binary People\'s Day 💛🤍💜🖤',  # https://en.wikipedia.org/wiki/International_Non-Binary_People%27s_Day
+    '07-31': 'Barbara Gittings was a prominent American activist for LGBT equality. \n #BarbaraGittingsDay', # https://en.wikipedia.org/wiki/Barbara_Gittings
 
     # August
-    '08-2U': 'Gay Uncles Day',  # https://www.today.com/parents/gay-uncles-day-2020-how-being-guncle-changed-my-perception-t188917
+    '08-12': 'Maureen Morfydd Colquhoun was British economist and Labour politician. She was Britain\'s first openly lesbian member of Parliament (MP). \n #MaureenColquhounDay', # https://en.wikipedia.org/wiki/Maureen_Colquhoun
+    '08-14': 'Gay Uncles Day \n #GayUnclesDay',  # https://en.wikipedia.org/wiki/Gay_Uncles_Day 
     '08-29': 'Brazilian National Lesbian Day of Visibility', #https://justica.sp.gov.br/index.php/coordenacoes-e-programas/coordenacao-de-politicas-para-a-diversidade-sexual/calendario-de-datas-afirmativas/
 
     # September
@@ -66,6 +73,7 @@ events = {
     # October
     '10-08': 'International Lesbian Day 🤎🧡🤍💖',  # https://en.wikipedia.org/wiki/List_of_LGBT_awareness_periods
     '10-11': 'National Coming Out Day 🚪',  # http://www.hrc.org/resources/the-history-of-coming-out
+    '10-16': 'Oscar Fingal O\'Flahertie Wills Wilde was an Irish poet and playwright. \n #OscarWildeDay', # https://en.wikipedia.org/wiki/Oscar_Wilde
     '10-20': 'Intersex Awareness Day 💛💜',  # http://intersexday.org/en/intersex-awareness-day/
     '10-22': 'Asexual Awareness Week 🖤💜🤍',  # http://www.asexualawarenessweek.com/index.html
     '10-23': 'Asexual Awareness Week 🖤💜🤍',  # http://www.asexualawarenessweek.com/index.html
