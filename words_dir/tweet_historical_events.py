@@ -193,6 +193,7 @@ events = {
     '2018-02-26': 'The Pentagon confirms that the first transgender person has signed a contract to join the US military. https://www.cnn.com/2018/02/26/politics/first-transgender-recruit-join-us-military/index.html',
     '2018-03-01': 'Transgender folks have the right to change their official name & sex without the need of surgery or professional evaluation in Brazil. en.wikipedia.org/wiki/Transgender_rights_in_Brazil',
     '2018-03-23': 'The Trump administration announces a new policy that bans transgender people from serving in the military. After several court battles, the Supreme Court allows the ban to go into effect in January 2019 cnn.com/2018/03/23/politics/transgender-white-house/index.html',
+    '2018-06-18': 'WHO no longer classifies being transgender as a mental illness. https://eu.usatoday.com/story/news/2018/06/20/transgender-not-mental-illness-world-health-organization/717758002/',
     '2018-09-06': 'The Supreme Court of India decriminalized Section 377 making gay sex legal. https://timesofindia.indiatimes.com/topic/same-sex-marriage',
     '2018-11-06': 'Democratic US Representative Jared Polis wins the Colorado governor\'s race, becoming the nation\'s first openly gay man to be elected governor. https://www.cnn.com/2018/11/06/politics/jared-polis-colorado-gay-governor/index.html',
     '2019-01-22': 'After over 30 months of transgender troops serving openly in the US, the US Supreme Court allows Trump restrictions on transgender troops. https://www.npr.org/2019/01/22/687368145/supreme-court-revives-trumps-ban-on-transgender-military-personnel-for-now',
@@ -201,7 +202,6 @@ events = {
     '2019-05-17': 'Same-sex marriage was legalized in Taiwan and became effective since 24 May 2019, including rights in areas such as taxes, insurance, and child custody. https://en.wikipedia.org/wiki/LGBT_history_in_Taiwan',
     '2019-05-25': 'Transgender no longer recognized as "disorder" by WHO. https://time.com/5596845/world-health-organization-transgender-identity/',
     '2019-06-13': 'Discrimination on the basis of sexual orientation and gender identity became a crime in Brazil. https://en.wikipedia.org/wiki/LGBT_rights_in_Brazil',
-    '2018-06-18': 'WHO no longer classifies being transgender as a mental illness. https://eu.usatoday.com/story/news/2018/06/20/transgender-not-mental-illness-world-health-organization/717758002/',
     '2019-09-22': 'Billy Porter becomes the first openly gay black man to win the Emmy for best lead actor in a drama series. https://www.cnn.com/2019/09/22/entertainment/billy-porter-first-openly-gay-black-actor-emmy/index.html',
     '2019-09-25': 'Angelica Ross became the first openly transgender person to host an American presidential forum. https://en.wikipedia.org/wiki/Angelica_Ross',
     '2019-11-08': 'Kerala hosts India\'s first-ever trans art festival. https://www.newindianexpress.com/states/kerala/2019/sep/20/kerala-to-host-indias-first-ever-trans-art-festival-2036485.html',
@@ -272,7 +272,10 @@ events = {
     '2022-10-04': ' In Slovenia, the parliament allowed same-sex marriages. The parliament vote came after a supreme-court decision from July 8, which allowed same-sex marriages. https://www.queer.de/detail.php?article_id=43413',
     '2022-10-11': 'The congress of Mexico\'s most populous state, State of Mexico, voted overwhelmingly to legally recognize same-sex marriage, becoming the 29th of Mexico\'s 32 states to do so https://www.openlynews.com/i/?id=00febef4-acfb-4d42-a0c1-7d7c96e9a101',
     '2022-12-12': 'High Court in Barbados to strikes down the country’s colonial-era gross indecency and buggery laws that criminalised consensual same-sex relations. https://www.equaldex.com/region/barbados',
-    '2022-12-13': 'United States President Joe Biden signed the Respect for Marriage Act, officially codifying into federal law the right to marriage for same-sex couples. https://www.presidency.ucsb.edu/documents/what-they-are-saying-president-biden-signs-the-respect-for-marriage-act'
+    '2022-12-13': 'United States President Joe Biden signed the Respect for Marriage Act, officially codifying into federal law the right to marriage for same-sex couples. https://www.presidency.ucsb.edu/documents/what-they-are-saying-president-biden-signs-the-respect-for-marriage-act',
+    '2023-02-05': 'LGBT Brazilians compete in the country’s first drag king contest.  https://www.usnews.com/news/world/articles/2023-02-07/lgbt-brazilians-compete-in-countrys-first-drag-king-contest',
+    '2023-02-24': 'Kenya’s Supreme Court ruled in favour of The National Gay and Lesbian Human Rights Commission (NGLHRC) that has been fighting to be registered as a non-governmental organisation (NGO). https://www.bbc.com/news/world-africa-64491276',
+    '2023-03-21': 'Uganda passed a bill that criminalizes identifying as LGBTQ and imposes death penalty for "aggravated homosexuality". https://time.com/6265593/uganda-parliament-gay-lgbtq-law/',
 }
 
 # NOTE: must fit in a tweet, so not longer than this line or max of 287 characters ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
