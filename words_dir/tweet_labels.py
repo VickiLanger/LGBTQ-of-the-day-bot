@@ -87,7 +87,16 @@ labels = {
     'WTFromantic': 'aka quoiromantic. A term to describe a person on the aromantic spectrum who does not see the lines between romance and friendship. Other definitions include: having emotions between platonic and romantic attraction.',
 
 
-    # subculture labels?
+    # subculture labels
+  "Bear": "A subculture within the LGBTQ community, typically characterized by larger, hairy, and masculine-presenting men",
+  "Leather": "A subculture within the LGBTQ community that is centered around leather, fetishism, and BDSM practices",
+  "Butch": "A term used to describe a person, usually a lesbian, who presents themselves as masculine or androgynous",
+  "Stone Butch": "A term used to describe a person, usually a lesbian, who presents themselves as masculine and does not engage in receptive sexual activity",
+  "Femme": "A term used to describe a person, usually a lesbian, who presents themselves as feminine",
+  "Transgender": "An umbrella term used to describe individuals whose gender identity or expression differs from their assigned sex at birth",
+  "Gender Non-Conforming": "An umbrella term used to describe individuals who do not conform to traditional societal expectations of gender expression",
+  "Non-Binary": "An umbrella term used to describe individuals who identify as neither solely male nor solely female",
+
     # NOTE: must make sense in "{adjective} {label} {noun}" (example: tiny [somelabel] book)
     'baby dyke': 'A young, sometimes inexperienced lesbian.',
     'baby queer': 'A young, sometimes inexperienced queer person.',

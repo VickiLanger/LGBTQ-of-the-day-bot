@@ -271,9 +271,11 @@ events = {
     '2022-10-01': 'In Latvia first civil unions for sames-sex couples were allowed by latvian courts. https://www.baltictimes.com/court_recognizes_another_same-sex_couple_as_legitimate_family/',
     '2022-10-04': ' In Slovenia, the parliament allowed same-sex marriages. The parliament vote came after a supreme-court decision from July 8, which allowed same-sex marriages. https://www.queer.de/detail.php?article_id=43413',
     '2022-10-11': 'The congress of Mexico\'s most populous state, State of Mexico, voted overwhelmingly to legally recognize same-sex marriage, becoming the 29th of Mexico\'s 32 states to do so https://www.openlynews.com/i/?id=00febef4-acfb-4d42-a0c1-7d7c96e9a101',
-    '2023-02-05': 'LGBT Brazilians compete in the country’s first drag king contest.  https://www.usnews.com/news/world/articles/2023-02-07/lgbt-brazilians-compete-in-countrys-first-drag-king-contest'
-    '2023-02-24': 'Kenya’s Supreme Court ruled in favour of The National Gay and Lesbian Human Rights Commission (NGLHRC) that has been fighting to be registered as a non-governmental organisation (NGO). https://www.bbc.com/news/world-africa-64491276'
-    '2023-03-21': 'Uganda passed a bill that criminalizes identifying as LGBTQ and imposes death penalty for "aggravated homosexuality". https://time.com/6265593/uganda-parliament-gay-lgbtq-law/'
+    '2022-12-12': 'High Court in Barbados to strikes down the country’s colonial-era gross indecency and buggery laws that criminalised consensual same-sex relations. https://www.equaldex.com/region/barbados',
+    '2022-12-13': 'United States President Joe Biden signed the Respect for Marriage Act, officially codifying into federal law the right to marriage for same-sex couples. https://www.presidency.ucsb.edu/documents/what-they-are-saying-president-biden-signs-the-respect-for-marriage-act',
+    '2023-02-05': 'LGBT Brazilians compete in the country’s first drag king contest.  https://www.usnews.com/news/world/articles/2023-02-07/lgbt-brazilians-compete-in-countrys-first-drag-king-contest',
+    '2023-02-24': 'Kenya’s Supreme Court ruled in favour of The National Gay and Lesbian Human Rights Commission (NGLHRC) that has been fighting to be registered as a non-governmental organisation (NGO). https://www.bbc.com/news/world-africa-64491276',
+    '2023-03-21': 'Uganda passed a bill that criminalizes identifying as LGBTQ and imposes death penalty for "aggravated homosexuality". https://time.com/6265593/uganda-parliament-gay-lgbtq-law/',
 }
 
 # NOTE: must fit in a tweet, so not longer than this line or max of 287 characters ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
