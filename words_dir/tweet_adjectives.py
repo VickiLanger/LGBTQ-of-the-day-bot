@@ -129,6 +129,7 @@ adjectives = [
     'slippery',
     'smooth',
     'sticky',
+    'squishy',
     'tender',
     'tight',
     'warm',
