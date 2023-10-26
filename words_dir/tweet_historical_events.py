@@ -121,6 +121,7 @@ events = {
     '1980-06-13': 'First Homosexual Walk in São Paulo Brazil, during military dictatorship. https://pt.wikipedia.org/wiki/Movimentos_civis_LGBT_no_Brasil ',
     '1981-02-05': 'Toronto police execute Operation Soap, raiding four gay bath houses. Community response regarded as Canadian equivalent of the 1969 Stonewall riots, evolving into Toronto Pride Week  https://en.wikipedia.org/wiki/Operation_Soap',
     '1982-03-02': 'Wisconsin becomes the first U.S. state to outlaw discrimination on the basis of sexual orientation. https://en.wikipedia.org/wiki/LGBT_rights_in_Wisconsin',
+    '1987-05-30': 'Barney Frank becomes second openly gay member of Congress. https://en.wikipedia.org/wiki/Barney_Frank',
     '1988-12-01': 'The World Health Organization organizes the first World AIDS Day to raise awareness of the spreading pandemic. https://www.verywellhealth.com/the-history-of-world-aids-day-48717',
     '1989-10-01': 'Denmark becomes the first country to grant registered partnerships to same-sex unions. https://en.wikipedia.org/wiki/LGBT_rights_in_Denmark',
 
