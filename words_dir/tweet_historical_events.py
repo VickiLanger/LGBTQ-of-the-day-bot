@@ -136,6 +136,7 @@ events = {
     '1998-04-01': 'Martin Luther King Jr.\'s widow, Coretta Scott King, asks the civil rights community to help in the effort to extinguish homophobia. https://www.cnn.com/2013/08/23/us/coretta-scott-king-fast-facts/index.html',
 
     # 2000s
+    '2000-07-01': 'Vermont Civil Union Bill Becomes Law https://en.wikipedia.org/wiki/Same-sex_marriage_in_Vermont',
     '2000-12-08': 'The Bundestag officially apologizes to gays and lesbians persecuted under the Nazi regime, and for "harm done to homosexual citizens up to 1969". https://en.wikipedia.org/wiki/LGBT_history_in_Germany',
     '2001-04-01': 'The Netherlands became the first country to legalize same-sex marriages. https://en.wikipedia.org/wiki/Same-sex_marriage_in_the_Netherlands',
     '2004-05-17': 'The first legal same-sex marriage in the United States takes place in Massachusetts. https://www.npr.org/2019/05/17/723649385/the-1st-legally-married-same-sex-couple-wanted-to-lead-by-example',
