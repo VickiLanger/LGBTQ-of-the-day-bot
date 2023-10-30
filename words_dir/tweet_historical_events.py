@@ -121,6 +121,7 @@ events = {
     '1980-06-13': 'First Homosexual Walk in São Paulo Brazil, during military dictatorship. https://pt.wikipedia.org/wiki/Movimentos_civis_LGBT_no_Brasil ',
     '1981-02-05': 'Toronto police execute Operation Soap, raiding four gay bath houses. Community response regarded as Canadian equivalent of the 1969 Stonewall riots, evolving into Toronto Pride Week  https://en.wikipedia.org/wiki/Operation_Soap',
     '1982-03-02': 'Wisconsin becomes the first U.S. state to outlaw discrimination on the basis of sexual orientation. https://en.wikipedia.org/wiki/LGBT_rights_in_Wisconsin',
+    '1987-05-30': 'Barney Frank becomes second openly gay member of Congress. https://en.wikipedia.org/wiki/Barney_Frank',
     '1988-12-01': 'The World Health Organization organizes the first World AIDS Day to raise awareness of the spreading pandemic. https://www.verywellhealth.com/the-history-of-world-aids-day-48717',
     '1989-10-01': 'Denmark becomes the first country to grant registered partnerships to same-sex unions. https://en.wikipedia.org/wiki/LGBT_rights_in_Denmark',
 
@@ -135,6 +136,7 @@ events = {
     '1998-04-01': 'Martin Luther King Jr.\'s widow, Coretta Scott King, asks the civil rights community to help in the effort to extinguish homophobia. https://www.cnn.com/2013/08/23/us/coretta-scott-king-fast-facts/index.html',
 
     # 2000s
+    '2000-07-01': 'Vermont Civil Union Bill Becomes Law https://en.wikipedia.org/wiki/Same-sex_marriage_in_Vermont',
     '2000-12-08': 'The Bundestag officially apologizes to gays and lesbians persecuted under the Nazi regime, and for "harm done to homosexual citizens up to 1969". https://en.wikipedia.org/wiki/LGBT_history_in_Germany',
     '2001-04-01': 'The Netherlands became the first country to legalize same-sex marriages. https://en.wikipedia.org/wiki/Same-sex_marriage_in_the_Netherlands',
     '2004-05-17': 'The first legal same-sex marriage in the United States takes place in Massachusetts. https://www.npr.org/2019/05/17/723649385/the-1st-legally-married-same-sex-couple-wanted-to-lead-by-example',
