@@ -36,6 +36,7 @@ events = {
     # April
     '04-06': 'International Asexuality Day 🖤💜🤍 \n#InternationalAceDay',  # https://internationalasexualityday.org/en/
     '04-15': 'Leonardo da Vinci was an Italian polymath of the High Renaissance. \n #LeonardodaVinciDay', # https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+    '04-18': 'National Transgender HIV Testing Day. \n #NTHTD', #https://www.cdc.gov/hiv/library/awareness/nthtd.html
     '04-26': 'Lesbian Visibility Day 🤎🧡🤍💖',  # https://www.queerevents.ca/notable-lgbtq-dates#lesbianvisibilityday
 
     # May
@@ -74,16 +75,17 @@ events = {
     '10-08': 'International Lesbian Day 🤎🧡🤍💖',  # https://en.wikipedia.org/wiki/List_of_LGBT_awareness_periods
     '10-11': 'National Coming Out Day 🚪',  # http://www.hrc.org/resources/the-history-of-coming-out
     '10-16': 'Oscar Fingal O\'Flahertie Wills Wilde was an Irish poet and playwright. \n #OscarWildeDay', # https://en.wikipedia.org/wiki/Oscar_Wilde
-    '10-20': 'Intersex Awareness Day 💛💜',  # http://intersexday.org/en/intersex-awareness-day/
     '10-22': 'Asexual Awareness Week 🖤💜🤍',  # http://www.asexualawarenessweek.com/index.html
     '10-23': 'Asexual Awareness Week 🖤💜🤍',  # http://www.asexualawarenessweek.com/index.html
     '10-24': 'Asexual Awareness Week 🖤💜🤍',  # http://www.asexualawarenessweek.com/index.html
     '10-25': 'Asexual Awareness Week 🖤💜🤍',  # http://www.asexualawarenessweek.com/index.html
     '10-26': 'Asexual Awareness Week 🖤💜🤍',  # http://www.asexualawarenessweek.com/index.html
+    '10-26': 'Intersex Awareness Day 💛💜',  # http://intersexday.org/en/intersex-awareness-day/
     '10-27': 'Asexual Awareness Week 🖤💜🤍',  # http://www.asexualawarenessweek.com/index.html
     '10-28': 'Asexual Awareness Week 🖤💜🤍',  # http://www.asexualawarenessweek.com/index.html
     '10-29': 'the day for not so regularly scheduled testing in production. \n \nIf you see this, it was a success and we will soon see tweets for remembrance, (inter)national, & Visibility Days/weeks',
     '10-5F': 'a good day for testing yet another feature in production. We now support annual events with variable dates like "5th Friday of October"',
+    '10-3R': 'International Pronouns Day', #https://pronouns.org/day 
 
     # November
     '11-1U': 'Trans Parent Day',  # http://transparentday.org/
