@@ -53,6 +53,7 @@ events = {
     '06-23': 'Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. \n #AlanTuringDay', # https://en.wikipedia.org/wiki/Alan_Turing
 
     # July
+    '07-02': 'Indian Coming Out Day 🇮🇳🏳️‍🌈', #https://en.wikipedia.org/wiki/Indian_Coming_Out_Day
     '07-14': 'International Non-Binary People\'s Day 💛🤍💜🖤',  # https://en.wikipedia.org/wiki/International_Non-Binary_People%27s_Day
     '07-16': 'International Drag Day', # https://en.wikipedia.org/wiki/International_Drag_Day
     '07-31': 'Barbara Gittings was a prominent American activist for LGBT equality. \n #BarbaraGittingsDay', # https://en.wikipedia.org/wiki/Barbara_Gittings
