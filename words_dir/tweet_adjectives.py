@@ -136,6 +136,12 @@ adjectives = [
     'tight',
     'warm',
     'wet',
+    'britstly',
+    'cushiony',
+    'lumpy',
+    'pliable',
+    'scratchy',
+    'woolly',
 
     # appearance
     'beautiful',
@@ -184,6 +190,12 @@ adjectives = [
     'striped',
     'tacky',
     'ugly',
+    'alluring',
+    'attractive',
+    'bizarre',
+    'brooding',
+    'dapper',
+    'drab',
 
     # shapes
     'blobby',
@@ -206,7 +218,16 @@ adjectives = [
     'triangular',
     'vibrant',
     'wonky',
-
+    'convex',
+    'cylindrical',
+    'oblique',
+    'tapered',
+    'zigzag',
+    'oblique',
+    'geometric',
+    'concave',
+    
+    
     # tastes
     'acidic',
     'acrid',
@@ -284,6 +305,14 @@ adjectives = [
     'uproarious',
     'whirling',
     'whistling',
+    'blaring',
+    'booming',
+    'chiming',
+    'clanging',
+    'popping',
+    'rustling',
+    'splasshing',
+    'whirling',
 
     # sizes
     'average',
@@ -416,6 +445,11 @@ adjectives = [
     'teal',
     'turquoise',
     'tuscany',
+    'giant',
+    'oversized',
+    'teeny',
+    'voluminous',
+    'portly',
 
     # cold adjectives
     'algid',
@@ -432,6 +466,11 @@ adjectives = [
     'congealed',
     'cool',
     'cryogenic',
+    'arctic',
+    'frigid',
+    'nippy',
+    'polar',
+    
 
     # warm adjectives
     'balanced',
@@ -446,6 +485,10 @@ adjectives = [
     'moderate',
     'pleasant',
     'even-keel',
+    'balmy',
+    'boiling',
+    'heated',
+    'toasted',
 
     # weather and temperature
     'cloudy',
@@ -460,6 +503,10 @@ adjectives = [
     'stormy',
     'sunny',
     'windy',
+    'drizzly',
+    'clear',
+    'hazy',
+    'muggy',
 
     # adverb and adjective pairs
     'fast asleep',
@@ -469,6 +516,9 @@ adjectives = [
     'very similar',
     'well aware',
     'wide awake',
+    'slightly used',
+    'totally awesome',
+    'fully loaded',
 
     # character traits
     'adventurous',
@@ -514,5 +564,27 @@ adjectives = [
     'tranquil',
     'understanding',
     'weak',
-    'wholesome'
+    'wholesome',
+    'sensible',
+    'sensitive',
+    'subtle',
+    'tenacious',
+    'prudent',
+    
+    # smells
+    'acrid',
+    'earthy',
+    'floral',
+    'fragrant',
+    'gamy',
+    'musty',
+    'smoky',
+    'fresh',
+    'spicy',
+    
+    # time
+    'delayed',
+    'brief',
+    'acient',
+    'expired',
 ]
