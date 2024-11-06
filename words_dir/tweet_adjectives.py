@@ -118,6 +118,7 @@ adjectives = [
     'furry',
     'fuzzy',
     'greasy',
+    'gritty',
     'icy',
     'loose',
     'painful',
@@ -229,6 +230,7 @@ adjectives = [
     'sweet',
     'tangy',
     'tart',
+    'umami'
     'yummy',
 
     # sounds
@@ -323,7 +325,7 @@ adjectives = [
     'measly',
     'microscopic',
     'miniature',
-    'miniscule',
+    'minuscule',
     'minute',
     'narrow',
     'paltry',
@@ -432,6 +434,7 @@ adjectives = [
     'congealed',
     'cool',
     'cryogenic',
+    'biting',
 
     # warm adjectives
     'balanced',
