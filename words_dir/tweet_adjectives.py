@@ -371,6 +371,7 @@ adjectives = [
     'cedar',
     'cerulean',
     'chartreuse',
+    'cobalt',
     'colorful',
     'crimson',
     'cyan',
@@ -380,7 +381,7 @@ adjectives = [
     'emerald',
     'fallow',
     'fawn',
-    'fuschia',
+    'fuchsia',
     'goldenrod',
     'gray',
     'hot pink',
@@ -416,6 +417,7 @@ adjectives = [
     'teal',
     'turquoise',
     'tuscany',
+    'violet',
 
     # cold adjectives
     'algid',
