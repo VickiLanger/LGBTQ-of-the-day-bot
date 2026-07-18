@@ -53,7 +53,7 @@ def write_on_image(text):
     elif(len(text) < 20):
         write_centre(image, text)
     else:
-        # use the python wrap text function to wrap text by words on maximum of 35 charaters.
+        # use the python wrap text function to wrap text by words on maximum of 35 characters.
         wrapped_lines = textwrap.wrap(text, 35)
 
         x, y = font_type.getsize(wrapped_lines[0])

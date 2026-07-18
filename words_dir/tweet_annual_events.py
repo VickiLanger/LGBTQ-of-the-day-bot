@@ -1,5 +1,5 @@
 '''
-tweet_annual_events.py: list of events to be tweeted on their repective date
+tweet_annual_events.py: list of events to be tweeted on their respective date
 28 October 2020
 Vicki Langer (@vicki_langer)
 '''

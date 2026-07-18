@@ -79,7 +79,7 @@ labels = {
     'lithromantic': 'Experiencing romantic attraction without a need or desire for reciprocation.',
     'heteroromantic': 'Romantically attracted to those of the opposite gender.',
     'homoromantic': 'Romantically attracted to those of the same gender.',
-    'hyperromantic': 'One who is extremly romantic.',
+    'hyperromantic': 'One who is extremely romantic.',
     'panromantic': 'Romantically attracted to people regardless of sex or gender identity.',
     'polyromantic': 'Romantically attracted to multiple, but not all genders.',
     'queerplatonic': 'any relationship that bends the rules for telling apart romantic relationships from non-romantic relationship',

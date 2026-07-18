@@ -948,7 +948,7 @@ nouns = [
     'surprise casserole',
     'treadmill, but only for using outside',
     'twitter meme trend',
-    'unintended consequence of a homogenous software engineering team',
+    'unintended consequence of a homogeneous software engineering team',
     'wheelchair-bomb',
     'wrongness parfait',
     'hardware running a cracked girl OS',
